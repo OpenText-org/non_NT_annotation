@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter book="Did" num="11">
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_1" level="primary" connect="Did.c11_1">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1399"/>
+            <cl:A>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1400"/>
+            </cl:A>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1401"/>
+            </pl:conj>
+            <cl:clause id="Did.c11_2" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1402"/>
+                </cl:P>
+            </cl:clause>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1403"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1404"/>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1405"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1406"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1407"/>
+        </cl:C>
+        <cl:A>
+            <cl:clause id="Did.c11_3" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1408"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_4" level="primary" connect="Did.c11_1">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1409"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1410"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_5" level="secondary2" connect="Did.c11_9">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1411"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1412"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1413"/>
+            <cl:clause id="Did.c11_6" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1414"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1415"/>
+                </cl:P>
+            </cl:clause>
+            <cl:clause id="Did.c11_7" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1416"/>
+                </cl:P>
+            </cl:clause>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1417"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1418"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1419"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1420"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1421"/>
+            <cl:clause id="Did.c11_8" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1422"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_9" level="primary" connect="Did.c11_4">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1423"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1424"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1425"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_10" level="primary" connect="Did.c11_9">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1426"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1427"/>
+            </pl:conj>
+            <cl:clause id="Did.c11_11" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1428"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1429"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1430"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1431"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1432"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1433"/>
+                </cl:C>
+            </cl:clause>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1434"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1435"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1436"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1437"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_12" level="primary" connect="Did.c11_10">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1438"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1439"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1440"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1441"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1442"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1443"/>
+        </cl:A>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1444"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1445"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1446"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1447"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1448"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1449"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1450"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_13" level="primary" connect="Did.c11_12">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1451"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1452"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1453"/>
+            <cl:clause id="Did.c11_14" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1454"/>
+                </cl:P>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1455"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1456"/>
+                </cl:A>
+            </cl:clause>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1457"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1458"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1459"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_15" level="primary" connect="Did.c11_13">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1460"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1461"/>
+        </cl:P>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1462"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1463"/>
+        </pl:conj>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1464"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1465"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1466"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_16" level="secondary2" connect="Did.c11_18">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1467"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1468"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1469"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1470"/>
+        </cl:S>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1471"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1472"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1473"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_17" level="secondary2" connect="Did.c11_18">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1474"/>
+        </cl:C>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1475"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1476"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1477"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_18" level="primary" connect="Did.c11_15">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1478"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1479"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_19" level="primary" connect="Did.c11_18">
+        <gloss/>
+        <cl:A>
+            <cl:clause id="Did.c11_20" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1480"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1481"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1482"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1483"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1484"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1485"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_21" level="primary" connect="Did.c11_19">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1486"/>
+        </pl:conj>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1487"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1488"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1489"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1490"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1491"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_22" level="secondary2" connect="Did.c11_23">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1492"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1493"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1494"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1495"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_23" level="primary" connect="Did.c11_21">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1496"/>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1497"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_24" level="primary" connect="Did.c11_23">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1498"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1499"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1500"/>
+            <cl:clause id="Did.c11_25" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1501"/>
+                </cl:P>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1502"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1503"/>
+                </cl:A>
+            </cl:clause>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1504"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1505"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_26" level="primary" connect="Did.c11_24">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1506"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1507"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_27" level="secondary2" connect="Did.c11_26">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1508"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1509"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1510"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1511"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_28" level="primary" connect="Did.c11_26">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1512"/>
+        </cl:C>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1513"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1514"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1515"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1516"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1517"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_29" level="primary" connect="Did.c11_28">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1518"/>
+        </cl:A>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1519"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1520"/>
+            </pl:conj>
+            <cl:clause id="Did.c11_30" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1521"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1522"/>
+                </cl:P>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1523"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1524"/>
+                </cl:A>
+            </cl:clause>
+        </cl:S>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1525"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1526"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_31" level="secondary2" connect="Did.c11_32">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1527"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1528"/>
+        </pl:conj>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_32" level="primary" connect="Did.c11_29">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1529"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1530"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1531"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1532"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_33" level="primary" connect="Did.c11_32">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1533"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1534"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1536"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1535"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1537"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1538"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1539"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1540"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1541"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1542"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_34" level="primary" connect="Did.c11_33">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1543"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1544"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1545"/>
+        </cl:S>
+        <cl:P>
+            <cl:clause id="Did.c11_35" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1546"/>
+                </cl:P>
+            </cl:clause>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1547"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1548"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1549"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_36" level="primary" connect="Did.c11_34">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1550"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1551"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1552"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1553"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_37" level="secondary2" connect="Did.c11_38">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1554"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1555"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1556"/>
+        </pl:conj>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_38" level="primary" connect="Did.c11_36">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1557"/>
+        </cl:C>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1558"/>
+        </pl:conj>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_39" level="secondary2" connect="Did.c11_42">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1559"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1560"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1561"/>
+            <cl:clause id="Did.c11_40" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1562"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1563"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1564"/>
+                </cl:C>
+            </cl:clause>
+        </cl:S>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1565"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1566"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1567"/>
+            <cl:clause id="Did.c11_41" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1568"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1569"/>
+                </cl:P>
+            </cl:clause>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_42" level="primary" connect="Did.c11_38">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1570"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1571"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_43" level="primary" connect="Did.c11_42">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1572"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1573"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1574"/>
+        </cl:S>
+        <cl:P>
+            <cl:clause id="Did.c11_44" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1575"/>
+                </cl:P>
+            </cl:clause>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1576"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_45" level="primary" connect="Did.c11_43">
+        <gloss/>
+        <cl:P>
+            <cl:clause id="Did.c11_46" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1577"/>
+                </cl:P>
+            </cl:clause>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1578"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1579"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1580"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1581"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_47" level="primary" connect="Did.c11_45">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1582"/>
+            <cl:clause id="Did.c11_48" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1583"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1584"/>
+        </pl:conj>
+        <cl:C>
+            <cl:clause id="Did.c11_49" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1585"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1586"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1587"/>
+                </cl:C>
+            </cl:clause>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1588"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_50" level="primary" connect="Did.c11_47">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1589"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1590"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1591"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1592"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_51" level="secondary2" connect="Did.c11_50">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1593"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1594"/>
+        </cl:A>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1595"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1596"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1597"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1598"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_52" level="secondary2" connect="Did.c11_50">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1599"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1600"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1601"/>
+        </cl:P>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1602"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1603"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1604"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1605"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_53" level="primary" connect="Did.c11_50">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1606"/>
+        </cl:S>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1607"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1608"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1609"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1610"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1611"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_54" level="primary" connect="Did.c11_53">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1612"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1613"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1614"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1615"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1616"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1617"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_55" level="primary" connect="Did.c11_54">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1618"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1619"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1620"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_56" level="secondary2" connect="Did.c11_59">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1621"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1622"/>
+        </pl:conj>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1623"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1624"/>
+            <cl:clause id="Did.c11_57" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1625"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1626"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="Did.c11_58" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1627"/>
+                </cl:P>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c11_59" level="primary" connect="Did.c11_55">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1628"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1629"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w1630"/>
+        </cl:P>
+    </cl:clause>
+</chapter>

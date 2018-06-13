@@ -1,0 +1,5712 @@
+<book name="IgEph" >
+    <head >
+        <title >ΠΡΟΣ ΕΦΕΣΙΟΥΣ ΙΓΝΑΤΙΟΣ</title>
+    </head>
+    <chapter num="1" >
+        <verse num="0" >
+            <w id="AF:IgEph.w1" >
+                <wf  ulex="" >Ἰγνάτιος</wf>
+            </w>
+            <w id="AF:IgEph.w2" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w3" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w4" >
+                <wf  ulex="" >Θεοφόρος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w5" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w6" >
+                <wf  ulex="" >εὐλογημένῃ</wf>
+            </w>
+            <w id="AF:IgEph.w7" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w8" >
+                <wf  ulex="" >μεγέθει</wf>
+            </w>
+            <w id="AF:IgEph.w9" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w10" >
+                <wf  ulex="" >πατρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w11" >
+                <wf  ulex="" >πληρώματι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w12" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w13" >
+                <wf  ulex="" >προωρισμένῃ</wf>
+            </w>
+            <w id="AF:IgEph.w14" >
+                <wf  ulex="" >πρὸ</wf>
+            </w>
+            <w id="AF:IgEph.w15" >
+                <wf  ulex="" >αἰώνων</wf>
+            </w>
+            <w id="AF:IgEph.w16" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <w id="AF:IgEph.w17" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w18" >
+                <wf  ulex="" >παντὸς</wf>
+            </w>
+            <w id="AF:IgEph.w19" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w20" >
+                <wf  ulex="" >δόξαν</wf>
+            </w>
+            <w id="AF:IgEph.w21" >
+                <wf  ulex="" >παράμονον</wf>
+            </w>
+            <w id="AF:IgEph.w22" >
+                <wf  ulex="" >ἄτρεπτον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w23" >
+                <wf  ulex="" >ἡνωμένῃ</wf>
+            </w>
+            <w id="AF:IgEph.w24" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w25" >
+                <wf  ulex="" >ἐκλελεγμένῃ</wf>
+            </w>
+            <w id="AF:IgEph.w26" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w27" >
+                <wf  ulex="" >πάθει</wf>
+            </w>
+            <w id="AF:IgEph.w28" >
+                <wf  ulex="" >ἀληθινῷ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w29" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w30" >
+                <wf  ulex="" >θελήματι</wf>
+            </w>
+            <w id="AF:IgEph.w31" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w32" >
+                <wf  ulex="" >πατρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w33" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w34" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w35" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w36" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w37" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w38" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w39" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w40" >
+                <wf  ulex="" >ἐκκλησίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w41" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w42" >
+                <wf  ulex="" >ἀξιομακρίστῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w43" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w44" >
+                <wf  ulex="" >οὔσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w45" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w46" >
+                <wf  ulex="" >Ἐφέσῳ</wf>
+            </w>
+            <w id="AF:IgEph.w47" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w48" >
+                <wf  ulex="" >Ἀσίας</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w49" >
+                <wf  ulex="" >πλεῖστα</wf>
+            </w>
+            <w id="AF:IgEph.w50" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w51" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w52" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <w id="AF:IgEph.w53" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w54" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w55" >
+                <wf  ulex="" >ἀμώμῳ</wf>
+            </w>
+            <w id="AF:IgEph.w56" >
+                <wf  ulex="" >χαρᾷ</wf>
+            </w>
+            <w id="AF:IgEph.w57" >
+                <wf  ulex="" >χαίρειν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="1" >
+            <w id="AF:IgEph.w58" >
+                <wf  ulex="" >Ἀποδεξάμενος</wf>
+            </w>
+            <w id="AF:IgEph.w59" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w60" >
+                <wf  ulex="" >θεῷ</wf>
+            </w>
+            <w id="AF:IgEph.w61" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w62" >
+                <wf  ulex="" >πολθαγάπητόν</wf>
+            </w>
+            <w id="AF:IgEph.w63" >
+                <wf  ulex="" >σου</wf>
+            </w>
+            <w id="AF:IgEph.w64" >
+                <wf  ulex="" >ὀνομα</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w65" >
+                <wf  ulex="" >ὃ</wf>
+            </w>
+            <w id="AF:IgEph.w66" >
+                <wf  ulex="" >κέτησθε</wf>
+            </w>
+            <w id="AF:IgEph.w67" >
+                <wf  ulex="" >φύσει</wf>
+            </w>
+            <w id="AF:IgEph.w68" >
+                <wf  ulex="" >δικαίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w69" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w70" >
+                <wf  ulex="" >πίστιν</wf>
+            </w>
+            <w id="AF:IgEph.w71" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w72" >
+                <wf  ulex="" >ἀγάπην</wf>
+            </w>
+            <w id="AF:IgEph.w73" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w74" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <w id="AF:IgEph.w75" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w76" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w77" >
+                <wf  ulex="" >σωτῆρι</wf>
+            </w>
+            <w id="AF:IgEph.w78" >
+                <wf  ulex="" >ἡμων</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w79" >
+                <wf  ulex="" >μιμηταὶ</wf>
+            </w>
+            <w id="AF:IgEph.w80" >
+                <wf  ulex="" >ὄντες</wf>
+            </w>
+            <w id="AF:IgEph.w81" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w82" >
+                <wf  ulex="" >ἀναζωπυρήσαντες</wf>
+            </w>
+            <w id="AF:IgEph.w83" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w84" >
+                <wf  ulex="" >αἵματι</wf>
+            </w>
+            <w id="AF:IgEph.w85" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w86" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w87" >
+                <wf  ulex="" >συγγενικὸν</wf>
+            </w>
+            <w id="AF:IgEph.w88" >
+                <wf  ulex="" >ἔργον</wf>
+            </w>
+            <w id="AF:IgEph.w89" >
+                <wf  ulex="" >τελείως</wf>
+            </w>
+            <w id="AF:IgEph.w90" >
+                <wf  ulex="" >ἀπηρτίσατε</wf>
+            </w>
+            <punc >·</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w91" >
+                <wf  ulex="" >ακούσαντες</wf>
+            </w>
+            <w id="AF:IgEph.w92" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w93" >
+                <wf  ulex="" >δεδεμένον</wf>
+            </w>
+            <w id="AF:IgEph.w94" >
+                <wf  ulex="" >ἀπὸ</wf>
+            </w>
+            <w id="AF:IgEph.w95" >
+                <wf  ulex="" >Συρίας</wf>
+            </w>
+            <w id="AF:IgEph.w96" >
+                <wf  ulex="" >ὑπὲρ</wf>
+            </w>
+            <w id="AF:IgEph.w97" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w98" >
+                <wf  ulex="" >κοινοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w99" >
+                <wf  ulex="" >ὀνόματος</wf>
+            </w>
+            <w id="AF:IgEph.w100" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w101" >
+                <wf  ulex="" >ἐλπίδος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w102" >
+                <wf  ulex="" >ἐλπίζοντα</wf>
+            </w>
+            <w id="AF:IgEph.w103" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w104" >
+                <wf  ulex="" >προσευχῇ</wf>
+            </w>
+            <w id="AF:IgEph.w105" >
+                <wf  ulex="" >ὑμων</wf>
+            </w>
+            <w id="AF:IgEph.w106" >
+                <wf  ulex="" >ἐπιτυχεῖν</wf>
+            </w>
+            <w id="AF:IgEph.w107" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w108" >
+                <wf  ulex="" >῾Ρώμῃ</wf>
+            </w>
+            <w id="AF:IgEph.w109" >
+                <wf  ulex="" >θηριομαχῆσαι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w110" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w111" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w112" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w113" >
+                <wf  ulex="" >ἐπιτυχεῖν</wf>
+            </w>
+            <w id="AF:IgEph.w114" >
+                <wf  ulex="" >δυνηθῶ</wf>
+            </w>
+            <w id="AF:IgEph.w115" >
+                <wf  ulex="" >μαθητὴς</wf>
+            </w>
+            <w id="AF:IgEph.w116" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w117" >
+                <wf  ulex="" >ἰδεῖν</wf>
+            </w>
+            <w id="AF:IgEph.w118" >
+                <wf  ulex="" >ἐσπουδάσατε</wf>
+            </w>
+            <punc >·</punc>
+        </verse>
+        <verse num="3" >
+            <w id="AF:IgEph.w119" >
+                <wf  ulex="" >ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgEph.w120" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w121" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w122" >
+                <wf  ulex="" >πολυπλήθειαν</wf>
+            </w>
+            <w id="AF:IgEph.w123" >
+                <wf  ulex="" >ὑμων</wf>
+            </w>
+            <w id="AF:IgEph.w124" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w125" >
+                <wf  ulex="" >ὀνόματι</wf>
+            </w>
+            <w id="AF:IgEph.w126" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w127" >
+                <wf  ulex="" >ἀπείληφα</wf>
+            </w>
+            <w id="AF:IgEph.w128" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w129" >
+                <wf  ulex="" >Ὀνησίμῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w130" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w131" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w132" >
+                <wf  ulex="" >ἀγάπῃ</wf>
+            </w>
+            <w id="AF:IgEph.w133" >
+                <wf  ulex="" >ἀδιηγήτῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w134" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w135" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w136" >
+                <wf  ulex="" >ἐπισκόπῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w137" >
+                <wf  ulex="" >ὃν</wf>
+            </w>
+            <w id="AF:IgEph.w138" >
+                <wf  ulex="" >εὔχομαι</wf>
+            </w>
+            <w id="AF:IgEph.w139" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w140" >
+                <wf  ulex="" >Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgEph.w141" >
+                <wf  ulex="" >Χριστὸν</wf>
+            </w>
+            <w id="AF:IgEph.w142" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w143" >
+                <wf  ulex="" >ἀγαπᾶν</wf>
+            </w>
+            <w id="AF:IgEph.w144" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w145" >
+                <wf  ulex="" >πάντας</wf>
+            </w>
+            <w id="AF:IgEph.w146" >
+                <wf  ulex="" >ὑμας</wf>
+            </w>
+            <w id="AF:IgEph.w147" >
+                <wf  ulex="" >αὐγῷ</wf>
+            </w>
+            <w id="AF:IgEph.w148" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w149" >
+                <wf  ulex="" >ὁμοιότητι</wf>
+            </w>
+            <w id="AF:IgEph.w150" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w151" >
+                <wf  ulex="" >εὐλογητὸς</wf>
+            </w>
+            <w id="AF:IgEph.w152" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w153" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w154" >
+                <wf  ulex="" >χαρισάμενος</wf>
+            </w>
+            <w id="AF:IgEph.w155" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w156" >
+                <wf  ulex="" >ἀξίοις</wf>
+            </w>
+            <w id="AF:IgEph.w157" >
+                <wf  ulex="" >οὖσι</wf>
+            </w>
+            <w id="AF:IgEph.w158" >
+                <wf  ulex="" >τοιοῦτον</wf>
+            </w>
+            <w id="AF:IgEph.w159" >
+                <wf  ulex="" >ἐπίσκοπον</wf>
+            </w>
+            <w id="AF:IgEph.w160" >
+                <wf  ulex="" >κεκτῆσθαι</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="2" >
+        <verse num="1" >
+            <w id="AF:IgEph.w161" >
+                <wf  ulex="" >Περὶ</wf>
+            </w>
+            <w id="AF:IgEph.w162" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w163" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w164" >
+                <wf  ulex="" >συνδούλου</wf>
+            </w>
+            <w id="AF:IgEph.w165" >
+                <wf  ulex="" >μου</wf>
+            </w>
+            <w id="AF:IgEph.w166" >
+                <wf  ulex="" >Βούρρου</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w167" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w168" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w169" >
+                <wf  ulex="" >θεὸν</wf>
+            </w>
+            <w id="AF:IgEph.w170" >
+                <wf  ulex="" >διακόνου</wf>
+            </w>
+            <w id="AF:IgEph.w171" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w172" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w173" >
+                <wf  ulex="" >πᾶσιν</wf>
+            </w>
+            <w id="AF:IgEph.w174" >
+                <wf  ulex="" >εὐλογημένου</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w175" >
+                <wf  ulex="" >εὔχομαι</wf>
+            </w>
+            <w id="AF:IgEph.w176" >
+                <wf  ulex="" >παραμεῖναι</wf>
+            </w>
+            <w id="AF:IgEph.w177" >
+                <wf  ulex="" >αὐτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w178" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w179" >
+                <wf  ulex="" >τιμὴν</wf>
+            </w>
+            <w id="AF:IgEph.w180" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w181" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w182" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w183" >
+                <wf  ulex="" >ἐπισκόπου</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w184" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w185" >
+                <wf  ulex="" >Κρόκος</wf>
+            </w>
+            <w id="AF:IgEph.w186" >
+                <wf  ulex="" >δέ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w187" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w188" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w189" >
+                <wf  ulex="" >ἄξιος</wf>
+            </w>
+            <w id="AF:IgEph.w190" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w191" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w192" >
+                <wf  ulex="" >ὃν</wf>
+            </w>
+            <w id="AF:IgEph.w193" >
+                <wf  ulex="" >ἐξεμπλάριον</wf>
+            </w>
+            <w id="AF:IgEph.w194" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w195" >
+                <wf  ulex="" >ἀφ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w196" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w197" >
+                <wf  ulex="" >ἀγάπης</wf>
+            </w>
+            <w id="AF:IgEph.w198" >
+                <wf  ulex="" >ἀπέλαβον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w199" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w200" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w201" >
+                <wf  ulex="" >με</wf>
+            </w>
+            <w id="AF:IgEph.w202" >
+                <wf  ulex="" >ἀνέπαυσεν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w203" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w204" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w205" >
+                <wf  ulex="" >αὐτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w206" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w207" >
+                <wf  ulex="" >πατὴρ</wf>
+            </w>
+            <w id="AF:IgEph.w208" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w209" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w210" >
+                <wf  ulex="" >ἀναψύξαι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w211" >
+                <wf  ulex="" >ἁμα</wf>
+            </w>
+            <w id="AF:IgEph.w212" >
+                <wf  ulex="" >Ὀνησίμῳ</wf>
+            </w>
+            <w id="AF:IgEph.w213" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w214" >
+                <wf  ulex="" >Βούρρῳ</wf>
+            </w>
+            <w id="AF:IgEph.w215" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w216" >
+                <wf  ulex="" >Εὔπλῳ</wf>
+            </w>
+            <w id="AF:IgEph.w217" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w218" >
+                <wf  ulex="" >Φρόντωνι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w219" >
+                <wf  ulex="" >δι᾽</wf>
+            </w>
+            <w id="AF:IgEph.w220" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w221" >
+                <wf  ulex="" >πάντας</wf>
+            </w>
+            <w id="AF:IgEph.w222" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w223" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w224" >
+                <wf  ulex="" >ἀγάπην</wf>
+            </w>
+            <w id="AF:IgEph.w225" >
+                <wf  ulex="" >εἶδον</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w226" >
+                <wf  ulex="" >ὀναίμην</wf>
+            </w>
+            <w id="AF:IgEph.w227" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w228" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w229" >
+                <wf  ulex="" >παντός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w230" >
+                <wf  ulex="" >ἐάνπερ</wf>
+            </w>
+            <w id="AF:IgEph.w231" >
+                <wf  ulex="" >ἄξιος</wf>
+            </w>
+            <w id="AF:IgEph.w232" >
+                <wf  ulex="" >ὦ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w233" >
+                <wf  ulex="" >πρέπον</wf>
+            </w>
+            <w id="AF:IgEph.w234" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w235" >
+                <wf  ulex="" >ἐστὶν</wf>
+            </w>
+            <w id="AF:IgEph.w236" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w237" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w238" >
+                <wf  ulex="" >τρόπον</wf>
+            </w>
+            <w id="AF:IgEph.w239" >
+                <wf  ulex="" >δοξάζειν</wf>
+            </w>
+            <w id="AF:IgEph.w240" >
+                <wf  ulex="" >Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgEph.w241" >
+                <wf  ulex="" >Χριστὸν</wf>
+            </w>
+            <w id="AF:IgEph.w242" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w243" >
+                <wf  ulex="" >δοξάσαντα</wf>
+            </w>
+            <w id="AF:IgEph.w244" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w245" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w246" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w247" >
+                <wf  ulex="" >μιᾷ</wf>
+            </w>
+            <w id="AF:IgEph.w248" >
+                <wf  ulex="" >ὑποταγῇ</wf>
+            </w>
+            <w id="AF:IgEph.w249" >
+                <wf  ulex="" >κατηρτισμένοι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w250" >
+                <wf  ulex="" >ὑποτασσόμενοι</wf>
+            </w>
+            <w id="AF:IgEph.w251" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w252" >
+                <wf  ulex="" >ἐπισκόπῳ</wf>
+            </w>
+            <w id="AF:IgEph.w253" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w254" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w255" >
+                <wf  ulex="" >πρεσβυτερίῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w256" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w257" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w258" >
+                <wf  ulex="" >ἦτε</wf>
+            </w>
+            <w id="AF:IgEph.w259" >
+                <wf  ulex="" >ἡγιασμένοι</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="3" >
+        <verse num="1" >
+            <w id="AF:IgEph.w260" >
+                <wf  ulex="" >Οὐ</wf>
+            </w>
+            <w id="AF:IgEph.w261" >
+                <wf  ulex="" >διατάσσομαι</wf>
+            </w>
+            <w id="AF:IgEph.w262" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w263" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w264" >
+                <wf  ulex="" >τις</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w265" >
+                <wf  ulex="" >εἰ</wf>
+            </w>
+            <w id="AF:IgEph.w266" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w267" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w268" >
+                <wf  ulex="" >δέδεμαι</wf>
+            </w>
+            <w id="AF:IgEph.w269" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w270" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w271" >
+                <wf  ulex="" >ὀνόματι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w272" >
+                <wf  ulex="" >οὔπω</wf>
+            </w>
+            <w id="AF:IgEph.w273" >
+                <wf  ulex="" >ἀπήρτισμαι</wf>
+            </w>
+            <w id="AF:IgEph.w274" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w275" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w276" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w277" >
+                <wf  ulex="" >νῦν</wf>
+            </w>
+            <w id="AF:IgEph.w278" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w279" >
+                <wf  ulex="" >ἀρχὴν</wf>
+            </w>
+            <w id="AF:IgEph.w280" >
+                <wf  ulex="" >ἔχω</wf>
+            </w>
+            <w id="AF:IgEph.w281" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w282" >
+                <wf  ulex="" >μαθητεύεσθαι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w283" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w284" >
+                <wf  ulex="" >προσλαλῶ</wf>
+            </w>
+            <w id="AF:IgEph.w285" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w286" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w287" >
+                <wf  ulex="" >συνδιδασκαλίταις</wf>
+            </w>
+            <w id="AF:IgEph.w288" >
+                <wf  ulex="" >μου</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w289" >
+                <wf  ulex="" >ἐμὲ</wf>
+            </w>
+            <w id="AF:IgEph.w290" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w291" >
+                <wf  ulex="" >ἔδει</wf>
+            </w>
+            <w id="AF:IgEph.w292" >
+                <wf  ulex="" >ὑφ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w293" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w294" >
+                <wf  ulex="" >ὑπαλειφθῆναι</wf>
+            </w>
+            <w id="AF:IgEph.w295" >
+                <wf  ulex="" >πίστει</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w296" >
+                <wf  ulex="" >νουθεσίᾳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w297" >
+                <wf  ulex="" >ὑπομονῇ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w298" >
+                <wf  ulex="" >μακροθυμίᾳ</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w299" >
+                <wf  ulex="" >ἀλλ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w300" >
+                <wf  ulex="" >ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgEph.w301" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w302" >
+                <wf  ulex="" >ἀγάπη</wf>
+            </w>
+            <w id="AF:IgEph.w303" >
+                <wf  ulex="" >οὐκ</wf>
+            </w>
+            <w id="AF:IgEph.w304" >
+                <wf  ulex="" >ἐᾷ</wf>
+            </w>
+            <w id="AF:IgEph.w305" >
+                <wf  ulex="" >με</wf>
+            </w>
+            <w id="AF:IgEph.w306" >
+                <wf  ulex="" >σιωπᾶν</wf>
+            </w>
+            <w id="AF:IgEph.w307" >
+                <wf  ulex="" >περὶ</wf>
+            </w>
+            <w id="AF:IgEph.w308" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w309" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w310" >
+                <wf  ulex="" >τοῦτο</wf>
+            </w>
+            <w id="AF:IgEph.w311" >
+                <wf  ulex="" >προέλαβον</wf>
+            </w>
+            <w id="AF:IgEph.w312" >
+                <wf  ulex="" >παρακαλεῖν</wf>
+            </w>
+            <w id="AF:IgEph.w313" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w314" >
+                <wf  ulex="" >ὅπως</wf>
+            </w>
+            <w id="AF:IgEph.w315" >
+                <wf  ulex="" >συντρέχητε</wf>
+            </w>
+            <w id="AF:IgEph.w316" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w317" >
+                <wf  ulex="" >γνώμῃ</wf>
+            </w>
+            <w id="AF:IgEph.w318" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w319" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w320" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w321" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w322" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w323" >
+                <wf  ulex="" >Χριστός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w324" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w325" >
+                <wf  ulex="" >ἀδιάκριτον</wf>
+            </w>
+            <w id="AF:IgEph.w326" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w327" >
+                <wf  ulex="" >ζῆν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w328" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w329" >
+                <wf  ulex="" >πατρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w330" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w331" >
+                <wf  ulex="" >γνώμη</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w332" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w333" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w334" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w335" >
+                <wf  ulex="" >ἐπίσκοποι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w336" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w337" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w338" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w339" >
+                <wf  ulex="" >πέρατα</wf>
+            </w>
+            <w id="AF:IgEph.w340" >
+                <wf  ulex="" >ὁρισθέντες</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w341" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w342" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w343" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w344" >
+                <wf  ulex="" >γνώμῃ</wf>
+            </w>
+            <w id="AF:IgEph.w345" >
+                <wf  ulex="" >εἰσίν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="4" >
+        <verse num="1" >
+            <w id="AF:IgEph.w346" >
+                <wf  ulex="" >ὅθεν</wf>
+            </w>
+            <w id="AF:IgEph.w347" >
+                <wf  ulex="" >πρέπει</wf>
+            </w>
+            <w id="AF:IgEph.w348" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w349" >
+                <wf  ulex="" >συντρέχειν</wf>
+            </w>
+            <w id="AF:IgEph.w350" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w351" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w352" >
+                <wf  ulex="" >ἐπισκόπου</wf>
+            </w>
+            <w id="AF:IgEph.w353" >
+                <wf  ulex="" >γνώμῃ</wf>
+            </w>
+            <w id="AF:IgEph.w354" >
+                <wf  ulex="" >ὅπερ</wf>
+            </w>
+            <w id="AF:IgEph.w355" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w356" >
+                <wf  ulex="" >ποιεῖτε</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w357" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w358" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w359" >
+                <wf  ulex="" >ἀξιονόμαστον</wf>
+            </w>
+            <w id="AF:IgEph.w360" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w361" >
+                <wf  ulex="" >πρεσβυτέριον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w362" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w363" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w364" >
+                <wf  ulex="" >ἄξιον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w365" >
+                <wf  ulex="" >οὕτως</wf>
+            </w>
+            <w id="AF:IgEph.w366" >
+                <wf  ulex="" >συνήρμοσται</wf>
+            </w>
+            <w id="AF:IgEph.w367" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w368" >
+                <wf  ulex="" >ἐπισκόπῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w369" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w370" >
+                <wf  ulex="" >χορδαὶ</wf>
+            </w>
+            <w id="AF:IgEph.w371" >
+                <wf  ulex="" >κιθάρᾳ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w372" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w373" >
+                <wf  ulex="" >τοῦτο</wf>
+            </w>
+            <w id="AF:IgEph.w374" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w375" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w376" >
+                <wf  ulex="" >ὁμονοίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w377" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w378" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w379" >
+                <wf  ulex="" >συμφώνῳ</wf>
+            </w>
+            <w id="AF:IgEph.w380" >
+                <wf  ulex="" >ἀγάπῃ</wf>
+            </w>
+            <w id="AF:IgEph.w381" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w382" >
+                <wf  ulex="" >Χριστὸς</wf>
+            </w>
+            <w id="AF:IgEph.w383" >
+                <wf  ulex="" >ἄδεται</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w384" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w385" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w386" >
+                <wf  ulex="" >κατ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w387" >
+                <wf  ulex="" >ἄνδρα</wf>
+            </w>
+            <w id="AF:IgEph.w388" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w389" >
+                <wf  ulex="" >χορὸς</wf>
+            </w>
+            <w id="AF:IgEph.w390" >
+                <wf  ulex="" >γίνεθε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w391" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w392" >
+                <wf  ulex="" >σύμωνοι</wf>
+            </w>
+            <w id="AF:IgEph.w393" >
+                <wf  ulex="" >ὄντες</wf>
+            </w>
+            <w id="AF:IgEph.w394" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w395" >
+                <wf  ulex="" >ὁμονοίᾳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w396" >
+                <wf  ulex="" >χρῶμα</wf>
+            </w>
+            <w id="AF:IgEph.w397" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w398" >
+                <wf  ulex="" >λαβόντες</wf>
+            </w>
+            <w id="AF:IgEph.w399" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w400" >
+                <wf  ulex="" >ἑνότητι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w401" >
+                <wf  ulex="" >ᾄδητε</wf>
+            </w>
+            <w id="AF:IgEph.w402" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w403" >
+                <wf  ulex="" >φωνῇ</wf>
+            </w>
+            <w id="AF:IgEph.w404" >
+                <wf  ulex="" >μιᾷ</wf>
+            </w>
+            <w id="AF:IgEph.w405" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w406" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w407" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w408" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w409" >
+                <wf  ulex="" >πατρί</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w410" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w411" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w412" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w413" >
+                <wf  ulex="" >ἀκούσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w414" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w415" >
+                <wf  ulex="" >ἐπιγινώσκῃ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w416" >
+                <wf  ulex="" >δι᾽</wf>
+            </w>
+            <w id="AF:IgEph.w417" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w418" >
+                <wf  ulex="" >εὖ</wf>
+            </w>
+            <w id="AF:IgEph.w419" >
+                <wf  ulex="" >πράσσετε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w420" >
+                <wf  ulex="" >μέλη</wf>
+            </w>
+            <w id="AF:IgEph.w421" >
+                <wf  ulex="" >ὄντας</wf>
+            </w>
+            <w id="AF:IgEph.w422" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w423" >
+                <wf  ulex="" >υἱοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w424" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w425" >
+                <wf  ulex="" >χρήσιμον</wf>
+            </w>
+            <w id="AF:IgEph.w426" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w427" >
+                <wf  ulex="" >ἐστὶν</wf>
+            </w>
+            <w id="AF:IgEph.w428" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w429" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w430" >
+                <wf  ulex="" >ἀμώμῳ</wf>
+            </w>
+            <w id="AF:IgEph.w431" >
+                <wf  ulex="" >ἑνότητι</wf>
+            </w>
+            <w id="AF:IgEph.w432" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w433" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w434" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w435" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w436" >
+                <wf  ulex="" >πάντοτε</wf>
+            </w>
+            <w id="AF:IgEph.w437" >
+                <wf  ulex="" >μετέχητε</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="5" >
+        <verse num="1" >
+            <w id="AF:IgEph.w438" >
+                <wf  ulex="" >Εἰ</wf>
+            </w>
+            <w id="AF:IgEph.w439" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w440" >
+                <wf  ulex="" >ἐγὼ</wf>
+            </w>
+            <w id="AF:IgEph.w441" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w442" >
+                <wf  ulex="" >μικρῷ</wf>
+            </w>
+            <w id="AF:IgEph.w443" >
+                <wf  ulex="" >χρόνῳ</wf>
+            </w>
+            <w id="AF:IgEph.w444" >
+                <wf  ulex="" >τοιαύτην</wf>
+            </w>
+            <w id="AF:IgEph.w445" >
+                <wf  ulex="" >συνήθειαν</wf>
+            </w>
+            <w id="AF:IgEph.w446" >
+                <wf  ulex="" >ἔσχον</wf>
+            </w>
+            <w id="AF:IgEph.w447" >
+                <wf  ulex="" >πρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w448" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w449" >
+                <wf  ulex="" >ἐπίσκοπον</wf>
+            </w>
+            <w id="AF:IgEph.w450" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w451" >
+                <wf  ulex="" >οὐκ</wf>
+            </w>
+            <w id="AF:IgEph.w452" >
+                <wf  ulex="" >ἀνθρωπίνην</wf>
+            </w>
+            <w id="AF:IgEph.w453" >
+                <wf  ulex="" >οὖσαν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w454" >
+                <wf  ulex="" >ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgEph.w455" >
+                <wf  ulex="" >πνευματικήν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w456" >
+                <wf  ulex="" >πόσῳ</wf>
+            </w>
+            <w id="AF:IgEph.w457" >
+                <wf  ulex="" >μᾶλλον</wf>
+            </w>
+            <w id="AF:IgEph.w458" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w459" >
+                <wf  ulex="" >μακαρίζω</wf>
+            </w>
+            <w id="AF:IgEph.w460" >
+                <wf  ulex="" >τοὺς</wf>
+            </w>
+            <w id="AF:IgEph.w461" >
+                <wf  ulex="" >ἐγκεκραμένους</wf>
+            </w>
+            <w id="AF:IgEph.w462" >
+                <wf  ulex="" >οὕτως</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w463" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w464" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w465" >
+                <wf  ulex="" >ἐκκλησία</wf>
+            </w>
+            <w id="AF:IgEph.w466" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w467" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w468" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w469" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w470" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w471" >
+                <wf  ulex="" >Χριστὸς</wf>
+            </w>
+            <w id="AF:IgEph.w472" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w473" >
+                <wf  ulex="" >πατρί</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w474" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w475" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w476" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w477" >
+                <wf  ulex="" >ἑνότητι</wf>
+            </w>
+            <w id="AF:IgEph.w478" >
+                <wf  ulex="" >σύμφωνα</wf>
+            </w>
+            <w id="AF:IgEph.w479" >
+                <wf  ulex="" >ῇ;</wf>
+            </w>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w480" >
+                <wf  ulex="" >μηδεὶς</wf>
+            </w>
+            <w id="AF:IgEph.w481" >
+                <wf  ulex="" >πλανάσθω</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w482" >
+                <wf  ulex="" >ἐὰν</wf>
+            </w>
+            <w id="AF:IgEph.w483" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w484" >
+                <wf  ulex="" >τις</wf>
+            </w>
+            <w id="AF:IgEph.w485" >
+                <wf  ulex="" >ᾖ</wf>
+            </w>
+            <w id="AF:IgEph.w486" >
+                <wf  ulex="" >ἐντος</wf>
+            </w>
+            <w id="AF:IgEph.w487" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w488" >
+                <wf  ulex="" >θυσιαστηρίου</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w489" >
+                <wf  ulex="" >ὑστερεῖται</wf>
+            </w>
+            <w id="AF:IgEph.w490" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w491" >
+                <wf  ulex="" >ἄρτου</wf>
+            </w>
+            <w id="AF:IgEph.w492" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w493" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w494" >
+                <wf  ulex="" >εἰ</wf>
+            </w>
+            <w id="AF:IgEph.w495" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w496" >
+                <wf  ulex="" >ἑνὸς</wf>
+            </w>
+            <w id="AF:IgEph.w497" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w498" >
+                <wf  ulex="" >δευτέρου</wf>
+            </w>
+            <w id="AF:IgEph.w499" >
+                <wf  ulex="" >προσευχὴ</wf>
+            </w>
+            <w id="AF:IgEph.w500" >
+                <wf  ulex="" >τοσαύτην</wf>
+            </w>
+            <w id="AF:IgEph.w501" >
+                <wf  ulex="" >ἰσχὺν</wf>
+            </w>
+            <w id="AF:IgEph.w502" >
+                <wf  ulex="" >ἔχει</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w503" >
+                <wf  ulex="" >πόσῳ</wf>
+            </w>
+            <w id="AF:IgEph.w504" >
+                <wf  ulex="" >μᾶλλον</wf>
+            </w>
+            <w id="AF:IgEph.w505" >
+                <wf  ulex="" >ἥ</wf>
+            </w>
+            <w id="AF:IgEph.w506" >
+                <wf  ulex="" >τε</wf>
+            </w>
+            <w id="AF:IgEph.w507" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w508" >
+                <wf  ulex="" >ἐπισκόπου</wf>
+            </w>
+            <w id="AF:IgEph.w509" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w510" >
+                <wf  ulex="" >πάσης</wf>
+            </w>
+            <w id="AF:IgEph.w511" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w512" >
+                <wf  ulex="" >ἐκκλησίας;</wf>
+            </w>
+        </verse>
+        <verse num="3" >
+            <w id="AF:IgEph.w513" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w514" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w515" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w516" >
+                <wf  ulex="" >ἐρχομενος</wf>
+            </w>
+            <w id="AF:IgEph.w517" >
+                <wf  ulex="" >ἐπί</wf>
+            </w>
+            <w id="AF:IgEph.w518" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w519" >
+                <wf  ulex="" >αὐτὸ</wf>
+            </w>
+            <w id="AF:IgEph.w520" >
+                <wf  ulex="" >οὗτος</wf>
+            </w>
+            <w id="AF:IgEph.w521" >
+                <wf  ulex="" >ἤδη</wf>
+            </w>
+            <w id="AF:IgEph.w522" >
+                <wf  ulex="" >ὑπερηφανει</wf>
+            </w>
+            <w id="AF:IgEph.w523" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w524" >
+                <wf  ulex="" >ἑαυτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w525" >
+                <wf  ulex="" >διέκρινεν</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w526" >
+                <wf  ulex="" >γέγραπται</wf>
+            </w>
+            <w id="AF:IgEph.w527" >
+                <wf  ulex="" >γάρ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w528" >
+                <wf  ulex="" >Ὑπερηφάνοις</wf>
+            </w>
+            <w id="AF:IgEph.w529" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w530" >
+                <wf  ulex="" >θεὸς</wf>
+            </w>
+            <w id="AF:IgEph.w531" >
+                <wf  ulex="" >ἀντιτάσσεται</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w532" >
+                <wf  ulex="" >σπουδάσωμεν</wf>
+            </w>
+            <w id="AF:IgEph.w533" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w534" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w535" >
+                <wf  ulex="" >ἀντιτάσσεσθαι</wf>
+            </w>
+            <w id="AF:IgEph.w536" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w537" >
+                <wf  ulex="" >ἐπι-σκόπῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w538" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w539" >
+                <wf  ulex="" >ὦμεν</wf>
+            </w>
+            <w id="AF:IgEph.w540" >
+                <wf  ulex="" >θεῷ</wf>
+            </w>
+            <w id="AF:IgEph.w541" >
+                <wf  ulex="" >ὑποτασσόμενοι</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="6" >
+        <verse num="1" >
+            <w id="AF:IgEph.w542" >
+                <wf  ulex="" >Καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w543" >
+                <wf  ulex="" >ὅσον</wf>
+            </w>
+            <w id="AF:IgEph.w544" >
+                <wf  ulex="" >βλέπει</wf>
+            </w>
+            <w id="AF:IgEph.w545" >
+                <wf  ulex="" >τις</wf>
+            </w>
+            <w id="AF:IgEph.w546" >
+                <wf  ulex="" >σιγῶντα</wf>
+            </w>
+            <w id="AF:IgEph.w547" >
+                <wf  ulex="" >ἐπίσκοπον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w548" >
+                <wf  ulex="" >πλειόνως</wf>
+            </w>
+            <w id="AF:IgEph.w549" >
+                <wf  ulex="" >αὐτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w550" >
+                <wf  ulex="" >φοβείσθω</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w551" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w552" >
+                <wf  ulex="" >γάρ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w553" >
+                <wf  ulex="" >ὃν</wf>
+            </w>
+            <w id="AF:IgEph.w554" >
+                <wf  ulex="" >πέμπει</wf>
+            </w>
+            <w id="AF:IgEph.w555" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w556" >
+                <wf  ulex="" >οἰκοδεσπότης</wf>
+            </w>
+            <w id="AF:IgEph.w557" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w558" >
+                <wf  ulex="" >ἰδίαν</wf>
+            </w>
+            <w id="AF:IgEph.w559" >
+                <wf  ulex="" >οἰκονομίαν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w560" >
+                <wf  ulex="" >οὕτως</wf>
+            </w>
+            <w id="AF:IgEph.w561" >
+                <wf  ulex="" >δεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w562" >
+                <wf  ulex="" >ἡμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w563" >
+                <wf  ulex="" >αὐτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w564" >
+                <wf  ulex="" >δέχεχθαι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w565" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w566" >
+                <wf  ulex="" >αὐτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w567" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w568" >
+                <wf  ulex="" >πέμψαντα</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w569" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w570" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w571" >
+                <wf  ulex="" >ἐπίσκοπον</wf>
+            </w>
+            <w id="AF:IgEph.w572" >
+                <wf  ulex="" >δῆλον</wf>
+            </w>
+            <w id="AF:IgEph.w573" >
+                <wf  ulex="" >ὅτι</wf>
+            </w>
+            <w id="AF:IgEph.w574" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w575" >
+                <wf  ulex="" >αὐτὸν</wf>
+            </w>
+            <w id="AF:IgEph.w576" >
+                <wf  ulex="" >κύριον</wf>
+            </w>
+            <w id="AF:IgEph.w577" >
+                <wf  ulex="" >δεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w578" >
+                <wf  ulex="" >προσβλέπειν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w579" >
+                <wf  ulex="" >αὐτὸς</wf>
+            </w>
+            <w id="AF:IgEph.w580" >
+                <wf  ulex="" >μὲν</wf>
+            </w>
+            <w id="AF:IgEph.w581" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w582" >
+                <wf  ulex="" >Ὀνήσιμος</wf>
+            </w>
+            <w id="AF:IgEph.w583" >
+                <wf  ulex="" >ὑπερ-επαινεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w584" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w585" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w586" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w587" >
+                <wf  ulex="" >θεῷ</wf>
+            </w>
+            <w id="AF:IgEph.w588" >
+                <wf  ulex="" >εὐταξίαν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w589" >
+                <wf  ulex="" >ὅτι</wf>
+            </w>
+            <w id="AF:IgEph.w590" >
+                <wf  ulex="" >πάντες</wf>
+            </w>
+            <w id="AF:IgEph.w591" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w592" >
+                <wf  ulex="" >ἀλήθειαν</wf>
+            </w>
+            <w id="AF:IgEph.w593" >
+                <wf  ulex="" >ζῆτε</wf>
+            </w>
+            <w id="AF:IgEph.w594" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w595" >
+                <wf  ulex="" >ὅτι</wf>
+            </w>
+            <w id="AF:IgEph.w596" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w597" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w598" >
+                <wf  ulex="" >οὐδεμία</wf>
+            </w>
+            <w id="AF:IgEph.w599" >
+                <wf  ulex="" >αἴρεσις</wf>
+            </w>
+            <w id="AF:IgEph.w600" >
+                <wf  ulex="" >καοικεῖ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w601" >
+                <wf  ulex="" >ἀλλ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w602" >
+                <wf  ulex="" >οὐδὲ</wf>
+            </w>
+            <w id="AF:IgEph.w603" >
+                <wf  ulex="" >ἀκούετέ</wf>
+            </w>
+            <w id="AF:IgEph.w604" >
+                <wf  ulex="" >τινος</wf>
+            </w>
+            <w id="AF:IgEph.w605" >
+                <wf  ulex="" >πλέον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w606" >
+                <wf  ulex="" >ἢ</wf>
+            </w>
+            <w id="AF:IgEph.w607" >
+                <wf  ulex="" >περὶ</wf>
+            </w>
+            <w id="AF:IgEph.w608" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w609" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w610" >
+                <wf  ulex="" >λαλοῦντος</wf>
+            </w>
+            <w id="AF:IgEph.w611" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w612" >
+                <wf  ulex="" >ἀληθείᾳ</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="7" >
+        <verse num="1" >
+            <w id="AF:IgEph.w613" >
+                <wf  ulex="" >Εἰώθασιν</wf>
+            </w>
+            <w id="AF:IgEph.w614" >
+                <wf  ulex="" >γάρ</wf>
+            </w>
+            <w id="AF:IgEph.w615" >
+                <wf  ulex="" >τινες</wf>
+            </w>
+            <w id="AF:IgEph.w616" >
+                <wf  ulex="" >δόλῳ</wf>
+            </w>
+            <w id="AF:IgEph.w617" >
+                <wf  ulex="" >πονηρῷ</wf>
+            </w>
+            <w id="AF:IgEph.w618" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w619" >
+                <wf  ulex="" >ὄνομα</wf>
+            </w>
+            <w id="AF:IgEph.w620" >
+                <wf  ulex="" >περιφέρειν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w621" >
+                <wf  ulex="" >ἄλλα</wf>
+            </w>
+            <w id="AF:IgEph.w622" >
+                <wf  ulex="" >τινὰ</wf>
+            </w>
+            <w id="AF:IgEph.w623" >
+                <wf  ulex="" >πράσσοντες</wf>
+            </w>
+            <w id="AF:IgEph.w624" >
+                <wf  ulex="" >ἀνάξια</wf>
+            </w>
+            <w id="AF:IgEph.w625" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w626" >
+                <wf  ulex="" >οὒς</wf>
+            </w>
+            <w id="AF:IgEph.w627" >
+                <wf  ulex="" >δεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w628" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w629" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w630" >
+                <wf  ulex="" >θηρία</wf>
+            </w>
+            <w id="AF:IgEph.w631" >
+                <wf  ulex="" >ἐκκλίνειν</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w632" >
+                <wf  ulex="" >εἰσὶν</wf>
+            </w>
+            <w id="AF:IgEph.w633" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w634" >
+                <wf  ulex="" >κύνες</wf>
+            </w>
+            <w id="AF:IgEph.w635" >
+                <wf  ulex="" >λυσσῶντες</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w636" >
+                <wf  ulex="" >λαθροδῆκται</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w637" >
+                <wf  ulex="" >οὓς</wf>
+            </w>
+            <w id="AF:IgEph.w638" >
+                <wf  ulex="" >δεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w639" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w640" >
+                <wf  ulex="" >φθλάσσεσθαι</wf>
+            </w>
+            <w id="AF:IgEph.w641" >
+                <wf  ulex="" >ὄντας</wf>
+            </w>
+            <w id="AF:IgEph.w642" >
+                <wf  ulex="" >δυσθεραπεύτος</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w643" >
+                <wf  ulex="" >εἷς</wf>
+            </w>
+            <w id="AF:IgEph.w644" >
+                <wf  ulex="" >ἰατρός</wf>
+            </w>
+            <w id="AF:IgEph.w645" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w646" >
+                <wf  ulex="" >σαρκικός</wf>
+            </w>
+            <w id="AF:IgEph.w647" >
+                <wf  ulex="" >τε</wf>
+            </w>
+            <w id="AF:IgEph.w648" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w649" >
+                <wf  ulex="" >πνευματικός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w650" >
+                <wf  ulex="" >γεννητὸς</wf>
+            </w>
+            <w id="AF:IgEph.w651" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w652" >
+                <wf  ulex="" >ἀγέννητος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w653" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w654" >
+                <wf  ulex="" >ἀνθρώπῳ</wf>
+            </w>
+            <w id="AF:IgEph.w655" >
+                <wf  ulex="" >θεός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w656" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w657" >
+                <wf  ulex="" >θανάτῳ</wf>
+            </w>
+            <w id="AF:IgEph.w658" >
+                <wf  ulex="" >ζωὴ</wf>
+            </w>
+            <w id="AF:IgEph.w659" >
+                <wf  ulex="" >ἀληθινή</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w660" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w661" >
+                <wf  ulex="" >ἐκ</wf>
+            </w>
+            <w id="AF:IgEph.w662" >
+                <wf  ulex="" >Μαριας</wf>
+            </w>
+            <w id="AF:IgEph.w663" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w664" >
+                <wf  ulex="" >ἐκ</wf>
+            </w>
+            <w id="AF:IgEph.w665" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w666" >
+                <wf  ulex="" >πρῶτον</wf>
+            </w>
+            <w id="AF:IgEph.w667" >
+                <wf  ulex="" >παθητὸς</wf>
+            </w>
+            <w id="AF:IgEph.w668" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w669" >
+                <wf  ulex="" >τότε</wf>
+            </w>
+            <w id="AF:IgEph.w670" >
+                <wf  ulex="" >ἀπαθής</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w671" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w672" >
+                <wf  ulex="" >Χριστὸς</wf>
+            </w>
+            <w id="AF:IgEph.w673" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w674" >
+                <wf  ulex="" >κύριος</wf>
+            </w>
+            <w id="AF:IgEph.w675" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="8" >
+        <verse num="1" >
+            <w id="AF:IgEph.w676" >
+                <wf  ulex="" >Μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w677" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w678" >
+                <wf  ulex="" >τις</wf>
+            </w>
+            <w id="AF:IgEph.w679" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w680" >
+                <wf  ulex="" >ἐξαπατάτω</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w681" >
+                <wf  ulex="" >ὥσπερ</wf>
+            </w>
+            <w id="AF:IgEph.w682" >
+                <wf  ulex="" >οὐδὲ</wf>
+            </w>
+            <w id="AF:IgEph.w683" >
+                <wf  ulex="" >ἐξαπατᾶσθε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w684" >
+                <wf  ulex="" >ὅλοι</wf>
+            </w>
+            <w id="AF:IgEph.w685" >
+                <wf  ulex="" >ὄντες</wf>
+            </w>
+            <w id="AF:IgEph.w686" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w687" >
+                <wf  ulex="" >ὅταν</wf>
+            </w>
+            <w id="AF:IgEph.w688" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w689" >
+                <wf  ulex="" >μηδεμία</wf>
+            </w>
+            <w id="AF:IgEph.w690" >
+                <wf  ulex="" >ἔρις</wf>
+            </w>
+            <w id="AF:IgEph.w691" >
+                <wf  ulex="" >ἐνήρεισται</wf>
+            </w>
+            <w id="AF:IgEph.w692" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w693" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w694" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w695" >
+                <wf  ulex="" >δυναμένη</wf>
+            </w>
+            <w id="AF:IgEph.w696" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w697" >
+                <wf  ulex="" >βασανίσαι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w698" >
+                <wf  ulex="" >ἄρα</wf>
+            </w>
+            <w id="AF:IgEph.w699" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w700" >
+                <wf  ulex="" >θεὸν</wf>
+            </w>
+            <w id="AF:IgEph.w701" >
+                <wf  ulex="" >ζῆτε</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w702" >
+                <wf  ulex="" >περίψημα</wf>
+            </w>
+            <w id="AF:IgEph.w703" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w704" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w705" >
+                <wf  ulex="" >ἁγνίζομαι</wf>
+            </w>
+            <w id="AF:IgEph.w706" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w707" >
+                <wf  ulex="" >Ἐφεσίων</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w708" >
+                <wf  ulex="" >ἐκκλησίας</wf>
+            </w>
+            <w id="AF:IgEph.w709" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w710" >
+                <wf  ulex="" >διαβοή-του</wf>
+            </w>
+            <w id="AF:IgEph.w711" >
+                <wf  ulex="" >τοῖς</wf>
+            </w>
+            <w id="AF:IgEph.w712" >
+                <wf  ulex="" >αἰῶσιν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w713" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w714" >
+                <wf  ulex="" >σαρκικοὶ</wf>
+            </w>
+            <w id="AF:IgEph.w715" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w716" >
+                <wf  ulex="" >πνευματικὰ</wf>
+            </w>
+            <w id="AF:IgEph.w717" >
+                <wf  ulex="" >πράσσειν</wf>
+            </w>
+            <w id="AF:IgEph.w718" >
+                <wf  ulex="" >οὐ</wf>
+            </w>
+            <w id="AF:IgEph.w719" >
+                <wf  ulex="" >δύναται</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w720" >
+                <wf  ulex="" >οὐδὲ</wf>
+            </w>
+            <w id="AF:IgEph.w721" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w722" >
+                <wf  ulex="" >πνευματικοὶ</wf>
+            </w>
+            <w id="AF:IgEph.w723" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w724" >
+                <wf  ulex="" >σαρκικά</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w725" >
+                <wf  ulex="" >ὥσπερ</wf>
+            </w>
+            <w id="AF:IgEph.w726" >
+                <wf  ulex="" >οὐδὲ</wf>
+            </w>
+            <w id="AF:IgEph.w727" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w728" >
+                <wf  ulex="" >πίστις</wf>
+            </w>
+            <w id="AF:IgEph.w729" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w730" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w731" >
+                <wf  ulex="" >ἀπιστίας</wf>
+            </w>
+            <w id="AF:IgEph.w732" >
+                <wf  ulex="" >οὐδε</wf>
+            </w>
+            <w id="AF:IgEph.w733" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w734" >
+                <wf  ulex="" >ἀπιστία</wf>
+            </w>
+            <w id="AF:IgEph.w735" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w736" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w737" >
+                <wf  ulex="" >πίστεως</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w738" >
+                <wf  ulex="" >ἃ</wf>
+            </w>
+            <w id="AF:IgEph.w739" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w740" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w741" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w742" >
+                <wf  ulex="" >σάρκα</wf>
+            </w>
+            <w id="AF:IgEph.w743" >
+                <wf  ulex="" >πράσσετε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w744" >
+                <wf  ulex="" >ταῦτα</wf>
+            </w>
+            <w id="AF:IgEph.w745" >
+                <wf  ulex="" >πνευματικά</wf>
+            </w>
+            <w id="AF:IgEph.w746" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w747" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w748" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w749" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w750" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <w id="AF:IgEph.w751" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w752" >
+                <wf  ulex="" >πράσσετε</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="9" >
+        <verse num="1" >
+            <w id="AF:IgEph.w753" >
+                <wf  ulex="" >Ἔγνων</wf>
+            </w>
+            <w id="AF:IgEph.w754" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w755" >
+                <wf  ulex="" >παροδεύσαντάς</wf>
+            </w>
+            <w id="AF:IgEph.w756" >
+                <wf  ulex="" >τινας</wf>
+            </w>
+            <w id="AF:IgEph.w757" >
+                <wf  ulex="" >ἐκεῖθεν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w758" >
+                <wf  ulex="" >ἔχον-τας</wf>
+            </w>
+            <w id="AF:IgEph.w759" >
+                <wf  ulex="" >κακὴν</wf>
+            </w>
+            <w id="AF:IgEph.w760" >
+                <wf  ulex="" >διδαχήν</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w761" >
+                <wf  ulex="" >οὓς</wf>
+            </w>
+            <w id="AF:IgEph.w762" >
+                <wf  ulex="" >οὐκ</wf>
+            </w>
+            <w id="AF:IgEph.w763" >
+                <wf  ulex="" >εἰάσατε</wf>
+            </w>
+            <w id="AF:IgEph.w764" >
+                <wf  ulex="" >σπεῖραι</wf>
+            </w>
+            <w id="AF:IgEph.w765" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w766" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w767" >
+                <wf  ulex="" >βύσαντες</wf>
+            </w>
+            <w id="AF:IgEph.w768" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w769" >
+                <wf  ulex="" >ὦτα</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w770" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w771" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w772" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w773" >
+                <wf  ulex="" >παραδέξασθαι</wf>
+            </w>
+            <w id="AF:IgEph.w774" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w775" >
+                <wf  ulex="" >σπειρόμενα</wf>
+            </w>
+            <w id="AF:IgEph.w776" >
+                <wf  ulex="" >ὑπ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w777" >
+                <wf  ulex="" >αὐτῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w778" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w779" >
+                <wf  ulex="" >ὄντες</wf>
+            </w>
+            <w id="AF:IgEph.w780" >
+                <wf  ulex="" >λίθοι</wf>
+            </w>
+            <w id="AF:IgEph.w781" >
+                <wf  ulex="" >ναοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w782" >
+                <wf  ulex="" >πατρός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w783" >
+                <wf  ulex="" >ἡτοιμασμένοι</wf>
+            </w>
+            <w id="AF:IgEph.w784" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w785" >
+                <wf  ulex="" >οἰκοδομὴν</wf>
+            </w>
+            <w id="AF:IgEph.w786" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w787" >
+                <wf  ulex="" >πατρός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w788" >
+                <wf  ulex="" >αναφερόμενοι</wf>
+            </w>
+            <w id="AF:IgEph.w789" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w790" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w791" >
+                <wf  ulex="" >ὕψη</wf>
+            </w>
+            <w id="AF:IgEph.w792" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w793" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w794" >
+                <wf  ulex="" >μηχανῆς</wf>
+            </w>
+            <w id="AF:IgEph.w795" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w796" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w797" >
+                <wf  ulex="" >ὅς</wf>
+            </w>
+            <w id="AF:IgEph.w798" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <w id="AF:IgEph.w799" >
+                <wf  ulex="" >σταυρός</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w800" >
+                <wf  ulex="" >σψοινίῳ</wf>
+            </w>
+            <w id="AF:IgEph.w801" >
+                <wf  ulex="" >ψρώμενοι</wf>
+            </w>
+            <w id="AF:IgEph.w802" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w803" >
+                <wf  ulex="" >πνεύματι</wf>
+            </w>
+            <w id="AF:IgEph.w804" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w805" >
+                <wf  ulex="" >ἁγίῳ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w806" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w807" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w808" >
+                <wf  ulex="" >πίστις</wf>
+            </w>
+            <w id="AF:IgEph.w809" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w810" >
+                <wf  ulex="" >ἀναγωγεὺς</wf>
+            </w>
+            <w id="AF:IgEph.w811" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w812" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w813" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w814" >
+                <wf  ulex="" >ἀγάπη</wf>
+            </w>
+            <w id="AF:IgEph.w815" >
+                <wf  ulex="" >ὁδὸς</wf>
+            </w>
+            <w id="AF:IgEph.w816" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w817" >
+                <wf  ulex="" >ἀναφέρουσα</wf>
+            </w>
+            <w id="AF:IgEph.w818" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w819" >
+                <wf  ulex="" >θεόν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w820" >
+                <wf  ulex="" >ἐστὲ</wf>
+            </w>
+            <w id="AF:IgEph.w821" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w822" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w823" >
+                <wf  ulex="" >σύνοδοι</wf>
+            </w>
+            <w id="AF:IgEph.w824" >
+                <wf  ulex="" >πάντες</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w825" >
+                <wf  ulex="" >θεοφόροι</wf>
+            </w>
+            <w id="AF:IgEph.w826" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w827" >
+                <wf  ulex="" >ναοφόροι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w828" >
+                <wf  ulex="" >χριστοφόροι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w829" >
+                <wf  ulex="" >ἁγιοφόροι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w830" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w831" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w832" >
+                <wf  ulex="" >κεκοσμημένοι</wf>
+            </w>
+            <w id="AF:IgEph.w833" >
+                <wf  ulex="" >ἐντολαῖς</wf>
+            </w>
+            <w id="AF:IgEph.w834" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w835" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w836" >
+                <wf  ulex="" >οἷς</wf>
+            </w>
+            <w id="AF:IgEph.w837" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w838" >
+                <wf  ulex="" >ἀγαλλιώμενος</wf>
+            </w>
+            <w id="AF:IgEph.w839" >
+                <wf  ulex="" >ἠξιώθην</wf>
+            </w>
+            <w id="AF:IgEph.w840" >
+                <wf  ulex="" >δι᾽</wf>
+            </w>
+            <w id="AF:IgEph.w841" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w842" >
+                <wf  ulex="" >γράφω</wf>
+            </w>
+            <w id="AF:IgEph.w843" >
+                <wf  ulex="" >προσομιλῆσαι</wf>
+            </w>
+            <w id="AF:IgEph.w844" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w845" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w846" >
+                <wf  ulex="" >συγχαρῆναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w847" >
+                <wf  ulex="" >ὅτι</wf>
+            </w>
+            <w id="AF:IgEph.w848" >
+                <wf  ulex="" >κατ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w849" >
+                <wf  ulex="" >ἀνθρωπων</wf>
+            </w>
+            <w id="AF:IgEph.w850" >
+                <wf  ulex="" >βίον</wf>
+            </w>
+            <w id="AF:IgEph.w851" >
+                <wf  ulex="" >οὐδὲν</wf>
+            </w>
+            <w id="AF:IgEph.w852" >
+                <wf  ulex="" >ἀγαπᾶτε</wf>
+            </w>
+            <w id="AF:IgEph.w853" >
+                <wf  ulex="" >εἰ</wf>
+            </w>
+            <w id="AF:IgEph.w854" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w855" >
+                <wf  ulex="" >μόνον</wf>
+            </w>
+            <w id="AF:IgEph.w856" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w857" >
+                <wf  ulex="" >θεόν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="10" >
+        <verse num="1" >
+            <w id="AF:IgEph.w858" >
+                <wf  ulex="" >Καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w859" >
+                <wf  ulex="" >ὑπὲρ</wf>
+            </w>
+            <w id="AF:IgEph.w860" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w861" >
+                <wf  ulex="" >ἄλλων</wf>
+            </w>
+            <w id="AF:IgEph.w862" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w863" >
+                <wf  ulex="" >ἀνθρώπων</wf>
+            </w>
+            <w id="AF:IgEph.w864" >
+                <wf  ulex="" >ἀδια-λείπτως</wf>
+            </w>
+            <w id="AF:IgEph.w865" >
+                <wf  ulex="" >προσεύχεσθε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w866" >
+                <wf  ulex="" >ἔστιν</wf>
+            </w>
+            <w id="AF:IgEph.w867" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w868" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w869" >
+                <wf  ulex="" >αὐτοῖς</wf>
+            </w>
+            <w id="AF:IgEph.w870" >
+                <wf  ulex="" >ἐλπὶς</wf>
+            </w>
+            <w id="AF:IgEph.w871" >
+                <wf  ulex="" >μετανοίας</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w872" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w873" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w874" >
+                <wf  ulex="" >τύχωσιν</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w875" >
+                <wf  ulex="" >ἐπιτρέψατε</wf>
+            </w>
+            <w id="AF:IgEph.w876" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w877" >
+                <wf  ulex="" >αὐτοῖς</wf>
+            </w>
+            <w id="AF:IgEph.w878" >
+                <wf  ulex="" >κἂν</wf>
+            </w>
+            <w id="AF:IgEph.w879" >
+                <wf  ulex="" >ἐκ</wf>
+            </w>
+            <w id="AF:IgEph.w880" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w881" >
+                <wf  ulex="" >ἔργων</wf>
+            </w>
+            <w id="AF:IgEph.w882" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w883" >
+                <wf  ulex="" >μαθητευθῆναι</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w884" >
+                <wf  ulex="" >πρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w885" >
+                <wf  ulex="" >τὰς</wf>
+            </w>
+            <w id="AF:IgEph.w886" >
+                <wf  ulex="" >ὀργὰς</wf>
+            </w>
+            <w id="AF:IgEph.w887" >
+                <wf  ulex="" >αὐτῶν</wf>
+            </w>
+            <w id="AF:IgEph.w888" >
+                <wf  ulex="" >ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgEph.w889" >
+                <wf  ulex="" >πραεῖς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w890" >
+                <wf  ulex="" >πρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w891" >
+                <wf  ulex="" >τὰς</wf>
+            </w>
+            <w id="AF:IgEph.w892" >
+                <wf  ulex="" >μεγαλορημοσύνας</wf>
+            </w>
+            <w id="AF:IgEph.w893" >
+                <wf  ulex="" >αὐτῶν</wf>
+            </w>
+            <w id="AF:IgEph.w894" >
+                <wf  ulex="" >ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgEph.w895" >
+                <wf  ulex="" >ταπεινόφρονες</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w896" >
+                <wf  ulex="" >πρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w897" >
+                <wf  ulex="" >τὰς</wf>
+            </w>
+            <w id="AF:IgEph.w898" >
+                <wf  ulex="" >βλασφημίας</wf>
+            </w>
+            <w id="AF:IgEph.w899" >
+                <wf  ulex="" >αὐτῶν</wf>
+            </w>
+            <w id="AF:IgEph.w900" >
+                <wf  ulex="" >ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgEph.w901" >
+                <wf  ulex="" >τὰς</wf>
+            </w>
+            <w id="AF:IgEph.w902" >
+                <wf  ulex="" >προσευχάς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w903" >
+                <wf  ulex="" >πρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w904" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w905" >
+                <wf  ulex="" >πλαπνην</wf>
+            </w>
+            <w id="AF:IgEph.w906" >
+                <wf  ulex="" >αὐτῶν</wf>
+            </w>
+            <w id="AF:IgEph.w907" >
+                <wf  ulex="" >ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgEph.w908" >
+                <wf  ulex="" >ἥμεροι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w909" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w910" >
+                <wf  ulex="" >σπουδάζοντες</wf>
+            </w>
+            <w id="AF:IgEph.w911" >
+                <wf  ulex="" >ἀντιμιμήσασθαι</wf>
+            </w>
+            <w id="AF:IgEph.w912" >
+                <wf  ulex="" >αὐτούς</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="3" >
+            <w id="AF:IgEph.w913" >
+                <wf  ulex="" >ἀδελφοὶ</wf>
+            </w>
+            <w id="AF:IgEph.w914" >
+                <wf  ulex="" >αὐτῶν</wf>
+            </w>
+            <w id="AF:IgEph.w915" >
+                <wf  ulex="" >εὑρεθῶμεν</wf>
+            </w>
+            <w id="AF:IgEph.w916" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w917" >
+                <wf  ulex="" >ἐπιειδειᾳ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w918" >
+                <wf  ulex="" >μιμηταὶ</wf>
+            </w>
+            <w id="AF:IgEph.w919" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w920" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w921" >
+                <wf  ulex="" >κυρίου</wf>
+            </w>
+            <w id="AF:IgEph.w922" >
+                <wf  ulex="" >σπου-δάζωμεν</wf>
+            </w>
+            <w id="AF:IgEph.w923" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w924" >
+                <wf  ulex="" >τίς</wf>
+            </w>
+            <w id="AF:IgEph.w925" >
+                <wf  ulex="" >πλέον</wf>
+            </w>
+            <w id="AF:IgEph.w926" >
+                <wf  ulex="" >ἀδικηθῇ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w927" >
+                <wf  ulex="" >τίς</wf>
+            </w>
+            <w id="AF:IgEph.w928" >
+                <wf  ulex="" >ἀποστερηθῇ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w929" >
+                <wf  ulex="" >τίς</wf>
+            </w>
+            <w id="AF:IgEph.w930" >
+                <wf  ulex="" >ἀθετηθῇ</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w931" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w932" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w933" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w934" >
+                <wf  ulex="" >διαβόλου</wf>
+            </w>
+            <w id="AF:IgEph.w935" >
+                <wf  ulex="" >βοτάνη</wf>
+            </w>
+            <w id="AF:IgEph.w936" >
+                <wf  ulex="" >τις</wf>
+            </w>
+            <w id="AF:IgEph.w937" >
+                <wf  ulex="" >εὑρεθῇ</wf>
+            </w>
+            <w id="AF:IgEph.w938" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w939" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w940" >
+                <wf  ulex="" >ἀλλ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w941" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w942" >
+                <wf  ulex="" >πάσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w943" >
+                <wf  ulex="" >ἁγνείᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w944" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w945" >
+                <wf  ulex="" >σωφροσύνῃ</wf>
+            </w>
+            <w id="AF:IgEph.w946" >
+                <wf  ulex="" >μένητε</wf>
+            </w>
+            <w id="AF:IgEph.w947" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w948" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w949" >
+                <wf  ulex="" >Χριστῳ̈</wf>
+            </w>
+            <w id="AF:IgEph.w950" >
+                <wf  ulex="" >σαρκικῶς</wf>
+            </w>
+            <w id="AF:IgEph.w951" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w952" >
+                <wf  ulex="" >πνευματικῶς</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="11" >
+        <verse num="1" >
+            <w id="AF:IgEph.w953" >
+                <wf  ulex="" >Ἔσχατοι</wf>
+            </w>
+            <w id="AF:IgEph.w954" >
+                <wf  ulex="" >καιροί</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w955" >
+                <wf  ulex="" >λοιπὸν</wf>
+            </w>
+            <w id="AF:IgEph.w956" >
+                <wf  ulex="" >αἰσχυνθῶμεν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w957" >
+                <wf  ulex="" >φοβηθῶμεν</wf>
+            </w>
+            <w id="AF:IgEph.w958" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w959" >
+                <wf  ulex="" >μακροθυμίαν</wf>
+            </w>
+            <w id="AF:IgEph.w960" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w961" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w962" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w963" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w964" >
+                <wf  ulex="" >ἡμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w965" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w966" >
+                <wf  ulex="" >κρίμα</wf>
+            </w>
+            <w id="AF:IgEph.w967" >
+                <wf  ulex="" >γένηται</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w968" >
+                <wf  ulex="" >ἢ</wf>
+            </w>
+            <w id="AF:IgEph.w969" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w970" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w971" >
+                <wf  ulex="" >μέλλουσαν</wf>
+            </w>
+            <w id="AF:IgEph.w972" >
+                <wf  ulex="" >ὀργὴν</wf>
+            </w>
+            <w id="AF:IgEph.w973" >
+                <wf  ulex="" >φοβη-θῶμεν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w974" >
+                <wf  ulex="" >ἢ</wf>
+            </w>
+            <w id="AF:IgEph.w975" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w976" >
+                <wf  ulex="" >ἐνεστῶσαν</wf>
+            </w>
+            <w id="AF:IgEph.w977" >
+                <wf  ulex="" >χάριν</wf>
+            </w>
+            <w id="AF:IgEph.w978" >
+                <wf  ulex="" >ἀγαπηπσωμεν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w979" >
+                <wf  ulex="" >ἓν</wf>
+            </w>
+            <w id="AF:IgEph.w980" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w981" >
+                <wf  ulex="" >δύο</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w982" >
+                <wf  ulex="" >μόνον</wf>
+            </w>
+            <w id="AF:IgEph.w983" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w984" >
+                <wf  ulex="" >Χριτῷ</wf>
+            </w>
+            <w id="AF:IgEph.w985" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w986" >
+                <wf  ulex="" >εὑρεθῆναι</wf>
+            </w>
+            <w id="AF:IgEph.w987" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w988" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w989" >
+                <wf  ulex="" >ἀληθινὸν</wf>
+            </w>
+            <w id="AF:IgEph.w990" >
+                <wf  ulex="" >ζῆν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w991" >
+                <wf  ulex="" >χωρὶς</wf>
+            </w>
+            <w id="AF:IgEph.w992" >
+                <wf  ulex="" >τούτου</wf>
+            </w>
+            <w id="AF:IgEph.w993" >
+                <wf  ulex="" >μηδὲν</wf>
+            </w>
+            <w id="AF:IgEph.w994" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w995" >
+                <wf  ulex="" >πρεπέτω</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w996" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w997" >
+                <wf  ulex="" >ᾧ</wf>
+            </w>
+            <w id="AF:IgEph.w998" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w999" >
+                <wf  ulex="" >δεσμὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1000" >
+                <wf  ulex="" >περιφέρω</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1001" >
+                <wf  ulex="" >τοὺς</wf>
+            </w>
+            <w id="AF:IgEph.w1002" >
+                <wf  ulex="" >πνευματικοὺς</wf>
+            </w>
+            <w id="AF:IgEph.w1003" >
+                <wf  ulex="" >μαργαρίτας</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1004" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1005" >
+                <wf  ulex="" >οἷς</wf>
+            </w>
+            <w id="AF:IgEph.w1006" >
+                <wf  ulex="" >γένοιτό</wf>
+            </w>
+            <w id="AF:IgEph.w1007" >
+                <wf  ulex="" >μοι</wf>
+            </w>
+            <w id="AF:IgEph.w1008" >
+                <wf  ulex="" >ἀνατῆναι</wf>
+            </w>
+            <w id="AF:IgEph.w1009" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1010" >
+                <wf  ulex="" >προσευχῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1011" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1012" >
+                <wf  ulex="" >ἧς</wf>
+            </w>
+            <w id="AF:IgEph.w1013" >
+                <wf  ulex="" >γένοιτό</wf>
+            </w>
+            <w id="AF:IgEph.w1014" >
+                <wf  ulex="" >μοι</wf>
+            </w>
+            <w id="AF:IgEph.w1015" >
+                <wf  ulex="" >ἀεὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1016" >
+                <wf  ulex="" >μέταχον</wf>
+            </w>
+            <w id="AF:IgEph.w1017" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1018" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w1019" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1020" >
+                <wf  ulex="" >κλήρῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1021" >
+                <wf  ulex="" >Ἐφεσίων</wf>
+            </w>
+            <w id="AF:IgEph.w1022" >
+                <wf  ulex="" >εὑρεθῶ</wf>
+            </w>
+            <w id="AF:IgEph.w1023" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1024" >
+                <wf  ulex="" >Χριστιανῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1025" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w1026" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1027" >
+                <wf  ulex="" >τοῖς</wf>
+            </w>
+            <w id="AF:IgEph.w1028" >
+                <wf  ulex="" >ἀποστόλοις</wf>
+            </w>
+            <w id="AF:IgEph.w1029" >
+                <wf  ulex="" >πάντοτε</wf>
+            </w>
+            <w id="AF:IgEph.w1030" >
+                <wf  ulex="" >συνῄνεσαν</wf>
+            </w>
+            <w id="AF:IgEph.w1031" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1032" >
+                <wf  ulex="" >δυνάμει</wf>
+            </w>
+            <w id="AF:IgEph.w1033" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1034" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="12" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1035" >
+                <wf  ulex="" >Οἰδα</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1036" >
+                <wf  ulex="" >τίς</wf>
+            </w>
+            <w id="AF:IgEph.w1037" >
+                <wf  ulex="" >εἰμι</wf>
+            </w>
+            <w id="AF:IgEph.w1038" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1039" >
+                <wf  ulex="" >τίσιν</wf>
+            </w>
+            <w id="AF:IgEph.w1040" >
+                <wf  ulex="" >γράφω</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1041" >
+                <wf  ulex="" >ἐγὼ</wf>
+            </w>
+            <w id="AF:IgEph.w1042" >
+                <wf  ulex="" >κατάκριτος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1043" >
+                <wf  ulex="" >ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgEph.w1044" >
+                <wf  ulex="" >ἠλεημένοι</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1045" >
+                <wf  ulex="" >ἐγὼ</wf>
+            </w>
+            <w id="AF:IgEph.w1046" >
+                <wf  ulex="" >ὑπὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1047" >
+                <wf  ulex="" >κίνδυνον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1048" >
+                <wf  ulex="" >ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgEph.w1049" >
+                <wf  ulex="" >ἐστηρυγμένοι</wf>
+            </w>
+            <punc >·</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1050" >
+                <wf  ulex="" >πάροδός</wf>
+            </w>
+            <w id="AF:IgEph.w1051" >
+                <wf  ulex="" >ἐστε</wf>
+            </w>
+            <w id="AF:IgEph.w1052" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1053" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1054" >
+                <wf  ulex="" >θεὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1055" >
+                <wf  ulex="" >ἀναιρουμένων</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1056" >
+                <wf  ulex="" >Παύλου</wf>
+            </w>
+            <w id="AF:IgEph.w1057" >
+                <wf  ulex="" >συμμύσται</wf>
+            </w>
+            <w id="AF:IgEph.w1058" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1059" >
+                <wf  ulex="" >ἡγιασμένου</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1060" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1061" >
+                <wf  ulex="" >μεμαρτυρημένον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1062" >
+                <wf  ulex="" >ἀξιομακαρίστον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1063" >
+                <wf  ulex="" >οὗ</wf>
+            </w>
+            <w id="AF:IgEph.w1064" >
+                <wf  ulex="" >γένοιτό</wf>
+            </w>
+            <w id="AF:IgEph.w1065" >
+                <wf  ulex="" >μοι</wf>
+            </w>
+            <w id="AF:IgEph.w1066" >
+                <wf  ulex="" >ὑπὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1067" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1068" >
+                <wf  ulex="" >ἴχνη</wf>
+            </w>
+            <w id="AF:IgEph.w1069" >
+                <wf  ulex="" >εὑρεθῆναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1070" >
+                <wf  ulex="" >ὅταν</wf>
+            </w>
+            <w id="AF:IgEph.w1071" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1072" >
+                <wf  ulex="" >ἐπιτύχω</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1073" >
+                <wf  ulex="" >ὃς</wf>
+            </w>
+            <w id="AF:IgEph.w1074" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1075" >
+                <wf  ulex="" >πάσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w1076" >
+                <wf  ulex="" >ἐπιστολῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1077" >
+                <wf  ulex="" >μνημονεύει</wf>
+            </w>
+            <w id="AF:IgEph.w1078" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1079" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1080" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1081" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="13" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1082" >
+                <wf  ulex="" >Σπουδάζετε</wf>
+            </w>
+            <w id="AF:IgEph.w1083" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w1084" >
+                <wf  ulex="" >πυκνότερον</wf>
+            </w>
+            <w id="AF:IgEph.w1085" >
+                <wf  ulex="" >συνέρχεσθαι</wf>
+            </w>
+            <w id="AF:IgEph.w1086" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1087" >
+                <wf  ulex="" >εὐχαριστίαν</wf>
+            </w>
+            <w id="AF:IgEph.w1088" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1089" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1090" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1091" >
+                <wf  ulex="" >δόξαν</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1092" >
+                <wf  ulex="" >ὅταν</wf>
+            </w>
+            <w id="AF:IgEph.w1093" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w1094" >
+                <wf  ulex="" >πυκνῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1095" >
+                <wf  ulex="" >ἐπὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1096" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1097" >
+                <wf  ulex="" >αὐτὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1098" >
+                <wf  ulex="" >γίνεσθε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1099" >
+                <wf  ulex="" >καθαιροῦνται</wf>
+            </w>
+            <w id="AF:IgEph.w1100" >
+                <wf  ulex="" >αἱ</wf>
+            </w>
+            <w id="AF:IgEph.w1101" >
+                <wf  ulex="" >δυνάμεις</wf>
+            </w>
+            <w id="AF:IgEph.w1102" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1103" >
+                <wf  ulex="" >Χατανᾶ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1104" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1105" >
+                <wf  ulex="" >λύεται</wf>
+            </w>
+            <w id="AF:IgEph.w1106" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1107" >
+                <wf  ulex="" >ὄλεθρος</wf>
+            </w>
+            <w id="AF:IgEph.w1108" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1109" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1110" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1111" >
+                <wf  ulex="" >ὁμονοίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w1112" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1113" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1114" >
+                <wf  ulex="" >πίστεως</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1115" >
+                <wf  ulex="" >οὐδέν</wf>
+            </w>
+            <w id="AF:IgEph.w1116" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1117" >
+                <wf  ulex="" >ἄμεινον</wf>
+            </w>
+            <w id="AF:IgEph.w1118" >
+                <wf  ulex="" >εἰρήνης</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1119" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1120" >
+                <wf  ulex="" >ᾗ</wf>
+            </w>
+            <w id="AF:IgEph.w1121" >
+                <wf  ulex="" >πᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w1122" >
+                <wf  ulex="" >πόλεμος</wf>
+            </w>
+            <w id="AF:IgEph.w1123" >
+                <wf  ulex="" >καταργεῖται</wf>
+            </w>
+            <w id="AF:IgEph.w1124" >
+                <wf  ulex="" >ἐπουραίων</wf>
+            </w>
+            <w id="AF:IgEph.w1125" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1126" >
+                <wf  ulex="" >ἐπιγείων</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="14" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1127" >
+                <wf  ulex="" >Ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w1128" >
+                <wf  ulex="" >οὐδεν</wf>
+            </w>
+            <w id="AF:IgEph.w1129" >
+                <wf  ulex="" >λανθάνει</wf>
+            </w>
+            <w id="AF:IgEph.w1130" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1131" >
+                <wf  ulex="" >ἐὰν</wf>
+            </w>
+            <w id="AF:IgEph.w1132" >
+                <wf  ulex="" >τελείως</wf>
+            </w>
+            <w id="AF:IgEph.w1133" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1134" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1135" >
+                <wf  ulex="" >Χριστὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1136" >
+                <wf  ulex="" >ἔχητε</wf>
+            </w>
+            <w id="AF:IgEph.w1137" >
+                <wf  ulex="" >τὴν</wf>
+            </w>
+            <w id="AF:IgEph.w1138" >
+                <wf  ulex="" >πίστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1139" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1140" >
+                <wf  ulex="" >τήν</wf>
+            </w>
+            <w id="AF:IgEph.w1141" >
+                <wf  ulex="" >ἀγάπην</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1142" >
+                <wf  ulex="" >ἥτις</wf>
+            </w>
+            <w id="AF:IgEph.w1143" >
+                <wf  ulex="" >ἐστὶν</wf>
+            </w>
+            <w id="AF:IgEph.w1144" >
+                <wf  ulex="" >ἀρχὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1145" >
+                <wf  ulex="" >ζωῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1146" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1147" >
+                <wf  ulex="" >τέλος</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1148" >
+                <wf  ulex="" >ἀρχὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1149" >
+                <wf  ulex="" >μὲν</wf>
+            </w>
+            <w id="AF:IgEph.w1150" >
+                <wf  ulex="" >πίστις</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1151" >
+                <wf  ulex="" >τέλος</wf>
+            </w>
+            <w id="AF:IgEph.w1152" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1153" >
+                <wf  ulex="" >ἀγάπη</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1154" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1155" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1156" >
+                <wf  ulex="" >δύο</wf>
+            </w>
+            <w id="AF:IgEph.w1157" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1158" >
+                <wf  ulex="" >ἑνοτητι</wf>
+            </w>
+            <w id="AF:IgEph.w1159" >
+                <wf  ulex="" >γενόμενα</wf>
+            </w>
+            <w id="AF:IgEph.w1160" >
+                <wf  ulex="" >θεός</wf>
+            </w>
+            <w id="AF:IgEph.w1161" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1162" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1163" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1164" >
+                <wf  ulex="" >ἀλλα</wf>
+            </w>
+            <w id="AF:IgEph.w1165" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w1166" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1167" >
+                <wf  ulex="" >καλοκἀγαθίαν</wf>
+            </w>
+            <w id="AF:IgEph.w1168" >
+                <wf  ulex="" >ακόλουθά</wf>
+            </w>
+            <w id="AF:IgEph.w1169" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1170" >
+                <wf  ulex="" >οὐδεὶς</wf>
+            </w>
+            <w id="AF:IgEph.w1171" >
+                <wf  ulex="" >πίστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1172" >
+                <wf  ulex="" >ἐπαγγελλόμενος</wf>
+            </w>
+            <w id="AF:IgEph.w1173" >
+                <wf  ulex="" >ἁμαρτάνει</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1174" >
+                <wf  ulex="" >οὐδὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1175" >
+                <wf  ulex="" >ἀγάπην</wf>
+            </w>
+            <w id="AF:IgEph.w1176" >
+                <wf  ulex="" >κεκτημένος</wf>
+            </w>
+            <w id="AF:IgEph.w1177" >
+                <wf  ulex="" >μισεῖ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1178" >
+                <wf  ulex="" >φανερὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1179" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1180" >
+                <wf  ulex="" >δένδρον</wf>
+            </w>
+            <w id="AF:IgEph.w1181" >
+                <wf  ulex="" >ἀπὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1182" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1183" >
+                <wf  ulex="" >καρποῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1184" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1185" >
+                <wf  ulex="" >οὕτως</wf>
+            </w>
+            <w id="AF:IgEph.w1186" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w1187" >
+                <wf  ulex="" >ἐπαγ-γελλόμενοι</wf>
+            </w>
+            <w id="AF:IgEph.w1188" >
+                <wf  ulex="" >Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1189" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <w id="AF:IgEph.w1190" >
+                <wf  ulex="" >δι᾽</wf>
+            </w>
+            <w id="AF:IgEph.w1191" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w1192" >
+                <wf  ulex="" >πράσσουσιν</wf>
+            </w>
+            <w id="AF:IgEph.w1193" >
+                <wf  ulex="" >ὀφθήσονται</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1194" >
+                <wf  ulex="" >οὐ</wf>
+            </w>
+            <w id="AF:IgEph.w1195" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w1196" >
+                <wf  ulex="" >νῦν</wf>
+            </w>
+            <w id="AF:IgEph.w1197" >
+                <wf  ulex="" >ἐπαγγελίας</wf>
+            </w>
+            <w id="AF:IgEph.w1198" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1199" >
+                <wf  ulex="" >ἔργον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1200" >
+                <wf  ulex="" >ἀλλ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w1201" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1202" >
+                <wf  ulex="" >δυνάμει</wf>
+            </w>
+            <w id="AF:IgEph.w1203" >
+                <wf  ulex="" >πίστεως</wf>
+            </w>
+            <w id="AF:IgEph.w1204" >
+                <wf  ulex="" >ἐάν</wf>
+            </w>
+            <w id="AF:IgEph.w1205" >
+                <wf  ulex="" >τις</wf>
+            </w>
+            <w id="AF:IgEph.w1206" >
+                <wf  ulex="" >εὑρεθῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1207" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1208" >
+                <wf  ulex="" >τέλος</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="15" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1209" >
+                <wf  ulex="" >Ἄμεινόν</wf>
+            </w>
+            <w id="AF:IgEph.w1210" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1211" >
+                <wf  ulex="" >σιωπᾶν</wf>
+            </w>
+            <w id="AF:IgEph.w1212" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1213" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1214" >
+                <wf  ulex="" >ἢ</wf>
+            </w>
+            <w id="AF:IgEph.w1215" >
+                <wf  ulex="" >λαλοῦντα</wf>
+            </w>
+            <w id="AF:IgEph.w1216" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1217" >
+                <wf  ulex="" >εἶναι</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1218" >
+                <wf  ulex="" >καλὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1219" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1220" >
+                <wf  ulex="" >διδάσκειν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1221" >
+                <wf  ulex="" >ἐὰν</wf>
+            </w>
+            <w id="AF:IgEph.w1222" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1223" >
+                <wf  ulex="" >λέγων</wf>
+            </w>
+            <w id="AF:IgEph.w1224" >
+                <wf  ulex="" >ποιῇ</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1225" >
+                <wf  ulex="" >εἷς</wf>
+            </w>
+            <w id="AF:IgEph.w1226" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w1227" >
+                <wf  ulex="" >διδάσκαλος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1228" >
+                <wf  ulex="" >ὃς</wf>
+            </w>
+            <w id="AF:IgEph.w1229" >
+                <wf  ulex="" >εἶπεν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1230" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1231" >
+                <wf  ulex="" >ἐγένετο</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1232" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1233" >
+                <wf  ulex="" >ἃ</wf>
+            </w>
+            <w id="AF:IgEph.w1234" >
+                <wf  ulex="" >σιγῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1235" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1236" >
+                <wf  ulex="" >πεποίηκεν</wf>
+            </w>
+            <w id="AF:IgEph.w1237" >
+                <wf  ulex="" >ἄξια</wf>
+            </w>
+            <w id="AF:IgEph.w1238" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1239" >
+                <wf  ulex="" >πατρός</wf>
+            </w>
+            <w id="AF:IgEph.w1240" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1241" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1242" >
+                <wf  ulex="" >λόγον</wf>
+            </w>
+            <w id="AF:IgEph.w1243" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1244" >
+                <wf  ulex="" >κεκτημένος</wf>
+            </w>
+            <w id="AF:IgEph.w1245" >
+                <wf  ulex="" >ἀληθῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1246" >
+                <wf  ulex="" >δύναται</wf>
+            </w>
+            <w id="AF:IgEph.w1247" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1248" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1249" >
+                <wf  ulex="" >ἡσυχιας</wf>
+            </w>
+            <w id="AF:IgEph.w1250" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1251" >
+                <wf  ulex="" >ἀκούειν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1252" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w1253" >
+                <wf  ulex="" >τέλειος</wf>
+            </w>
+            <w id="AF:IgEph.w1254" >
+                <wf  ulex="" >ᾖ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1255" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w1256" >
+                <wf  ulex="" >δι᾽</wf>
+            </w>
+            <w id="AF:IgEph.w1257" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w1258" >
+                <wf  ulex="" >λαλεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w1259" >
+                <wf  ulex="" >πράσσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w1260" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1261" >
+                <wf  ulex="" >δι᾽</wf>
+            </w>
+            <w id="AF:IgEph.w1262" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w1263" >
+                <wf  ulex="" >σιγᾷ</wf>
+            </w>
+            <w id="AF:IgEph.w1264" >
+                <wf  ulex="" >γινώσκηται</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="3" >
+            <w id="AF:IgEph.w1265" >
+                <wf  ulex="" >οὐδὲν</wf>
+            </w>
+            <w id="AF:IgEph.w1266" >
+                <wf  ulex="" >λανθάνει</wf>
+            </w>
+            <w id="AF:IgEph.w1267" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1268" >
+                <wf  ulex="" >κύριον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1269" >
+                <wf  ulex="" >ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1270" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1271" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1272" >
+                <wf  ulex="" >κρυπτὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1273" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1274" >
+                <wf  ulex="" >ἐγγυς</wf>
+            </w>
+            <w id="AF:IgEph.w1275" >
+                <wf  ulex="" >αὐτῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1276" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1277" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w1278" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w1279" >
+                <wf  ulex="" >ποιῶμεν</wf>
+            </w>
+            <w id="AF:IgEph.w1280" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w1281" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1282" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1283" >
+                <wf  ulex="" >ἡμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w1284" >
+                <wf  ulex="" >κατοικοῦντος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1285" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w1286" >
+                <wf  ulex="" >ὦμεν</wf>
+            </w>
+            <w id="AF:IgEph.w1287" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1288" >
+                <wf  ulex="" >ναοὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1289" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1290" >
+                <wf  ulex="" >αὐτὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1291" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1292" >
+                <wf  ulex="" >ἡμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w1293" >
+                <wf  ulex="" >θεὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1294" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1295" >
+                <wf  ulex="" >ὅπερ</wf>
+            </w>
+            <w id="AF:IgEph.w1296" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1297" >
+                <wf  ulex="" >ἔστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1298" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1299" >
+                <wf  ulex="" >φανήσεται</wf>
+            </w>
+            <w id="AF:IgEph.w1300" >
+                <wf  ulex="" >πρὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1301" >
+                <wf  ulex="" >προσώπου</wf>
+            </w>
+            <w id="AF:IgEph.w1302" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1303" >
+                <wf  ulex="" >ἐξ</wf>
+            </w>
+            <w id="AF:IgEph.w1304" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w1305" >
+                <wf  ulex="" >δικαίως</wf>
+            </w>
+            <w id="AF:IgEph.w1306" >
+                <wf  ulex="" >ἀαπῶμεν</wf>
+            </w>
+            <w id="AF:IgEph.w1307" >
+                <wf  ulex="" >αὐτον</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="16" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1308" >
+                <wf  ulex="" >Μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1309" >
+                <wf  ulex="" >πλανᾶσθε</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1310" >
+                <wf  ulex="" >ἀδελφοί</wf>
+            </w>
+            <w id="AF:IgEph.w1311" >
+                <wf  ulex="" >μου</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1312" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w1313" >
+                <wf  ulex="" >οἰκοφθόροι</wf>
+            </w>
+            <w id="AF:IgEph.w1314" >
+                <wf  ulex="" >βασιλείαν</wf>
+            </w>
+            <w id="AF:IgEph.w1315" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1316" >
+                <wf  ulex="" >οὐ</wf>
+            </w>
+            <w id="AF:IgEph.w1317" >
+                <wf  ulex="" >κληρονομήσουσιν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1318" >
+                <wf  ulex="" >εἰ</wf>
+            </w>
+            <w id="AF:IgEph.w1319" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w1320" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w1321" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1322" >
+                <wf  ulex="" >σάρκα</wf>
+            </w>
+            <w id="AF:IgEph.w1323" >
+                <wf  ulex="" >ταῦτα</wf>
+            </w>
+            <w id="AF:IgEph.w1324" >
+                <wf  ulex="" >πράσσοντες</wf>
+            </w>
+            <w id="AF:IgEph.w1325" >
+                <wf  ulex="" >ἀπέθανον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1326" >
+                <wf  ulex="" >πόσῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1327" >
+                <wf  ulex="" >μᾶλλον</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1328" >
+                <wf  ulex="" >ἐὰν</wf>
+            </w>
+            <w id="AF:IgEph.w1329" >
+                <wf  ulex="" >πίστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1330" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1331" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1332" >
+                <wf  ulex="" >κακῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1333" >
+                <wf  ulex="" >διδασκαλίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w1334" >
+                <wf  ulex="" >φθείρῃ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1335" >
+                <wf  ulex="" >ὑπὲρ</wf>
+            </w>
+            <w id="AF:IgEph.w1336" >
+                <wf  ulex="" >ἧς</wf>
+            </w>
+            <w id="AF:IgEph.w1337" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w1338" >
+                <wf  ulex="" >Χριστὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1339" >
+                <wf  ulex="" >ἐσταυρώθη;</wf>
+            </w>
+            <w id="AF:IgEph.w1340" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1341" >
+                <wf  ulex="" >τοιοῦτος</wf>
+            </w>
+            <w id="AF:IgEph.w1342" >
+                <wf  ulex="" >ῥυπαρὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1343" >
+                <wf  ulex="" >γενόμενος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1344" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1345" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1346" >
+                <wf  ulex="" >πῦρ</wf>
+            </w>
+            <w id="AF:IgEph.w1347" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1348" >
+                <wf  ulex="" >ἄσβεστον</wf>
+            </w>
+            <w id="AF:IgEph.w1349" >
+                <wf  ulex="" >χωρήσει</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1350" >
+                <wf  ulex="" >ὁμοίως</wf>
+            </w>
+            <w id="AF:IgEph.w1351" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1352" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1353" >
+                <wf  ulex="" >ἀκούων</wf>
+            </w>
+            <w id="AF:IgEph.w1354" >
+                <wf  ulex="" >αὐτου</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="17" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1355" >
+                <wf  ulex="" >Διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1356" >
+                <wf  ulex="" >τοῦτο</wf>
+            </w>
+            <w id="AF:IgEph.w1357" >
+                <wf  ulex="" >μύρον</wf>
+            </w>
+            <w id="AF:IgEph.w1358" >
+                <wf  ulex="" >ἔλαβεν</wf>
+            </w>
+            <w id="AF:IgEph.w1359" >
+                <wf  ulex="" >ἐπὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1360" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1361" >
+                <wf  ulex="" >κεφαλῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1362" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1363" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1364" >
+                <wf  ulex="" >κύριος</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1365" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w1366" >
+                <wf  ulex="" >πνέῃ</wf>
+            </w>
+            <w id="AF:IgEph.w1367" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1368" >
+                <wf  ulex="" >ἐκκλησίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w1369" >
+                <wf  ulex="" >ἀφθαρσίαν</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1370" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1371" >
+                <wf  ulex="" >ἀλείφεσθε</wf>
+            </w>
+            <w id="AF:IgEph.w1372" >
+                <wf  ulex="" >δυσωδίαν</wf>
+            </w>
+            <w id="AF:IgEph.w1373" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1374" >
+                <wf  ulex="" >διδασκαλίας</wf>
+            </w>
+            <w id="AF:IgEph.w1375" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1376" >
+                <wf  ulex="" >ἄρχοντος</wf>
+            </w>
+            <w id="AF:IgEph.w1377" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1378" >
+                <wf  ulex="" >αἰῶνος</wf>
+            </w>
+            <w id="AF:IgEph.w1379" >
+                <wf  ulex="" >τούτου</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1380" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1381" >
+                <wf  ulex="" >αἰχμαλωτίσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w1382" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w1383" >
+                <wf  ulex="" >ἐκ</wf>
+            </w>
+            <w id="AF:IgEph.w1384" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1385" >
+                <wf  ulex="" >προκειμένου</wf>
+            </w>
+            <w id="AF:IgEph.w1386" >
+                <wf  ulex="" >ζῆν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1387" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1388" >
+                <wf  ulex="" >τί</wf>
+            </w>
+            <w id="AF:IgEph.w1389" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1390" >
+                <wf  ulex="" >οὐ</wf>
+            </w>
+            <w id="AF:IgEph.w1391" >
+                <wf  ulex="" >πάντες</wf>
+            </w>
+            <w id="AF:IgEph.w1392" >
+                <wf  ulex="" >φρόνιμοι</wf>
+            </w>
+            <w id="AF:IgEph.w1393" >
+                <wf  ulex="" >γινόμεθα</wf>
+            </w>
+            <w id="AF:IgEph.w1394" >
+                <wf  ulex="" >λαβόντες</wf>
+            </w>
+            <w id="AF:IgEph.w1395" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1396" >
+                <wf  ulex="" >γνῶσιν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1397" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1398" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1399" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w1400" >
+                <wf  ulex="" >Χριστός;</wf>
+            </w>
+            <w id="AF:IgEph.w1401" >
+                <wf  ulex="" >τί</wf>
+            </w>
+            <w id="AF:IgEph.w1402" >
+                <wf  ulex="" >μωρῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1403" >
+                <wf  ulex="" >ἀπολλύμεθα</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1404" >
+                <wf  ulex="" >αγνοοῦντες</wf>
+            </w>
+            <w id="AF:IgEph.w1405" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1406" >
+                <wf  ulex="" >χάρισμα</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1407" >
+                <wf  ulex="" >ὃ</wf>
+            </w>
+            <w id="AF:IgEph.w1408" >
+                <wf  ulex="" >πεππομφεν</wf>
+            </w>
+            <w id="AF:IgEph.w1409" >
+                <wf  ulex="" >ἀληθῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1410" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1411" >
+                <wf  ulex="" >κύριος;</wf>
+            </w>
+        </verse>
+    </chapter>
+    <chapter num="18" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1412" >
+                <wf  ulex="" >Περίψημα</wf>
+            </w>
+            <w id="AF:IgEph.w1413" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1414" >
+                <wf  ulex="" >ἐμὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1415" >
+                <wf  ulex="" >πνεῦμα</wf>
+            </w>
+            <w id="AF:IgEph.w1416" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1417" >
+                <wf  ulex="" >σταυροῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1418" >
+                <wf  ulex="" >ὃ</wf>
+            </w>
+            <w id="AF:IgEph.w1419" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1420" >
+                <wf  ulex="" >σκάνδαλον</wf>
+            </w>
+            <w id="AF:IgEph.w1421" >
+                <wf  ulex="" >τοῖς</wf>
+            </w>
+            <w id="AF:IgEph.w1422" >
+                <wf  ulex="" >ἀπιστοῦσιν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1423" >
+                <wf  ulex="" >ἡμῖν</wf>
+            </w>
+            <w id="AF:IgEph.w1424" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1425" >
+                <wf  ulex="" >σωτηρία</wf>
+            </w>
+            <w id="AF:IgEph.w1426" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1427" >
+                <wf  ulex="" >ζωὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1428" >
+                <wf  ulex="" >αἰώνιος</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1429" >
+                <wf  ulex="" >ποῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1430" >
+                <wf  ulex="" >σωφός;</wf>
+            </w>
+            <w id="AF:IgEph.w1431" >
+                <wf  ulex="" >ποῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1432" >
+                <wf  ulex="" >συζητητής;</wf>
+            </w>
+            <w id="AF:IgEph.w1433" >
+                <wf  ulex="" >ποῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1434" >
+                <wf  ulex="" >καύχησις</wf>
+            </w>
+            <w id="AF:IgEph.w1435" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1436" >
+                <wf  ulex="" >λεγομένων</wf>
+            </w>
+            <w id="AF:IgEph.w1437" >
+                <wf  ulex="" >συνετῶν;</wf>
+            </w>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1438" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1439" >
+                <wf  ulex="" >γὰρ</wf>
+            </w>
+            <w id="AF:IgEph.w1440" >
+                <wf  ulex="" >θεὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1441" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1442" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w1443" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1444" >
+                <wf  ulex="" >Χριστὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1445" >
+                <wf  ulex="" >ἐκυοφορήθη</wf>
+            </w>
+            <w id="AF:IgEph.w1446" >
+                <wf  ulex="" >ὑπὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1447" >
+                <wf  ulex="" >Μαρίας</wf>
+            </w>
+            <w id="AF:IgEph.w1448" >
+                <wf  ulex="" >κατ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w1449" >
+                <wf  ulex="" >οἰκονομίαν</wf>
+            </w>
+            <w id="AF:IgEph.w1450" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1451" >
+                <wf  ulex="" >ἐκ</wf>
+            </w>
+            <w id="AF:IgEph.w1452" >
+                <wf  ulex="" >σπέρματος</wf>
+            </w>
+            <w id="AF:IgEph.w1453" >
+                <wf  ulex="" >μὲν</wf>
+            </w>
+            <w id="AF:IgEph.w1454" >
+                <wf  ulex="" >Δαυείδ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1455" >
+                <wf  ulex="" >πνεύματος</wf>
+            </w>
+            <w id="AF:IgEph.w1456" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1457" >
+                <wf  ulex="" >ἁγίου</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1458" >
+                <wf  ulex="" >ὃς</wf>
+            </w>
+            <w id="AF:IgEph.w1459" >
+                <wf  ulex="" >ἐγεννήθη</wf>
+            </w>
+            <w id="AF:IgEph.w1460" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1461" >
+                <wf  ulex="" >ἐβαπτίσθη</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1462" >
+                <wf  ulex="" >ἵνα</wf>
+            </w>
+            <w id="AF:IgEph.w1463" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1464" >
+                <wf  ulex="" >πάθει</wf>
+            </w>
+            <w id="AF:IgEph.w1465" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1466" >
+                <wf  ulex="" >ὕδωρ</wf>
+            </w>
+            <w id="AF:IgEph.w1467" >
+                <wf  ulex="" >καθαρίσῃ</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="19" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1468" >
+                <wf  ulex="" >Καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1469" >
+                <wf  ulex="" >ἔλαθεν</wf>
+            </w>
+            <w id="AF:IgEph.w1470" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1471" >
+                <wf  ulex="" >ἄρχοντα</wf>
+            </w>
+            <w id="AF:IgEph.w1472" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1473" >
+                <wf  ulex="" >αἰῶνος</wf>
+            </w>
+            <w id="AF:IgEph.w1474" >
+                <wf  ulex="" >τούτου</wf>
+            </w>
+            <w id="AF:IgEph.w1475" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w1476" >
+                <wf  ulex="" >παρθενία</wf>
+            </w>
+            <w id="AF:IgEph.w1477" >
+                <wf  ulex="" >Μαρίας</wf>
+            </w>
+            <w id="AF:IgEph.w1478" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1479" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1480" >
+                <wf  ulex="" >τοκετὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1481" >
+                <wf  ulex="" >αὐτῆς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1482" >
+                <wf  ulex="" >ὁμοίως</wf>
+            </w>
+            <w id="AF:IgEph.w1483" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1484" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1485" >
+                <wf  ulex="" >θάνατος</wf>
+            </w>
+            <w id="AF:IgEph.w1486" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1487" >
+                <wf  ulex="" >κυρίου</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1488" >
+                <wf  ulex="" >τρία</wf>
+            </w>
+            <w id="AF:IgEph.w1489" >
+                <wf  ulex="" >μυστήρια</wf>
+            </w>
+            <w id="AF:IgEph.w1490" >
+                <wf  ulex="" >κραυγῆς</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1491" >
+                <wf  ulex="" >ἅτινα</wf>
+            </w>
+            <w id="AF:IgEph.w1492" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1493" >
+                <wf  ulex="" >ἡσυχίᾳ</wf>
+            </w>
+            <w id="AF:IgEph.w1494" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1495" >
+                <wf  ulex="" >ἐπράχθη</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1496" >
+                <wf  ulex="" >πῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1497" >
+                <wf  ulex="" >οὖν</wf>
+            </w>
+            <w id="AF:IgEph.w1498" >
+                <wf  ulex="" >ἐφανερώθη</wf>
+            </w>
+            <w id="AF:IgEph.w1499" >
+                <wf  ulex="" >τοῖς</wf>
+            </w>
+            <w id="AF:IgEph.w1500" >
+                <wf  ulex="" >αἰῶσιν;</wf>
+            </w>
+            <w id="AF:IgEph.w1501" >
+                <wf  ulex="" >ἀστὴρ</wf>
+            </w>
+            <w id="AF:IgEph.w1502" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1503" >
+                <wf  ulex="" >οὐρανῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1504" >
+                <wf  ulex="" >ἔλαμψεν</wf>
+            </w>
+            <w id="AF:IgEph.w1505" >
+                <wf  ulex="" >ὑπὲρ</wf>
+            </w>
+            <w id="AF:IgEph.w1506" >
+                <wf  ulex="" >πάντας</wf>
+            </w>
+            <w id="AF:IgEph.w1507" >
+                <wf  ulex="" >τοὺς</wf>
+            </w>
+            <w id="AF:IgEph.w1508" >
+                <wf  ulex="" >ἀστέρας</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1509" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1510" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1511" >
+                <wf  ulex="" >φῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1512" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1513" >
+                <wf  ulex="" >ἀνεκλάλητον</wf>
+            </w>
+            <w id="AF:IgEph.w1514" >
+                <wf  ulex="" >ἦν</wf>
+            </w>
+            <w id="AF:IgEph.w1515" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1516" >
+                <wf  ulex="" >ξενισμὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1517" >
+                <wf  ulex="" >παρεῖχεν</wf>
+            </w>
+            <w id="AF:IgEph.w1518" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w1519" >
+                <wf  ulex="" >καινότης</wf>
+            </w>
+            <w id="AF:IgEph.w1520" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1521" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1522" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1523" >
+                <wf  ulex="" >λοιπὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1524" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w1525" >
+                <wf  ulex="" >ἄστρα</wf>
+            </w>
+            <w id="AF:IgEph.w1526" >
+                <wf  ulex="" >ἅμα</wf>
+            </w>
+            <w id="AF:IgEph.w1527" >
+                <wf  ulex="" >ἡλίῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1528" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1529" >
+                <wf  ulex="" >σελήνῃ</wf>
+            </w>
+            <w id="AF:IgEph.w1530" >
+                <wf  ulex="" >χορὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1531" >
+                <wf  ulex="" >ἐγένετο</wf>
+            </w>
+            <w id="AF:IgEph.w1532" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1533" >
+                <wf  ulex="" >ἀστέρι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1534" >
+                <wf  ulex="" >αὐτὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1535" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1536" >
+                <wf  ulex="" >ἦν</wf>
+            </w>
+            <w id="AF:IgEph.w1537" >
+                <wf  ulex="" >ὑπερβάλλων</wf>
+            </w>
+            <w id="AF:IgEph.w1538" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1539" >
+                <wf  ulex="" >φῶς</wf>
+            </w>
+            <w id="AF:IgEph.w1540" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1541" >
+                <wf  ulex="" >ὑπὲρ´πάντα</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1542" >
+                <wf  ulex="" >ταραχή</wf>
+            </w>
+            <w id="AF:IgEph.w1543" >
+                <wf  ulex="" >τε</wf>
+            </w>
+            <w id="AF:IgEph.w1544" >
+                <wf  ulex="" >ἦν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1545" >
+                <wf  ulex="" >πόθεν</wf>
+            </w>
+            <w id="AF:IgEph.w1546" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w1547" >
+                <wf  ulex="" >καινότης</wf>
+            </w>
+            <w id="AF:IgEph.w1548" >
+                <wf  ulex="" >ἡ</wf>
+            </w>
+            <w id="AF:IgEph.w1549" >
+                <wf  ulex="" >ἀνόμοιος</wf>
+            </w>
+            <w id="AF:IgEph.w1550" >
+                <wf  ulex="" >αὐτοῖς</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="3" >
+            <w id="AF:IgEph.w1551" >
+                <wf  ulex="" >ὅθεν</wf>
+            </w>
+            <w id="AF:IgEph.w1552" >
+                <wf  ulex="" >ἐλύετο</wf>
+            </w>
+            <w id="AF:IgEph.w1553" >
+                <wf  ulex="" >πᾶσα</wf>
+            </w>
+            <w id="AF:IgEph.w1554" >
+                <wf  ulex="" >μαγεία</wf>
+            </w>
+            <w id="AF:IgEph.w1555" >
+                <wf  ulex="" >καὶ´πᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w1556" >
+                <wf  ulex="" >δεσμὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1557" >
+                <wf  ulex="" >ἠφανίζετο</wf>
+            </w>
+            <w id="AF:IgEph.w1558" >
+                <wf  ulex="" >κακίας</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1559" >
+                <wf  ulex="" >ἄγνοια</wf>
+            </w>
+            <w id="AF:IgEph.w1560" >
+                <wf  ulex="" >καθῃρεῖτο</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1561" >
+                <wf  ulex="" >παλαιὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1562" >
+                <wf  ulex="" >βασι-λεία</wf>
+            </w>
+            <w id="AF:IgEph.w1563" >
+                <wf  ulex="" >διεφθείρετο</wf>
+            </w>
+            <w id="AF:IgEph.w1564" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1565" >
+                <wf  ulex="" >ἀνθρωπίνως</wf>
+            </w>
+            <w id="AF:IgEph.w1566" >
+                <wf  ulex="" >φανερουμένου</wf>
+            </w>
+            <w id="AF:IgEph.w1567" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1568" >
+                <wf  ulex="" >καινότητα</wf>
+            </w>
+            <w id="AF:IgEph.w1569" >
+                <wf  ulex="" >ἀϊδίου</wf>
+            </w>
+            <w id="AF:IgEph.w1570" >
+                <wf  ulex="" >ζωῆς</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1571" >
+                <wf  ulex="" >ἀρχὴν</wf>
+            </w>
+            <w id="AF:IgEph.w1572" >
+                <wf  ulex="" >δὲ</wf>
+            </w>
+            <w id="AF:IgEph.w1573" >
+                <wf  ulex="" >ἐλάμβανεν</wf>
+            </w>
+            <w id="AF:IgEph.w1574" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1575" >
+                <wf  ulex="" >παρὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1576" >
+                <wf  ulex="" >θεῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1577" >
+                <wf  ulex="" >ἀπηρτισμένον</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1578" >
+                <wf  ulex="" >ἔνθεν</wf>
+            </w>
+            <w id="AF:IgEph.w1579" >
+                <wf  ulex="" >τὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1580" >
+                <wf  ulex="" >πάντα</wf>
+            </w>
+            <w id="AF:IgEph.w1581" >
+                <wf  ulex="" >συνεκινεῖτο</wf>
+            </w>
+            <w id="AF:IgEph.w1582" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1583" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1584" >
+                <wf  ulex="" >μελετᾶσθαι</wf>
+            </w>
+            <w id="AF:IgEph.w1585" >
+                <wf  ulex="" >θανάτου</wf>
+            </w>
+            <w id="AF:IgEph.w1586" >
+                <wf  ulex="" >κατάλυσιν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="20" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1587" >
+                <wf  ulex="" >Ἐάν</wf>
+            </w>
+            <w id="AF:IgEph.w1588" >
+                <wf  ulex="" >με</wf>
+            </w>
+            <w id="AF:IgEph.w1589" >
+                <wf  ulex="" >καταξιώσῃ</wf>
+            </w>
+            <w id="AF:IgEph.w1590" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w1591" >
+                <wf  ulex="" >Χριστὸς</wf>
+            </w>
+            <w id="AF:IgEph.w1592" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1593" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1594" >
+                <wf  ulex="" >προσευχῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1595" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1596" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1597" >
+                <wf  ulex="" >θέλημα</wf>
+            </w>
+            <w id="AF:IgEph.w1598" >
+                <wf  ulex="" >ᾖ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1599" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1600" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1601" >
+                <wf  ulex="" >δευτέρῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1602" >
+                <wf  ulex="" >βιβλιδίῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1603" >
+                <wf  ulex="" >ὃ</wf>
+            </w>
+            <w id="AF:IgEph.w1604" >
+                <wf  ulex="" >μέλλω</wf>
+            </w>
+            <w id="AF:IgEph.w1605" >
+                <wf  ulex="" >γράφειν</wf>
+            </w>
+            <w id="AF:IgEph.w1606" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1607" >
+                <wf  ulex="" >προσδηλώσω</wf>
+            </w>
+            <w id="AF:IgEph.w1608" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1609" >
+                <wf  ulex="" >ἧς</wf>
+            </w>
+            <w id="AF:IgEph.w1610" >
+                <wf  ulex="" >ἠρξάμην</wf>
+            </w>
+            <w id="AF:IgEph.w1611" >
+                <wf  ulex="" >οἰκονομίας</wf>
+            </w>
+            <w id="AF:IgEph.w1612" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1613" >
+                <wf  ulex="" >τὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1614" >
+                <wf  ulex="" >καινὸν</wf>
+            </w>
+            <w id="AF:IgEph.w1615" >
+                <wf  ulex="" >ἄνθρωπον</wf>
+            </w>
+            <w id="AF:IgEph.w1616" >
+                <wf  ulex="" >Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgEph.w1617" >
+                <wf  ulex="" >Χριστόν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1618" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1619" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1620" >
+                <wf  ulex="" >αὐτου</wf>
+            </w>
+            <w id="AF:IgEph.w1621" >
+                <wf  ulex="" >πίστει</wf>
+            </w>
+            <w id="AF:IgEph.w1622" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1623" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1624" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1625" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1626" >
+                <wf  ulex="" >ἀγαπῃ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1627" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1628" >
+                <wf  ulex="" >πάθει</wf>
+            </w>
+            <w id="AF:IgEph.w1629" >
+                <wf  ulex="" >αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1630" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1631" >
+                <wf  ulex="" >ἀναστάσει</wf>
+            </w>
+            <punc >·</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1632" >
+                <wf  ulex="" >μάλιστα</wf>
+            </w>
+            <w id="AF:IgEph.w1633" >
+                <wf  ulex="" >ἐὰν</wf>
+            </w>
+            <w id="AF:IgEph.w1634" >
+                <wf  ulex="" >ὁ</wf>
+            </w>
+            <w id="AF:IgEph.w1635" >
+                <wf  ulex="" >κύριος</wf>
+            </w>
+            <w id="AF:IgEph.w1636" >
+                <wf  ulex="" >μοι</wf>
+            </w>
+            <w id="AF:IgEph.w1637" >
+                <wf  ulex="" >ἀποκαλύψῃ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1638" >
+                <wf  ulex="" >ὅτι</wf>
+            </w>
+            <w id="AF:IgEph.w1639" >
+                <wf  ulex="" >οἱ</wf>
+            </w>
+            <w id="AF:IgEph.w1640" >
+                <wf  ulex="" >κατ᾽</wf>
+            </w>
+            <w id="AF:IgEph.w1641" >
+                <wf  ulex="" >ἄνδρα</wf>
+            </w>
+            <w id="AF:IgEph.w1642" >
+                <wf  ulex="" >κοινῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1643" >
+                <wf  ulex="" >πάντες</wf>
+            </w>
+            <w id="AF:IgEph.w1644" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1645" >
+                <wf  ulex="" >χάριτι</wf>
+            </w>
+            <w id="AF:IgEph.w1646" >
+                <wf  ulex="" >ἐξ</wf>
+            </w>
+            <w id="AF:IgEph.w1647" >
+                <wf  ulex="" >ὀνόματος</wf>
+            </w>
+            <w id="AF:IgEph.w1648" >
+                <wf  ulex="" >συνέρχεσθε</wf>
+            </w>
+            <w id="AF:IgEph.w1649" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1650" >
+                <wf  ulex="" >μιᾷ</wf>
+            </w>
+            <w id="AF:IgEph.w1651" >
+                <wf  ulex="" >πίστει</wf>
+            </w>
+            <w id="AF:IgEph.w1652" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1653" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1654" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1655" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1656" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1657" >
+                <wf  ulex="" >κατὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1658" >
+                <wf  ulex="" >σάρκα</wf>
+            </w>
+            <w id="AF:IgEph.w1659" >
+                <wf  ulex="" >ἐκ</wf>
+            </w>
+            <w id="AF:IgEph.w1660" >
+                <wf  ulex="" >γένους</wf>
+            </w>
+            <w id="AF:IgEph.w1661" >
+                <wf  ulex="" >Δαυείδ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1662" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1663" >
+                <wf  ulex="" >ἀνθρώπου</wf>
+            </w>
+            <w id="AF:IgEph.w1664" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1665" >
+                <wf  ulex="" >υἱῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1666" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1667" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1668" >
+                <wf  ulex="" >τὸ</wf>
+            </w>
+            <w id="AF:IgEph.w1669" >
+                <wf  ulex="" >ὑπακούειν</wf>
+            </w>
+            <w id="AF:IgEph.w1670" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgEph.w1671" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1672" >
+                <wf  ulex="" >ἐπισκόπῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1673" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1674" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1675" >
+                <wf  ulex="" >πρεσβυτερίῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1676" >
+                <wf  ulex="" >ἀπερισπάστῳ</wf>
+            </w>
+            <w id="AF:IgEph.w1677" >
+                <wf  ulex="" >κιανοίᾳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1678" >
+                <wf  ulex="" >ἕνα</wf>
+            </w>
+            <w id="AF:IgEph.w1679" >
+                <wf  ulex="" >ἄρτον</wf>
+            </w>
+            <w id="AF:IgEph.w1680" >
+                <wf  ulex="" >κλῶντες</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1681" >
+                <wf  ulex="" >ὅς</wf>
+            </w>
+            <w id="AF:IgEph.w1682" >
+                <wf  ulex="" >ἐστιν</wf>
+            </w>
+            <w id="AF:IgEph.w1683" >
+                <wf  ulex="" >φάρμακον</wf>
+            </w>
+            <w id="AF:IgEph.w1684" >
+                <wf  ulex="" >ἀθανασιας</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1685" >
+                <wf  ulex="" >ἀντίδοτος</wf>
+            </w>
+            <w id="AF:IgEph.w1686" >
+                <wf  ulex="" >τοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1687" >
+                <wf  ulex="" >μὴ</wf>
+            </w>
+            <w id="AF:IgEph.w1688" >
+                <wf  ulex="" >ἀποθανεῖν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1689" >
+                <wf  ulex="" >ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1690" >
+                <wf  ulex="" >ζῆν</wf>
+            </w>
+            <w id="AF:IgEph.w1691" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1692" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1693" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1694" >
+                <wf  ulex="" >διὰ</wf>
+            </w>
+            <w id="AF:IgEph.w1695" >
+                <wf  ulex="" >παντός</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+    <chapter num="21" >
+        <verse num="1" >
+            <w id="AF:IgEph.w1696" >
+                <wf  ulex="" >Ἀντίψυχον</wf>
+            </w>
+            <w id="AF:IgEph.w1697" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1698" >
+                <wf  ulex="" >ἐγὼ</wf>
+            </w>
+            <w id="AF:IgEph.w1699" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1700" >
+                <wf  ulex="" >ὧν</wf>
+            </w>
+            <w id="AF:IgEph.w1701" >
+                <wf  ulex="" >ἐπέμψατε</wf>
+            </w>
+            <w id="AF:IgEph.w1702" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1703" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1704" >
+                <wf  ulex="" >τιμὴν</wf>
+            </w>
+            <w id="AF:IgEph.w1705" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1706" >
+                <wf  ulex="" >Σμύρναν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1707" >
+                <wf  ulex="" >ὅθεν</wf>
+            </w>
+            <w id="AF:IgEph.w1708" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1709" >
+                <wf  ulex="" >γράφω</wf>
+            </w>
+            <w id="AF:IgEph.w1710" >
+                <wf  ulex="" >ὑμῖν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1711" >
+                <wf  ulex="" >εὐχαριστῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1712" >
+                <wf  ulex="" >τῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1713" >
+                <wf  ulex="" >κυρίῳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1714" >
+                <wf  ulex="" >ἀγαπῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1715" >
+                <wf  ulex="" >Πολύκαρπον</wf>
+            </w>
+            <w id="AF:IgEph.w1716" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w1717" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1718" >
+                <wf  ulex="" >ὑμᾶς</wf>
+            </w>
+            <punc >·</punc>
+            <w id="AF:IgEph.w1719" >
+                <wf  ulex="" >μνημονεύετέ</wf>
+            </w>
+            <w id="AF:IgEph.w1720" >
+                <wf  ulex="" >μου</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1721" >
+                <wf  ulex="" >ὡς</wf>
+            </w>
+            <w id="AF:IgEph.w1722" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1723" >
+                <wf  ulex="" >ὑμῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1724" >
+                <wf  ulex="" >Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgEph.w1725" >
+                <wf  ulex="" >Χριστός</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+        <verse num="2" >
+            <w id="AF:IgEph.w1726" >
+                <wf  ulex="" >προσεύχεσθε</wf>
+            </w>
+            <w id="AF:IgEph.w1727" >
+                <wf  ulex="" >ὑπὲρ</wf>
+            </w>
+            <w id="AF:IgEph.w1728" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1729" >
+                <wf  ulex="" >ἐκκλησίας</wf>
+            </w>
+            <w id="AF:IgEph.w1730" >
+                <wf  ulex="" >τῆς</wf>
+            </w>
+            <w id="AF:IgEph.w1731" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1732" >
+                <wf  ulex="" >Συρίᾳ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1733" >
+                <wf  ulex="" >ὅθεν</wf>
+            </w>
+            <w id="AF:IgEph.w1734" >
+                <wf  ulex="" >δεδεμένος</wf>
+            </w>
+            <w id="AF:IgEph.w1735" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1736" >
+                <wf  ulex="" >῾Ρώμην</wf>
+            </w>
+            <w id="AF:IgEph.w1737" >
+                <wf  ulex="" >ἀπάγομαι</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1738" >
+                <wf  ulex="" >ἔσχατος</wf>
+            </w>
+            <w id="AF:IgEph.w1739" >
+                <wf  ulex="" >ὣν</wf>
+            </w>
+            <w id="AF:IgEph.w1740" >
+                <wf  ulex="" >τῶν</wf>
+            </w>
+            <w id="AF:IgEph.w1741" >
+                <wf  ulex="" >ἐκεῖ</wf>
+            </w>
+            <w id="AF:IgEph.w1742" >
+                <wf  ulex="" >πιστῶν</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1743" >
+                <wf  ulex="" >ὥσπερ</wf>
+            </w>
+            <w id="AF:IgEph.w1744" >
+                <wf  ulex="" >ἠξιώθην</wf>
+            </w>
+            <w id="AF:IgEph.w1745" >
+                <wf  ulex="" >εἰς</wf>
+            </w>
+            <w id="AF:IgEph.w1746" >
+                <wf  ulex="" >τιμὴν</wf>
+            </w>
+            <w id="AF:IgEph.w1747" >
+                <wf  ulex="" >θεοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1748" >
+                <wf  ulex="" >εὑρεθῆναι</wf>
+            </w>
+            <punc >.</punc>
+            <w id="AF:IgEph.w1749" >
+                <wf  ulex="" >ἔρρωσθε</wf>
+            </w>
+            <w id="AF:IgEph.w1750" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1751" >
+                <wf  ulex="" >θεῷ</wf>
+            </w>
+            <w id="AF:IgEph.w1752" >
+                <wf  ulex="" >πατρὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1753" >
+                <wf  ulex="" >καὶ</wf>
+            </w>
+            <w id="AF:IgEph.w1754" >
+                <wf  ulex="" >ἐν</wf>
+            </w>
+            <w id="AF:IgEph.w1755" >
+                <wf  ulex="" >Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgEph.w1756" >
+                <wf  ulex="" >Χριστῷ</wf>
+            </w>
+            <punc >,</punc>
+            <w id="AF:IgEph.w1757" >
+                <wf  ulex="" >τῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1758" >
+                <wf  ulex="" >κοινῇ</wf>
+            </w>
+            <w id="AF:IgEph.w1759" >
+                <wf  ulex="" >ἐλπίδι</wf>
+            </w>
+            <w id="AF:IgEph.w1760" >
+                <wf  ulex="" >ἡμῶν</wf>
+            </w>
+            <punc >.</punc>
+        </verse>
+    </chapter>
+</book>

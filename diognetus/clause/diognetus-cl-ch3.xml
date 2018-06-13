@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter book="Diog" num="3">
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_1" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w455"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w456"/>
+        </pl:conj>
+        <cl:A>
+            <cl:clause id="Diog.c3_2" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w457"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w458"/>
+                    <cl:A>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w459"/>
+                    </cl:A>
+                    <cl:A>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w460"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w461"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w462"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w463"/>
+                    </cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w464"/>
+                </cl:P>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w465"/>
+                </cl:S>
+            </cl:clause>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w466"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="Diog.c3_3" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w467"/>
+                </cl:S>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w468"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w469"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Diog.c3_4" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w470"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_5" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w471"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w472"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_6" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w473"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w474"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w475"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w476"/>
+            <cl:clause id="Diog.c3_7" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w477"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w478"/>
+                </cl:P>
+            </cl:clause>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w479"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_8" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w480"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_9" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w481"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w482"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w483"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w484"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w485"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_10" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w486"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w487"/>
+            <cl:clause id="Diog.c3_11" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w488"/>
+                </cl:P>
+            </cl:clause>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w489"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_12" level="secondary" connect="Diog.c3_14">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w490"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w491"/>
+        </pl:conj>
+        <cl:A>
+            <cl:clause id="Diog.c3_13" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w492"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w493"/>
+                </cl:P>
+            </cl:clause>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w494"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w495"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w496"/>
+            <cl:P>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w497"/>
+            </cl:P>
+            <cl:C>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w498"/>
+            </cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w499"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_14" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w500"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_15" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w501"/>
+        </cl:C>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w502"/>
+        </pl:conj>
+        <cl:A>
+            <cl:clause id="Diog.c3_16" level="embedded">
+                <gloss/>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w503"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w504"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w505"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w506"/>
+                </cl:C>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w507"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w508"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w509"/>
+        </cl:S>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w510"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w511"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w512"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_17" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w513"/>
+        </cl:C>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w514"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_18" level="secondary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w515"/>
+        </cl:A>
+        <cl:C>
+            <cl:clause id="Diog.c3_19" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w516"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w517"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w518"/>
+                </cl:C>
+            </cl:clause>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w519"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="Diog.c3_20" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w520"/>
+                </cl:P>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_21" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w521"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w522"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w523"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w524"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w525"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_22" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w526"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w527"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_23" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:S>
+            <cl:clause id="Diog.c3_24" level="embedded">
+                <gloss/>
+                <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w541"/>
+                </pl:conj>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w542"/>
+                </cl:C>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w543"/>
+                </cl:C>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w544"/>
+                </cl:P>
+            </cl:clause>
+            <cl:clause id="Diog.c3_25" level="embedded">
+                <gloss/>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w545"/>
+                </cl:C>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w546"/>
+                </cl:P>
+            </cl:clause>
+            <cl:clause id="Diog.c3_26" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w528"/>
+                    <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w529"/>
+                    </pl:conj>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w530"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w531"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w532"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w533"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w534"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w535"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w536"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w537"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w538"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w539"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w540"/>
+                </cl:C>
+            </cl:clause>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_27" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w547"/>
+            <cl:A>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w548"/>
+            </cl:A>
+            <cl:S>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w549"/>
+            </cl:S>
+            <cl:P>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w550"/>
+            </cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w551"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_28" level="secondary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w552"/>
+        </cl:C>
+        <cl:C>
+            <cl:clause id="Diog.c3_29" level="embedded">
+                <gloss/>
+                <cl:C>
+                    <cl:clause id="Diog.c3_30" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w553"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w554"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w555"/>
+                </cl:P>
+            </cl:clause>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w556"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w557"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_31" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w558"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w559"/>
+            </pl:conj>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w560"/>
+            </pl:conj>
+            <cl:C>
+                <cl:clause id="Diog.c3_32" level="embedded">
+                    <gloss/>
+                    <cl:C>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w561"/>
+                    </cl:C>
+                    <cl:C>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w562"/>
+                    </cl:C>
+                    <cl:A>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w563"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w564"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w565"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w566"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w566.1"/>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w566.2"/>
+                    </cl:A>
+                    <cl:P>
+                        <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w566.3"/>
+                    </cl:P>
+                </cl:clause>
+            </cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w566.4"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_33" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w567"/>
+        </pl:conj>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w568"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w569"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w570"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w571"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w572"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_34" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:C>
+            <cl:clause id="Diog.c3_35" level="embedded">
+                <gloss/>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w573"/>
+                </cl:C>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w576"/>
+                </cl:P>
+            </cl:clause>
+            <cl:C>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w574"/>
+            </cl:C>
+            <cl:P>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w575"/>
+            </cl:P>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_36" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w577"/>
+            <cl:A>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w578"/>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w579"/>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w580"/>
+            </cl:A>
+            <cl:C>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w581"/>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w582"/>
+            </cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w583"/>
+            <cl:C>
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w584"/>
+            </cl:C>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_37" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w585"/>
+        </cl:S>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w586"/>
+        </pl:conj>
+        <cl:C>
+            <cl:clause id="Diog.c3_38" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w587"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w588"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Diog.c3_39" level="embedded">
+                        <gloss/>
+                        <cl:C>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w589"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w590"/>
+                        </cl:C>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w591"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Diog.c3_40" level="primary" connect="Diog.c3_1">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w592"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w593"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w594"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="Diog.c3_41" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w595"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Diog.c3_42" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w596"/>
+                            <cl:C>
+                                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w597"/>
+                            </cl:C>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Diog.w598"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+</chapter>

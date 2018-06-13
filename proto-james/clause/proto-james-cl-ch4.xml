@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter book="proJam" num="4">
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_1" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w530"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w531"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_2" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w532"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w533"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w534"/>
+        </cl:P>
+        <cl:A>
+            <cl:clause id="proJam.c4_3" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w535"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_4" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w536"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_5" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w537"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_6" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w538"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w539"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w540"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w541"/>
+        </cl:S>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w542"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w543"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w544"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_7" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w545"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w546"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_8" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w547"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w548"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w549"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w550"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w551"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w552"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w553"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w554"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w555"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_9" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w556"/>
+        </cl:P>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w557"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w558"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_10" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w559"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w560"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w561"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w562"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w563"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_11" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w564"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w565"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w566"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w567"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w568"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w569"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_12" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w570"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w571"/>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w572"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w573"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w574"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w575"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w576"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_13" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w577"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w578"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="proJam.c4_14" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w579"/>
+                </cl:P>
+            </cl:clause>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w580"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w581"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w582"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w583"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w584"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w585"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_15" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w586"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w587"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_16" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w588"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w589"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w590"/>
+        </cl:S>
+        <cl:A>
+            <cl:clause id="proJam.c4_17" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w591"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w592"/>
+                </cl:C>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_18" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w593"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_19" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w594"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w595"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w596"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w597"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w598"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w599"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w600"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w601"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w602"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_20" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w603"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w604"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w605"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w606"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w607"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w608"/>
+        </cl:A>
+        <cl:A>
+            <cl:clause id="proJam.c4_21" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w609"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_22" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w610"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_23" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w611"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_24" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w612"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w613"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w614"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w615"/>
+        </cl:S>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w616"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w617"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w618"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_25" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w619"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w620"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_26" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w621"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_27" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w622"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w623"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w624"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w625"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w626"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w627"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w628"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_28" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w629"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_29" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w630"/>
+        </pl:conj>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w631"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w632"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w633"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_30" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w634"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w635"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w636"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w637"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w638"/>
+        </cl:C>
+        <cl:A>
+            <cl:clause id="proJam.c4_31" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w639"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_32" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w640"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w641"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w642"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w643"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w644"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w645"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w646"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w647"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w648"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w649"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w650"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w651"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w652"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w653"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_33" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w654"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w655"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w656"/>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w657"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w658"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w659"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_34" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w660"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w661"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w662"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w663"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w664"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w665"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w666"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_35" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w667"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w668"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w669"/>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w670"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w671"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_36" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w672"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w673"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w674"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w675"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w676"/>
+        </cl:S>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w677"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w678"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w679"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_37" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w680"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w681"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_38" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w682"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w683"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w684"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w685"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w686"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w687"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_39" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w688"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w689"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w690"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w691"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w692"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w693"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w694"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w695"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w696"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_40" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w697"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w698"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="proJam.c4_41" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w699"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w700"/>
+                </cl:S>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w701"/>
+                </cl:P>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w702"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w703"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w704"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w705"/>
+                </cl:A>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_42" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w706"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w707"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w708"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_43" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w709"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w710"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w711"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w712"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w713"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w714"/>
+        </cl:A>
+        <cl:A>
+            <cl:clause id="proJam.c4_44" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w715"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_45" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w716"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w717"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_46" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w718"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w719"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w720"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w721"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w722"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w723"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w724"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_47" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w725"/>
+        </cl:P>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w726"/>
+        </pl:conj>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_48" level="secondary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w727"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w728"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w729"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w730"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_49" level="secondary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w731"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w732"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w733"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w734"/>
+        </cl:A>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w735"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w736"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w737"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_50" level="secondary" connect="proJam.c4_?">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w738"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w739"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="proJam.c4_51" level="primary" connect="proJam.c4_?">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w740"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w741"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w742"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w743"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w744"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w745"/>
+        </cl:A>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w746"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w747"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w748"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="proJam.w749"/>
+        </cl:A>
+    </cl:clause>
+</chapter>

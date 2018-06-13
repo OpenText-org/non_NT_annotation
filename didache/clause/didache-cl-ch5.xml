@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter book="Did" num="5">
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c5_1" level="primary" connect="Did.c5_1">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w764"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w765"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w766"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w767"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w768"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w769"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w770"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c5_2" level="primary" connect="Did.c5_1">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w771"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w772"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w773"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w774"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w775"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w776"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w777"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w778"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w779"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w780"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w781"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w782"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w783"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w784"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w785"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w786"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w787"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w788"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w789"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w790"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w791"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w792"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w793"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w794"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w795"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w796"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w797"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w798"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w799"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w800"/>
+            <cl:clause id="Did.c5_3" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w801"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w802"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_4" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w803"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w804"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_5" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w805"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w806"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w807"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w808"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_6" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w809"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w810"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w811"/>
+                </cl:C>
+                <cl:A/>
+            </cl:clause>
+            <cl:clause id="Did.c5_7" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w812"/>
+                </cl:A>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w813"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w814"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_8" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w815"/>
+                </cl:P>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w816"/>
+                </cl:A>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w817"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w818"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w819"/>
+                </cl:A>
+                <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w820"/>
+                </pl:conj>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w821"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w822"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w823"/>
+                </cl:A>
+            </cl:clause>
+            <cl:clause id="Did.c5_9" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w824"/>
+                </cl:P>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w825"/>
+                </cl:A>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w826"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w827"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w828"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_10" level="embedded">
+                <gloss/>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w829"/>
+                </cl:C>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w830"/>
+                </cl:P>
+            </cl:clause>
+            <cl:clause id="Did.c5_11" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w831"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w832"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_12" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w833"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w834"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w835"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_13" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w836"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w837"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w838"/>
+                    <cl:clause id="Did.c5_14" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w839"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_15" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w840"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w841"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Did.c5_16" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w842"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w843"/>
+                        </cl:P>
+                        <cl:C>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w844"/>
+                        </cl:C>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_17" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w845"/>
+                </cl:S>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w846"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_18" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w847"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Did.c5_19" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w848"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w849"/>
+                        </cl:P>
+                        <cl:C>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w850"/>
+                        </cl:C>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_20" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w851"/>
+                </cl:S>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w852"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_21" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w853"/>
+                </cl:S>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w854"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w855"/>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_22" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w856"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Did.c5_23" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w857"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w858"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_24" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w859"/>
+                </cl:P>
+                <cl:C>
+                    <cl:clause id="Did.c5_25" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w860"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w861"/>
+                        </cl:P>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+            <cl:clause id="Did.c5_26" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w862"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w863"/>
+                </cl:S>
+            </cl:clause>
+            <cl:clause id="Did.c5_27" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w864"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w865"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w866"/>
+                </cl:S>
+            </cl:clause>
+            <cl:clause id="Did.c5_28" level="embedded">
+                <gloss/>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w867"/>
+                </cl:S>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="Did.c5_29" level="primary" connect="Did.c5_2">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w868"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w869"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w870"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w871"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:Did.w872"/>
+        </cl:A>
+    </cl:clause>
+</chapter>

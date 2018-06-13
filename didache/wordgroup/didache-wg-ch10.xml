@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns:wg="http://www.opentext.org/ns/word-group" xmlns:pl="http://www.opentext.org/ns/paragraph" xmlns:cl="http://www.opentext.org/ns/clause" xmlns:xlink="http://www.w3.org/1999/xlink" book="Did" num="10">
+    <wg:groups>
+        <wg:group id="AF:Did.wg10_16">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1240"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_17">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1242">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Did.w1239"/>
+                            <wg:word xlink:href="AF:Did.w1241"/>
+                        </wg:specifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_18">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1243"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_19">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1244"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_20">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1245"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_21">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1246"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_22">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1247">
+                    <wg:modifiers>
+                        <wg:definer>
+                            <wg:word xlink:href="AF:Did.w1248"/>
+                        </wg:definer>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_23">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1251">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Did.w1249"/>
+                            <wg:word xlink:href="AF:Did.w1250"/>
+                        </wg:specifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_24">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1252">
+                    <wg:modifiers>
+                        <wg:qualifier>
+                            <wg:word xlink:href="AF:Did.w1253"/>
+                        </wg:qualifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_25">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1254"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_26">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1255"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_27">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1256"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_28">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1257"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_29">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1258"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Did.wg10_30">
+            <wg:head>
+                <wg:word xlink:href="AF:Did.w1259"/>
+            </wg:head>
+        </wg:group>
+    </wg:groups>
+</chapter>

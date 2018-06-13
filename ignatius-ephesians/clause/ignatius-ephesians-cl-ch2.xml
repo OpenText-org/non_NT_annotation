@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter book="IgEph" num="2">
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_1" level="primary" connect="IgEph.c2_1">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w161"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w162"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w163"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w164"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w165"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w166"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w167"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w168"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w169"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w170"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w171"/>
+            <cl:clause id="IgEph.c2_2" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w172"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w173"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w174"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w175"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="IgEph.c2_3" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w176"/>
+                </cl:P>
+                <cl:S>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w177"/>
+                </cl:S>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w178"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w179"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w180"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w181"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w182"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w183"/>
+                </cl:A>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_4" level="primary" connect="IgEph.c2_4">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w184"/>
+        </pl:conj>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w185"/>
+            <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+                <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w186"/>
+            </pl:conj>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w187"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w188"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w189"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w190"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w191"/>
+        </cl:S>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_5" level="secondary" connect="IgEph.c2_4">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w192"/>
+        </cl:C>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w193"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w194"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w195"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w196"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w197"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w198"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_6" level="primary" connect="IgEph.c2_4">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w199"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w200"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w201"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w202"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_7" level="secondary" connect="IgEph.c2_6">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w203"/>
+        </pl:conj>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w204"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w205"/>
+        </cl:C>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w206"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w207"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w208"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w209"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w210"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w211"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w212"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w213"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w214"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w215"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w216"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w217"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w218"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_8" level="secondary2" connect="IgEph.c2_7">
+        <gloss/>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w219"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w220"/>
+        </cl:A>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w221"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w222"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w223"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w224"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w225"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_9" level="primary" connect="IgEph.c2_6">
+        <gloss/>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w226"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w227"/>
+        </cl:C>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w228"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w229"/>
+        </cl:A>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_10" level="secondary" connect="IgEph.c2_9">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w230"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w231"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w232"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_11" level="primary" connect="IgEph.c2_9">
+        <gloss/>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w233"/>
+        </cl:C>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w234"/>
+        </pl:conj>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w235"/>
+        </cl:P>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w236"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w237"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w238"/>
+        </cl:A>
+        <cl:C>
+            <cl:clause id="IgEph.c2_12" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w239"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w240"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w241"/>
+                    <cl:clause id="IgEph.c2_13" level="embedded">
+                        <gloss/>
+                        <cl:P>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w242"/>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w243"/>
+                        </cl:P>
+                        <cl:C>
+                            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w244"/>
+                        </cl:C>
+                    </cl:clause>
+                </cl:C>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="IgEph.c2_14" level="secondary" connect="IgEph.c2_11">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w245"/>
+        </pl:conj>
+        <cl:A>
+            <cl:clause id="IgEph.c2_15" level="embedded">
+                <gloss/>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w246"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w247"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w248"/>
+                </cl:A>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w249"/>
+                </cl:P>
+            </cl:clause>
+        </cl:A>
+        <cl:A>
+            <cl:clause id="IgEph.c2_16" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w250"/>
+                </cl:P>
+                <cl:C>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w251"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w252"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w253"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w254"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w255"/>
+                </cl:C>
+                <cl:A>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w256"/>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w257"/>
+                </cl:A>
+            </cl:clause>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w258"/>
+        </cl:P>
+        <cl:C>
+            <cl:clause id="IgEph.c2_17" level="embedded">
+                <gloss/>
+                <cl:P>
+                    <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AF:IgEph.w259"/>
+                </cl:P>
+            </cl:clause>
+        </cl:C>
+    </cl:clause>
+</chapter>

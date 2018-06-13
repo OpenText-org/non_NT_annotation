@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns:wg="http://www.opentext.org/ns/word-group" xmlns:pl="http://www.opentext.org/ns/paragraph" xmlns:cl="http://www.opentext.org/ns/clause" xmlns:xlink="http://www.w3.org/1999/xlink" book="Diog" num="6">
+    <wg:groups>
+        <wg:group id="AF:Diog.wg6_1">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w984"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_2">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w985"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_3">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w986"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_4">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w987"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_5">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w988"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_6">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w989"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_7">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w990"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_8">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w991"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_9">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w992"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_10">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w994">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Diog.w993"/>
+                        </wg:specifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_11">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w995"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_12">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w996"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_13">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1002">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Diog.w997"/>
+                            <wg:word xlink:href="AF:Diog.w999"/>
+                        </wg:specifier>
+                        <wg:definer>
+                            <wg:word xlink:href="AF:Diog.w998"/>
+                        </wg:definer>
+                        <wg:qualifier>
+                            <wg:word xlink:href="AF:Diog.w1001">
+                                <wg:modifiers>
+                                    <wg:specifier>
+                                        <wg:word xlink:href="AF:Diog.w1000"/>
+                                    </wg:specifier>
+                                </wg:modifiers>
+                            </wg:word>
+                        </wg:qualifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_14">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1004">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Diog.w1003"/>
+                        </wg:specifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_15">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1005"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_16">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1006"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_17">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1011">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Diog.w1007"/>
+                            <wg:word xlink:href="AF:Diog.w1008"/>
+                        </wg:specifier>
+                        <wg:qualifier>
+                            <wg:word xlink:href="AF:Diog.w1010">
+                                <wg:modifiers>
+                                    <wg:specifier>
+                                        <wg:word xlink:href="AF:Diog.w1009"/>
+                                    </wg:specifier>
+                                </wg:modifiers>
+                            </wg:word>
+                        </wg:qualifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_18">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1012"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_19">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1013"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_20">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1018">
+                    <wg:modifiers>
+                        <wg:specifier>
+                            <wg:word xlink:href="AF:Diog.w1016"/>
+                            <wg:word xlink:href="AF:Diog.w1017"/>
+                        </wg:specifier>
+                    </wg:modifiers>
+                </wg:word>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_21">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1019"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_22">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1020"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_23">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1021"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_24">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1022"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_25">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1023"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_26">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1024"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_27">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1025"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_28">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1026"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_29">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1027"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_30">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1028"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_31">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1029"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_32">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1030"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_33">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1031"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_34">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1032"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_35">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1033"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_36">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1034"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_37">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1035"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_38">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1036"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_39">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1038"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_40">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1039"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_41">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1037"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_42">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1040"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_43">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1041"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_44">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1042"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_45">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1043"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_46">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_47">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.1"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_48">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.2"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_49">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.3"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_50">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.4"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_51">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.5"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_52">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.6"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_53">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.7"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_54">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1044.8"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_55">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1045"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_56">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1046"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_57">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1047"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_58">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1048"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_59">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1049"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_60">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1050"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_61">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1051"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_62">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1052"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_63">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1053"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_64">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1054"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_65">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1055"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_66">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1056"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_67">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1057"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_68">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1058"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_69">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1059"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_70">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1060"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_71">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1061"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_72">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1062"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_73">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1063"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_74">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1064"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_75">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1065"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_76">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1066"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_77">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1067"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_78">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1068"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_79">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1069"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_80">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1070"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_81">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1071"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_82">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1072"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_83">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1073"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_84">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1074"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_85">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1075"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_86">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1076"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_87">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1077"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_88">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1078"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_89">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1079"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_90">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1080"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_91">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1081"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_92">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1082"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_93">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1083"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_94">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1084"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_95">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1085"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_96">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1086"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_97">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1087"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_98">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1088"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_99">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1089"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_100">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1090"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_101">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1091"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_102">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1092"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_103">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1093"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_104">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1094"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_105">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1095"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_106">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1096"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_107">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1097"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_108">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1098"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_109">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1099"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_110">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1100"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_111">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1101"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_112">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1102"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_113">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1103"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_114">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1104"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_115">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1105"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_116">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1106"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_117">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1107"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_118">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1108"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_119">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1109"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_120">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1110"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_121">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1111"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_122">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1112"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_123">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1113"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_124">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1114"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_125">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1115"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_126">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1116"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_127">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1117"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_128">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1118"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_129">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1119"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_130">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1120"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_131">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1121"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_132">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1122"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_133">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1123"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_134">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1124"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_135">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1125"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_136">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1126"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_137">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1127"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_138">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1128"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_139">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1129"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_140">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1130"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_141">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1131"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_142">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1132"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_143">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1133"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_144">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1134"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_145">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1135"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_146">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1136"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_147">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1137"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_148">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1138"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_149">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1139"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_150">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1140"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_151">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1141"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_152">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1142"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_153">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1143"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_154">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1144"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_155">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1145"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_156">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1146"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_157">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1147"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_158">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1148"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_159">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1149"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_160">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1150"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_161">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1151"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_162">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1152"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_163">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1153"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_164">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1154"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_165">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1155"/>
+            </wg:head>
+        </wg:group>
+        <wg:group id="AF:Diog.wg6_166">
+            <wg:head>
+                <wg:word xlink:href="AF:Diog.w1156"/>
+            </wg:head>
+        </wg:group>
+    </wg:groups>
+</chapter>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter book="NTApoc:ApocPet" num="1">
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="NTApoc:ApocPet.c1_1" level="primary" connect="NTApoc:ApocPet.c1_1">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w1"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w2"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w3"/>
+        </cl:S>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w4"/>
+        </cl:P>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w5"/>
+        </cl:C>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="NTApoc:ApocPet.c1_2" level="primary" connect="NTApoc:ApocPet.c1_1">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w6"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w7"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w8"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w9"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w10"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w11"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w12"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w13"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="NTApoc:ApocPet.c1_3" level="primary" connect="NTApoc:ApocPet.c1_1">
+        <gloss/>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w14"/>
+        </cl:S>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w15"/>
+        </pl:conj>
+        <cl:C>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w16"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w17"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w18"/>
+        </cl:C>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w19"/>
+        </cl:P>
+    </cl:clause>
+    <cl:clause xmlns:cl="http://www.opentext.org/ns/clause" id="NTApoc:ApocPet.c1_4" level="primary" connect="NTApoc:ApocPet.c1_1">
+        <gloss/>
+        <pl:conj xmlns:pl="http://www.opentext.org/ns/paragraph">
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w20"/>
+        </pl:conj>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w21"/>
+        </cl:A>
+        <cl:P>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w22"/>
+        </cl:P>
+        <cl:S>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w23"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w24"/>
+        </cl:S>
+        <cl:A>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w25"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w26"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w27"/>
+            <w xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NTApoc:ApocPet.w28"/>
+        </cl:A>
+    </cl:clause>
+</chapter>

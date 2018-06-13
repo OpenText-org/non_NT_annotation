@@ -1,0 +1,3280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book name="IgMag">
+    <head>
+        <title>ΜΑΓΝΗΣΙΕΥΣΙΝ ΙΓΝΑΤΙΟΣ</title>
+    </head>
+    <chapter num="1">
+        <verse num="0">
+            <w id="AF:IgMag.w1">
+                <wf>Ἰγνάτιος</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w2">
+                <wf>ὁ</wf>
+            </w>
+            <w id="AF:IgMag.w3">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w4">
+                <wf>Θεοφόρος</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w5">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w6">
+                <wf>εὐλογημένῃ</wf>
+            </w>
+            <w id="AF:IgMag.w7">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w8">
+                <wf>χάριτι</wf>
+            </w>
+            <w id="AF:IgMag.w9">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w10">
+                <wf>πατρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w11">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w12">
+                <wf>Χριστῷ</wf>
+            </w>
+            <w id="AF:IgMag.w13">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w14">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w15">
+                <wf>σωτῆρι</wf>
+            </w>
+            <w id="AF:IgMag.w16">
+                <wf>ἡμῶν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w17">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w18">
+                <wf>ᾧ</wf>
+            </w>
+            <w id="AF:IgMag.w19">
+                <wf>ἀσπάζομαι</wf>
+            </w>
+            <w id="AF:IgMag.w20">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w21">
+                <wf>ἐκκλησίαν</wf>
+            </w>
+            <w id="AF:IgMag.w22">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w23">
+                <wf>οὖσαν</wf>
+            </w>
+            <w id="AF:IgMag.w24">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w25">
+                <wf>Μαγνησίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w26">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w27">
+                <wf>πρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w28">
+                <wf>Μαιὰνδρῳ</wf>
+            </w>
+            <w id="AF:IgMag.w29">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w30">
+                <wf>εὐχομαι</wf>
+            </w>
+            <w id="AF:IgMag.w31">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w32">
+                <wf>θεῷ</wf>
+            </w>
+            <w id="AF:IgMag.w33">
+                <wf>πατρὶ</wf>
+            </w>
+            <w id="AF:IgMag.w34">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w35">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w36">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w37">
+                <wf>Χριστῷ</wf>
+            </w>
+            <w id="AF:IgMag.w38">
+                <wf>πλεῖστα</wf>
+            </w>
+            <w id="AF:IgMag.w39">
+                <wf>χαίρειν</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="1">
+            <w id="AF:IgMag.w40">
+                <wf>Γνοὺς</wf>
+            </w>
+            <w id="AF:IgMag.w41">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w42">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w43">
+                <wf>πολυεύτακτον</wf>
+            </w>
+            <w id="AF:IgMag.w44">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w45">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w46">
+                <wf>θεὸν</wf>
+            </w>
+            <w id="AF:IgMag.w47">
+                <wf>ἀγάπης</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w48">
+                <wf>ἀγαλλιώμενος</wf>
+            </w>
+            <w id="AF:IgMag.w49">
+                <wf>προειλόμην</wf>
+            </w>
+            <w id="AF:IgMag.w50">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w51">
+                <wf>πίστει</wf>
+            </w>
+            <w id="AF:IgMag.w52">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w53">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w54">
+                <wf>προσλαλῆσαι</wf>
+            </w>
+            <w id="AF:IgMag.w55">
+                <wf>ὑμῖν</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w56">
+                <wf>καταξιωθεὶς</wf>
+            </w>
+            <w id="AF:IgMag.w57">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w58">
+                <wf>ὀνόματος</wf>
+            </w>
+            <w id="AF:IgMag.w59">
+                <wf>θεοπρεπεστάτου</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w60">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w61">
+                <wf>οἷς</wf>
+            </w>
+            <w id="AF:IgMag.w62">
+                <wf>περιφέρω</wf>
+            </w>
+            <w id="AF:IgMag.w63">
+                <wf>δεσμοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w64">
+                <wf>ᾄ</wf>
+            </w>
+            <w id="AF:IgMag.w65">
+                <wf>δω</wf>
+            </w>
+            <w id="AF:IgMag.w66">
+                <wf>τὰς</wf>
+            </w>
+            <w id="AF:IgMag.w67">
+                <wf>ἐκκλησίας</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w68">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w69">
+                <wf>αἷς</wf>
+            </w>
+            <w id="AF:IgMag.w70">
+                <wf>ἕνωσιν</wf>
+            </w>
+            <w id="AF:IgMag.w71">
+                <wf>εὔχομαι</wf>
+            </w>
+            <w id="AF:IgMag.w72">
+                <wf>σαρκὸς</wf>
+            </w>
+            <w id="AF:IgMag.w73">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w74">
+                <wf>πνεύματος</wf>
+            </w>
+            <w id="AF:IgMag.w75">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w76">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w77">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w78">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w79">
+                <wf>παντὸς</wf>
+            </w>
+            <w id="AF:IgMag.w80">
+                <wf>ἡμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w81">
+                <wf>ζῆν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w82">
+                <wf>πίστεώς</wf>
+            </w>
+            <w id="AF:IgMag.w83">
+                <wf>τε</wf>
+            </w>
+            <w id="AF:IgMag.w84">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w85">
+                <wf>ἀγάπης</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w86">
+                <wf>ἧς</wf>
+            </w>
+            <w id="AF:IgMag.w87">
+                <wf>οὐδὲν</wf>
+            </w>
+            <w id="AF:IgMag.w88">
+                <wf>προκέκριται</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w89">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w90">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w91">
+                <wf>κυριώτερον</wf>
+            </w>
+            <w id="AF:IgMag.w92">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w93">
+                <wf>και</wf>
+            </w>
+            <w id="AF:IgMag.w94">
+                <wf>πατρός</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w95">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w96">
+                <wf>ᾧ</wf>
+            </w>
+            <w id="AF:IgMag.w97">
+                <wf>ὑπομένοντες</wf>
+            </w>
+            <w id="AF:IgMag.w98">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w99">
+                <wf>πᾶσαν</wf>
+            </w>
+            <w id="AF:IgMag.w100">
+                <wf>ἐπήρειαν</wf>
+            </w>
+            <w id="AF:IgMag.w101">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w102">
+                <wf>ἄρχοντος</wf>
+            </w>
+            <w id="AF:IgMag.w103">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w104">
+                <wf>αἰῶνος</wf>
+            </w>
+            <w id="AF:IgMag.w105">
+                <wf>τούτου</wf>
+            </w>
+            <w id="AF:IgMag.w106">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w107">
+                <wf>διαφυγόντες</wf>
+            </w>
+            <w id="AF:IgMag.w108">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w109">
+                <wf>τευξόμεθα</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="2">
+        <verse num="1">
+            <w id="AF:IgMag.w110">
+                <wf>Ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgMag.w111">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w112">
+                <wf>ἠξιώθην</wf>
+            </w>
+            <w id="AF:IgMag.w113">
+                <wf>ἰδεῖν</wf>
+            </w>
+            <w id="AF:IgMag.w114">
+                <wf>ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgMag.w115">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w116">
+                <wf>Δαμᾶ</wf>
+            </w>
+            <w id="AF:IgMag.w117">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w118">
+                <wf>ἀξιοθέον</wf>
+            </w>
+            <w id="AF:IgMag.w119">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w120">
+                <wf>ἐπισκόπου</wf>
+            </w>
+            <w id="AF:IgMag.w121">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w122">
+                <wf>πρεσβυτέρων</wf>
+            </w>
+            <w id="AF:IgMag.w123">
+                <wf>ἀξίων</wf>
+            </w>
+            <w id="AF:IgMag.w124">
+                <wf>Βάσσου</wf>
+            </w>
+            <w id="AF:IgMag.w125">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w126">
+                <wf>Ἀπολλωνίου</wf>
+            </w>
+            <w id="AF:IgMag.w127">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w128">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w129">
+                <wf>συνδούλου</wf>
+            </w>
+            <w id="AF:IgMag.w130">
+                <wf>μου</wf>
+            </w>
+            <w id="AF:IgMag.w131">
+                <wf>διακόνον</wf>
+            </w>
+            <w id="AF:IgMag.w132">
+                <wf>Ζωτίωνος</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w133">
+                <wf>οὗ</wf>
+            </w>
+            <w id="AF:IgMag.w134">
+                <wf>ἐγὼ</wf>
+            </w>
+            <w id="AF:IgMag.w135">
+                <wf>ὀναίμην</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w136">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w137">
+                <wf>ὑποτάσσεται</wf>
+            </w>
+            <w id="AF:IgMag.w138">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w139">
+                <wf>ἐπισκόπῳ</wf>
+            </w>
+            <w id="AF:IgMag.w140">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w141">
+                <wf>χάριτι</wf>
+            </w>
+            <w id="AF:IgMag.w142">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w143">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w144">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w145">
+                <wf>πρεσβυτερίῳ</wf>
+            </w>
+            <w id="AF:IgMag.w146">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w147">
+                <wf>νόμῳ</wf>
+            </w>
+            <w id="AF:IgMag.w148">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w149">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="3">
+        <verse num="1">
+            <w id="AF:IgMag.w150">
+                <wf>Και</wf>
+            </w>
+            <w id="AF:IgMag.w151">
+                <wf>ὑμῖν</wf>
+            </w>
+            <w id="AF:IgMag.w152">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w153">
+                <wf>πρέπει</wf>
+            </w>
+            <w id="AF:IgMag.w154">
+                <wf>μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w155">
+                <wf>συγχρᾶσθαι</wf>
+            </w>
+            <w id="AF:IgMag.w156">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w157">
+                <wf>ἡλικίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w158">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w159">
+                <wf>ἐπισκόπου</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w160">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w161">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w162">
+                <wf>δύναμιν</wf>
+            </w>
+            <w id="AF:IgMag.w163">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w164">
+                <wf>πατρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w165">
+                <wf>πᾶσαν</wf>
+            </w>
+            <w id="AF:IgMag.w166">
+                <wf>ἐντροπὴν</wf>
+            </w>
+            <w id="AF:IgMag.w167">
+                <wf>αὐτῷ</wf>
+            </w>
+            <w id="AF:IgMag.w168">
+                <wf>ἀπονέμειν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w169">
+                <wf>καθὼς</wf>
+            </w>
+            <w id="AF:IgMag.w170">
+                <wf>ἔγνων</wf>
+            </w>
+            <w id="AF:IgMag.w171">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w172">
+                <wf>τοὺς</wf>
+            </w>
+            <w id="AF:IgMag.w173">
+                <wf>ἁγίους</wf>
+            </w>
+            <w id="AF:IgMag.w174">
+                <wf>πρεσβυτέρους</wf>
+            </w>
+            <w id="AF:IgMag.w175">
+                <wf>οὐ</wf>
+            </w>
+            <w id="AF:IgMag.w176">
+                <wf>προσειληφότας</wf>
+            </w>
+            <w id="AF:IgMag.w177">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w178">
+                <wf>φαινομένην</wf>
+            </w>
+            <w id="AF:IgMag.w179">
+                <wf>νεωτερικὴν</wf>
+            </w>
+            <w id="AF:IgMag.w180">
+                <wf>τάξιν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w181">
+                <wf>ἀλλ’</wf>
+            </w>
+            <w id="AF:IgMag.w182">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w183">
+                <wf>φρονίμους</wf>
+            </w>
+            <w id="AF:IgMag.w184">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w185">
+                <wf>θεῷ</wf>
+            </w>
+            <w id="AF:IgMag.w186">
+                <wf>συγχωροῦντας</wf>
+            </w>
+            <w id="AF:IgMag.w187">
+                <wf>αὐτῷ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w188">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w189">
+                <wf>αὐτῷ</wf>
+            </w>
+            <w id="AF:IgMag.w190">
+                <wf>δέ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w191">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w192">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w193">
+                <wf>πατρὶ</wf>
+            </w>
+            <w id="AF:IgMag.w194">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w195">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w196">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w197">
+                <wf>πάντων</wf>
+            </w>
+            <w id="AF:IgMag.w198">
+                <wf>ἐπισκόπῳ</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w199">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w200">
+                <wf>τιμὴν</wf>
+            </w>
+            <w id="AF:IgMag.w201">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w202">
+                <wf>ἐκείνου</wf>
+            </w>
+            <w id="AF:IgMag.w203">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w204">
+                <wf>θελήσαντος</wf>
+            </w>
+            <w id="AF:IgMag.w205">
+                <wf>ἡμᾶς</wf>
+            </w>
+            <w id="AF:IgMag.w206">
+                <wf>πρέπον</wf>
+            </w>
+            <w id="AF:IgMag.w207">
+                <wf>ἐστὶν</wf>
+            </w>
+            <w id="AF:IgMag.w208">
+                <wf>ἐπακούειν</wf>
+            </w>
+            <w id="AF:IgMag.w209">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w210">
+                <wf>μηδεμίαν</wf>
+            </w>
+            <w id="AF:IgMag.w211">
+                <wf>ὑπόκρισιν</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w212">
+                <wf>ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgMag.w213">
+                <wf>οὐχ</wf>
+            </w>
+            <w id="AF:IgMag.w214">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w215">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w216">
+                <wf>ἐπίσκοπον</wf>
+            </w>
+            <w id="AF:IgMag.w217">
+                <wf>τοῦτον</wf>
+            </w>
+            <w id="AF:IgMag.w218">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w219">
+                <wf>βλεπόμενον</wf>
+            </w>
+            <w id="AF:IgMag.w220">
+                <wf>πλανᾷ</wf>
+            </w>
+            <w id="AF:IgMag.w221">
+                <wf>τις</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w222">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w223">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w224">
+                <wf>ἀόρατον</wf>
+            </w>
+            <w id="AF:IgMag.w225">
+                <wf>παραλογίζεται</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w226">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w227">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w228">
+                <wf>τοιοῦτον</wf>
+            </w>
+            <w id="AF:IgMag.w229">
+                <wf>οὐ</wf>
+            </w>
+            <w id="AF:IgMag.w230">
+                <wf>πρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w231">
+                <wf>σάρκα</wf>
+            </w>
+            <w id="AF:IgMag.w232">
+                <wf>ὁ</wf>
+            </w>
+            <w id="AF:IgMag.w233">
+                <wf>λόγος</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w234">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w235">
+                <wf>πρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w236">
+                <wf>θεὸν</wf>
+            </w>
+            <w id="AF:IgMag.w237">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w238">
+                <wf>τὰ</wf>
+            </w>
+            <w id="AF:IgMag.w239">
+                <wf>κρύφια</wf>
+            </w>
+            <w id="AF:IgMag.w240">
+                <wf>εἰδότα</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="4">
+        <verse num="1">
+            <w id="AF:IgMag.w241">
+                <wf>Πρέπον</wf>
+            </w>
+            <w id="AF:IgMag.w242">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w243">
+                <wf>ἐστιν</wf>
+            </w>
+            <w id="AF:IgMag.w244">
+                <wf>μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w245">
+                <wf>μόνον</wf>
+            </w>
+            <w id="AF:IgMag.w246">
+                <wf>καλεῖσθαι</wf>
+            </w>
+            <w id="AF:IgMag.w247">
+                <wf>Χριστιανούς</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w248">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w249">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w250">
+                <wf>εἶναι</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w251">
+                <wf>ὥσπερ</wf>
+            </w>
+            <w id="AF:IgMag.w252">
+                <wf>καί</wf>
+            </w>
+            <w id="AF:IgMag.w253">
+                <wf>τινες</wf>
+            </w>
+            <w id="AF:IgMag.w254">
+                <wf>ἐπίσκοπον</wf>
+            </w>
+            <w id="AF:IgMag.w255">
+                <wf>μὲν</wf>
+            </w>
+            <w id="AF:IgMag.w256">
+                <wf>καλοῦσιν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w257">
+                <wf>χωρὶς</wf>
+            </w>
+            <w id="AF:IgMag.w258">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w259">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w260">
+                <wf>πάντα</wf>
+            </w>
+            <w id="AF:IgMag.w261">
+                <wf>πράσσουσιν</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w262">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w263">
+                <wf>τοιοῦτοι</wf>
+            </w>
+            <w id="AF:IgMag.w264">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w265">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w266">
+                <wf>εὐσυνείδητοί</wf>
+            </w>
+            <w id="AF:IgMag.w267">
+                <wf>μοι</wf>
+            </w>
+            <w id="AF:IgMag.w268">
+                <wf>εἶναι</wf>
+            </w>
+            <w id="AF:IgMag.w269">
+                <wf>φαίνονται</wf>
+            </w>
+            <w id="AF:IgMag.w270">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w271">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w272">
+                <wf>μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w273">
+                <wf>βεβαίως</wf>
+            </w>
+            <w id="AF:IgMag.w274">
+                <wf>κατ’</wf>
+            </w>
+            <w id="AF:IgMag.w275">
+                <wf>ἐντολὴν</wf>
+            </w>
+            <w id="AF:IgMag.w276">
+                <wf>συναθροίζεσθαι</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="5">
+        <verse num="1">
+            <w id="AF:IgMag.w277">
+                <wf>Ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgMag.w278">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w279">
+                <wf>τέλος</wf>
+            </w>
+            <w id="AF:IgMag.w280">
+                <wf>τὰ</wf>
+            </w>
+            <w id="AF:IgMag.w281">
+                <wf>πράγματα</wf>
+            </w>
+            <w id="AF:IgMag.w282">
+                <wf>ἔχει</wf>
+            </w>
+            <w id="AF:IgMag.w283">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w284">
+                <wf>πρόκειται</wf>
+            </w>
+            <w id="AF:IgMag.w285">
+                <wf>τὰ</wf>
+            </w>
+            <w id="AF:IgMag.w286">
+                <wf>δύο</wf>
+            </w>
+            <w id="AF:IgMag.w287">
+                <wf>ὁμοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w288">
+                <wf>ὅ</wf>
+            </w>
+            <w id="AF:IgMag.w289">
+                <wf>τε</wf>
+            </w>
+            <w id="AF:IgMag.w290">
+                <wf>θάνατος</wf>
+            </w>
+            <w id="AF:IgMag.w291">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w292">
+                <wf>ἡ</wf>
+            </w>
+            <w id="AF:IgMag.w293">
+                <wf>ζωή</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w294">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w295">
+                <wf>ἕκαστος</wf>
+            </w>
+            <w id="AF:IgMag.w296">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w297">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w298">
+                <wf>ἴδιον</wf>
+            </w>
+            <w id="AF:IgMag.w299">
+                <wf>τόπον</wf>
+            </w>
+            <w id="AF:IgMag.w300">
+                <wf>μέλλει</wf>
+            </w>
+            <w id="AF:IgMag.w301">
+                <wf>χωρεῖν</wf>
+            </w>
+            <punc>·</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w302">
+                <wf>ὥσπερ</wf>
+            </w>
+            <w id="AF:IgMag.w303">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w304">
+                <wf>ἐστιν</wf>
+            </w>
+            <w id="AF:IgMag.w305">
+                <wf>νομίσματα</wf>
+            </w>
+            <w id="AF:IgMag.w306">
+                <wf>δύο</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w307">
+                <wf>ὃ</wf>
+            </w>
+            <w id="AF:IgMag.w308">
+                <wf>μὲν</wf>
+            </w>
+            <w id="AF:IgMag.w309">
+                <wf>θεοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w310">
+                <wf>ὃ</wf>
+            </w>
+            <w id="AF:IgMag.w311">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w312">
+                <wf>κόσμου</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w313">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w314">
+                <wf>ἕκαστον</wf>
+            </w>
+            <w id="AF:IgMag.w315">
+                <wf>αὐτῶν</wf>
+            </w>
+            <w id="AF:IgMag.w316">
+                <wf>ἴδιον</wf>
+            </w>
+            <w id="AF:IgMag.w317">
+                <wf>χαρακτῆρα</wf>
+            </w>
+            <w id="AF:IgMag.w318">
+                <wf>ἐπικείμενον</wf>
+            </w>
+            <w id="AF:IgMag.w319">
+                <wf>ἔχει</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w320">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w321">
+                <wf>ἄπιστοι</wf>
+            </w>
+            <w id="AF:IgMag.w322">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w323">
+                <wf>κόσμου</wf>
+            </w>
+            <w id="AF:IgMag.w324">
+                <wf>τούτου</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w325">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w326">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w327">
+                <wf>πιστοὶ</wf>
+            </w>
+            <w id="AF:IgMag.w328">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w329">
+                <wf>ἀγάπῃ</wf>
+            </w>
+            <w id="AF:IgMag.w330">
+                <wf>χαρακτῆρα</wf>
+            </w>
+            <w id="AF:IgMag.w331">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w332">
+                <wf>πατρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w333">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w334">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w335">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w336">
+                <wf>δι’</wf>
+            </w>
+            <w id="AF:IgMag.w337">
+                <wf>οὗ</wf>
+            </w>
+            <w id="AF:IgMag.w338">
+                <wf>ἐὰν</wf>
+            </w>
+            <w id="AF:IgMag.w339">
+                <wf>μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w340">
+                <wf>αὐθαιρέτως</wf>
+            </w>
+            <w id="AF:IgMag.w341">
+                <wf>ἔχωμεν</wf>
+            </w>
+            <w id="AF:IgMag.w342">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w343">
+                <wf>ἀποθανεῖν</wf>
+            </w>
+            <w id="AF:IgMag.w344">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w345">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w346">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w347">
+                <wf>πάθος</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w348">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w349">
+                <wf>ζῆν</wf>
+            </w>
+            <w id="AF:IgMag.w350">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w351">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w352">
+                <wf>ἔστιν</wf>
+            </w>
+            <w id="AF:IgMag.w353">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w354">
+                <wf>ἡμῖν</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="6">
+        <verse num="1">
+            <w id="AF:IgMag.w355">
+                <wf>Ἐπεῖ</wf>
+            </w>
+            <w id="AF:IgMag.w356">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w357">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w358">
+                <wf>τοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w359">
+                <wf>προγεγραμμένοις</wf>
+            </w>
+            <w id="AF:IgMag.w360">
+                <wf>προσώποις</wf>
+            </w>
+            <w id="AF:IgMag.w361">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w362">
+                <wf>πᾶν</wf>
+            </w>
+            <w id="AF:IgMag.w363">
+                <wf>πλῆθος</wf>
+            </w>
+            <w id="AF:IgMag.w364">
+                <wf>ἐθεώρησα</wf>
+            </w>
+            <w id="AF:IgMag.w365">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w366">
+                <wf>πίστει</wf>
+            </w>
+            <w id="AF:IgMag.w367">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w368">
+                <wf>ἠγάπησα</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w369">
+                <wf>παραινῶ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w370">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w371">
+                <wf>ὁμονοίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w372">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w373">
+                <wf>σπουδάζετε</wf>
+            </w>
+            <w id="AF:IgMag.w374">
+                <wf>πάντα</wf>
+            </w>
+            <w id="AF:IgMag.w375">
+                <wf>πράσσειν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w376">
+                <wf>προκαθημένου</wf>
+            </w>
+            <w id="AF:IgMag.w377">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w378">
+                <wf>ἐπισκόπου</wf>
+            </w>
+            <w id="AF:IgMag.w379">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w380">
+                <wf>τόπον</wf>
+            </w>
+            <w id="AF:IgMag.w381">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w382">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w383">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w384">
+                <wf>πρεσβυτέρων</wf>
+            </w>
+            <w id="AF:IgMag.w385">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w386">
+                <wf>τόπον</wf>
+            </w>
+            <w id="AF:IgMag.w387">
+                <wf>συνεδρίου</wf>
+            </w>
+            <w id="AF:IgMag.w388">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w389">
+                <wf>ἀποστόλων</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w390">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w391">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w392">
+                <wf>διακόνων</wf>
+            </w>
+            <w id="AF:IgMag.w393">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w394">
+                <wf>ἐμοὶ</wf>
+            </w>
+            <w id="AF:IgMag.w395">
+                <wf>γλυκυτάτων</wf>
+            </w>
+            <w id="AF:IgMag.w396">
+                <wf>πεπιστευμένων</wf>
+            </w>
+            <w id="AF:IgMag.w397">
+                <wf>διακονίαν</wf>
+            </w>
+            <w id="AF:IgMag.w398">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w399">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w400">
+                <wf>ὃς</wf>
+            </w>
+            <w id="AF:IgMag.w401">
+                <wf>πρὸ</wf>
+            </w>
+            <w id="AF:IgMag.w402">
+                <wf>αἰώνων</wf>
+            </w>
+            <w id="AF:IgMag.w403">
+                <wf>παρὰ</wf>
+            </w>
+            <w id="AF:IgMag.w404">
+                <wf>πατρὶ</wf>
+            </w>
+            <w id="AF:IgMag.w405">
+                <wf>ἦν</wf>
+            </w>
+            <w id="AF:IgMag.w406">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w407">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w408">
+                <wf>τέλει</wf>
+            </w>
+            <w id="AF:IgMag.w409">
+                <wf>ἐφάνη</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w410">
+                <wf>πάντες</wf>
+            </w>
+            <w id="AF:IgMag.w411">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w412">
+                <wf>ὁμοήθείαν</wf>
+            </w>
+            <w id="AF:IgMag.w413">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w414">
+                <wf>λαβόντες</wf>
+            </w>
+            <w id="AF:IgMag.w415">
+                <wf>ἐντρέπεσθε</wf>
+            </w>
+            <w id="AF:IgMag.w416">
+                <wf>ἀλληλους</wf>
+            </w>
+            <w id="AF:IgMag.w417">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w418">
+                <wf>μηδεὶς</wf>
+            </w>
+            <w id="AF:IgMag.w419">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w420">
+                <wf>σάρκα</wf>
+            </w>
+            <w id="AF:IgMag.w421">
+                <wf>βλεπέτω</wf>
+            </w>
+            <w id="AF:IgMag.w422">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w423">
+                <wf>πλησίον</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w424">
+                <wf>ἀλλ’</wf>
+            </w>
+            <w id="AF:IgMag.w425">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w426">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w427">
+                <wf>Χριστῷ</wf>
+            </w>
+            <w id="AF:IgMag.w428">
+                <wf>ἀλληλους</wf>
+            </w>
+            <w id="AF:IgMag.w429">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w430">
+                <wf>παντὸς</wf>
+            </w>
+            <w id="AF:IgMag.w431">
+                <wf>ἀγαπᾶτε</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w432">
+                <wf>μηδὲν</wf>
+            </w>
+            <w id="AF:IgMag.w433">
+                <wf>ἔστω</wf>
+            </w>
+            <w id="AF:IgMag.w434">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w435">
+                <wf>ὑμῖν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w436">
+                <wf>ὃ</wf>
+            </w>
+            <w id="AF:IgMag.w437">
+                <wf>δυνήσεται</wf>
+            </w>
+            <w id="AF:IgMag.w438">
+                <wf>ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgMag.w439">
+                <wf>μερίσαι</wf>
+            </w>
+            <w id="AF:IgMag.w440">
+                <wf>ἀλλ’</wf>
+            </w>
+            <w id="AF:IgMag.w441">
+                <wf>ἑνώθητε</wf>
+            </w>
+            <w id="AF:IgMag.w442">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w443">
+                <wf>ἐπισκόπῳ</wf>
+            </w>
+            <w id="AF:IgMag.w444">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w445">
+                <wf>τοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w446">
+                <wf>προκαθημένοις</wf>
+            </w>
+            <w id="AF:IgMag.w447">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w448">
+                <wf>τύπον</wf>
+            </w>
+            <w id="AF:IgMag.w449">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w450">
+                <wf>διδαχὴν</wf>
+            </w>
+            <w id="AF:IgMag.w451">
+                <wf>ἀφθαρσίας</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="7">
+        <verse num="1">
+            <w id="AF:IgMag.w452">
+                <wf>Ὥσπερ</wf>
+            </w>
+            <w id="AF:IgMag.w453">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w454">
+                <wf>ὁ</wf>
+            </w>
+            <w id="AF:IgMag.w455">
+                <wf>κύριος</wf>
+            </w>
+            <w id="AF:IgMag.w456">
+                <wf>ἄνευ</wf>
+            </w>
+            <w id="AF:IgMag.w457">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w458">
+                <wf>πατρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w459">
+                <wf>οὐδὲν</wf>
+            </w>
+            <w id="AF:IgMag.w460">
+                <wf>ἐποίησεν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w461">
+                <wf>ἡνωμένος</wf>
+            </w>
+            <w id="AF:IgMag.w462">
+                <wf>ὤν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w463">
+                <wf>οὔτε</wf>
+            </w>
+            <w id="AF:IgMag.w464">
+                <wf>δι’</wf>
+            </w>
+            <w id="AF:IgMag.w465">
+                <wf>ἑαυτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w466">
+                <wf>οὔτε</wf>
+            </w>
+            <w id="AF:IgMag.w467">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w468">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w469">
+                <wf>ἀποστόλων</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w470">
+                <wf>οὕτως</wf>
+            </w>
+            <w id="AF:IgMag.w471">
+                <wf>μηδὲ</wf>
+            </w>
+            <w id="AF:IgMag.w472">
+                <wf>ὑμεῖς</wf>
+            </w>
+            <w id="AF:IgMag.w473">
+                <wf>ἄνευ</wf>
+            </w>
+            <w id="AF:IgMag.w474">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w475">
+                <wf>ἐπισπόπου</wf>
+            </w>
+            <w id="AF:IgMag.w476">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w477">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w478">
+                <wf>πρεσβυτέρων</wf>
+            </w>
+            <w id="AF:IgMag.w479">
+                <wf>μηδὲν</wf>
+            </w>
+            <w id="AF:IgMag.w480">
+                <wf>πράσσετε</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w481">
+                <wf>μηδὲ</wf>
+            </w>
+            <w id="AF:IgMag.w482">
+                <wf>πειράσητε</wf>
+            </w>
+            <w id="AF:IgMag.w483">
+                <wf>εὔλογόν</wf>
+            </w>
+            <w id="AF:IgMag.w484">
+                <wf>τι</wf>
+            </w>
+            <w id="AF:IgMag.w485">
+                <wf>φαίνεσθαι</wf>
+            </w>
+            <w id="AF:IgMag.w486">
+                <wf>ἰδίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w487">
+                <wf>ὑμῖν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w488">
+                <wf>νοῦς</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w489">
+                <wf>μία</wf>
+            </w>
+            <w id="AF:IgMag.w490">
+                <wf>ἐλπὶς</wf>
+            </w>
+            <w id="AF:IgMag.w491">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w492">
+                <wf>ἀγάπῃ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w493">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w494">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w495">
+                <wf>χαρᾷ</wf>
+            </w>
+            <w id="AF:IgMag.w496">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w497">
+                <wf>ἀμώμῳ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w498">
+                <wf>ὅ</wf>
+            </w>
+            <w id="AF:IgMag.w499">
+                <wf>ἐστιν</wf>
+            </w>
+            <w id="AF:IgMag.w500">
+                <wf>Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgMag.w501">
+                <wf>Χριστός</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w502">
+                <wf>οὗ</wf>
+            </w>
+            <w id="AF:IgMag.w503">
+                <wf>ἄμεινον</wf>
+            </w>
+            <w id="AF:IgMag.w504">
+                <wf>οὐδέν</wf>
+            </w>
+            <w id="AF:IgMag.w505">
+                <wf>ἐστιν</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w506">
+                <wf>πάντες</wf>
+            </w>
+            <w id="AF:IgMag.w507">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w508">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w509">
+                <wf>ἕνα</wf>
+            </w>
+            <w id="AF:IgMag.w510">
+                <wf>ναὸν</wf>
+            </w>
+            <w id="AF:IgMag.w511">
+                <wf>συντρέχετε</wf>
+            </w>
+            <w id="AF:IgMag.w512">
+                <wf>θεοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w513">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w514">
+                <wf>ἐπὶ</wf>
+            </w>
+            <w id="AF:IgMag.w515">
+                <wf>ἓν</wf>
+            </w>
+            <w id="AF:IgMag.w516">
+                <wf>θυσιαστήριον</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w517">
+                <wf>ἐπὶ</wf>
+            </w>
+            <w id="AF:IgMag.w518">
+                <wf>ἕνα</wf>
+            </w>
+            <w id="AF:IgMag.w519">
+                <wf>Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgMag.w520">
+                <wf>Χριστόν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w521">
+                <wf>τὸν</wf>
+            </w>
+            <w id="AF:IgMag.w522">
+                <wf>ἀφ’</wf>
+            </w>
+            <w id="AF:IgMag.w523">
+                <wf>ἑνὸς</wf>
+            </w>
+            <w id="AF:IgMag.w524">
+                <wf>πατρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w525">
+                <wf>προελθόντα</wf>
+            </w>
+            <w id="AF:IgMag.w526">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w527">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w528">
+                <wf>ἕνα</wf>
+            </w>
+            <w id="AF:IgMag.w529">
+                <wf>ὄντα</wf>
+            </w>
+            <w id="AF:IgMag.w530">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w531">
+                <wf>χωρησαντα</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="8">
+        <verse num="1">
+            <w id="AF:IgMag.w532">
+                <wf>Μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w533">
+                <wf>πλανᾶσθε</wf>
+            </w>
+            <w id="AF:IgMag.w534">
+                <wf>ταῖς</wf>
+            </w>
+            <w id="AF:IgMag.w535">
+                <wf>ἑτεροδοξίαις</wf>
+            </w>
+            <w id="AF:IgMag.w536">
+                <wf>μηδὲ</wf>
+            </w>
+            <w id="AF:IgMag.w537">
+                <wf>μυθεύμασιν</wf>
+            </w>
+            <w id="AF:IgMag.w538">
+                <wf>τοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w539">
+                <wf>παλαιοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w540">
+                <wf>ἀνωφελέσιν</wf>
+            </w>
+            <w id="AF:IgMag.w541">
+                <wf>οὖσιν</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w542">
+                <wf>εἰ</wf>
+            </w>
+            <w id="AF:IgMag.w543">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w544">
+                <wf>μέχρι</wf>
+            </w>
+            <w id="AF:IgMag.w545">
+                <wf>νῦν</wf>
+            </w>
+            <w id="AF:IgMag.w546">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w547">
+                <wf>Ἰουδαϊσμὸν</wf>
+            </w>
+            <w id="AF:IgMag.w548">
+                <wf>ζῶμεν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w549">
+                <wf>ὁμολογοῦμεν</wf>
+            </w>
+            <w id="AF:IgMag.w550">
+                <wf>χάριν</wf>
+            </w>
+            <w id="AF:IgMag.w551">
+                <wf>μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w552">
+                <wf>εἰληφέναι</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w553">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w554">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w555">
+                <wf>θειότατοι</wf>
+            </w>
+            <w id="AF:IgMag.w556">
+                <wf>προφῆται</wf>
+            </w>
+            <w id="AF:IgMag.w557">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w558">
+                <wf>Χριστὸν</wf>
+            </w>
+            <w id="AF:IgMag.w559">
+                <wf>Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgMag.w560">
+                <wf>ἔζησαν</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w561">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w562">
+                <wf>τοῦτο</wf>
+            </w>
+            <w id="AF:IgMag.w563">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w564">
+                <wf>ἐδιώχθησαν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w565">
+                <wf>ἐνπνεόμενοι</wf>
+            </w>
+            <w id="AF:IgMag.w566">
+                <wf>ὑπὸ</wf>
+            </w>
+            <w id="AF:IgMag.w567">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w568">
+                <wf>χάριτος</wf>
+            </w>
+            <w id="AF:IgMag.w569">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w570">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w571">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w572">
+                <wf>πληροφρηθῆναι</wf>
+            </w>
+            <w id="AF:IgMag.w573">
+                <wf>τοὺς</wf>
+            </w>
+            <w id="AF:IgMag.w574">
+                <wf>ἀπειθοῦντας</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w575">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w576">
+                <wf>εἶς</wf>
+            </w>
+            <w id="AF:IgMag.w577">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w578">
+                <wf>υἱοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w579">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w580">
+                <wf>ὅς</wf>
+            </w>
+            <w id="AF:IgMag.w581">
+                <wf>ἐστιν</wf>
+            </w>
+            <w id="AF:IgMag.w582">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w583">
+                <wf>λόγος</wf>
+            </w>
+            <w id="AF:IgMag.w584">
+                <wf>ἀπὸ</wf>
+            </w>
+            <w id="AF:IgMag.w585">
+                <wf>σιγῆς</wf>
+            </w>
+            <w id="AF:IgMag.w586">
+                <wf>προελθών</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w587">
+                <wf>ὃς</wf>
+            </w>
+            <w id="AF:IgMag.w588">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w589">
+                <wf>πάντα</wf>
+            </w>
+            <w id="AF:IgMag.w590">
+                <wf>εὐηρέστησεν</wf>
+            </w>
+            <w id="AF:IgMag.w591">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w592">
+                <wf>πέμψαντι</wf>
+            </w>
+            <w id="AF:IgMag.w593">
+                <wf>αὐτόν</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="9">
+        <verse num="1">
+            <w id="AF:IgMag.w594">
+                <wf>Εἰ</wf>
+            </w>
+            <w id="AF:IgMag.w595">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w596">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w597">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w598">
+                <wf>παλαιοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w599">
+                <wf>πράγμασιν</wf>
+            </w>
+            <w id="AF:IgMag.w600">
+                <wf>ἀναστρα</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w601">
+                <wf>φέντες</wf>
+            </w>
+            <w id="AF:IgMag.w602">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w603">
+                <wf>καινότητα</wf>
+            </w>
+            <w id="AF:IgMag.w604">
+                <wf>ἐλπίδος</wf>
+            </w>
+            <w id="AF:IgMag.w605">
+                <wf>ἦλθον</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w606">
+                <wf>μηκέτι</wf>
+            </w>
+            <w id="AF:IgMag.w607">
+                <wf>σαββατίζοντες</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w608">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w609">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w610">
+                <wf>κυριακὴν</wf>
+            </w>
+            <w id="AF:IgMag.w611">
+                <wf>ζῶντες</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w612">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w613">
+                <wf>ᾗ</wf>
+            </w>
+            <w id="AF:IgMag.w614">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w615">
+                <wf>ἡ</wf>
+            </w>
+            <w id="AF:IgMag.w616">
+                <wf>ζωὴ</wf>
+            </w>
+            <w id="AF:IgMag.w617">
+                <wf>ἡμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w618">
+                <wf>ἀνέτειλεν</wf>
+            </w>
+            <w id="AF:IgMag.w619">
+                <wf>δι’</wf>
+            </w>
+            <w id="AF:IgMag.w620">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w621">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w622">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w623">
+                <wf>θανάτου</wf>
+            </w>
+            <w id="AF:IgMag.w624">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w625">
+                <wf>ὅν</wf>
+            </w>
+            <w id="AF:IgMag.w626">
+                <wf>τινες</wf>
+            </w>
+            <w id="AF:IgMag.w627">
+                <wf>ἀρνοῦνται</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w628">
+                <wf>δι’</wf>
+            </w>
+            <w id="AF:IgMag.w629">
+                <wf>οὗ</wf>
+            </w>
+            <w id="AF:IgMag.w630">
+                <wf>μυστηρίου</wf>
+            </w>
+            <w id="AF:IgMag.w631">
+                <wf>ἐλάβομεν</wf>
+            </w>
+            <w id="AF:IgMag.w632">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w633">
+                <wf>πιστεύειν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w634">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w635">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w636">
+                <wf>τοῦτο</wf>
+            </w>
+            <w id="AF:IgMag.w637">
+                <wf>ὑπομένομεν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w638">
+                <wf>ἵνα</wf>
+            </w>
+            <w id="AF:IgMag.w639">
+                <wf>εὑρεθῶμεν</wf>
+            </w>
+            <w id="AF:IgMag.w640">
+                <wf>μαθηταὶ</wf>
+            </w>
+            <w id="AF:IgMag.w641">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w642">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w643">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w644">
+                <wf>μόνου</wf>
+            </w>
+            <w id="AF:IgMag.w645">
+                <wf>διδασκάλου</wf>
+            </w>
+            <w id="AF:IgMag.w646">
+                <wf>ἡμῶν</wf>
+            </w>
+            <punc>·</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w647">
+                <wf>πῶς</wf>
+            </w>
+            <w id="AF:IgMag.w648">
+                <wf>ἡμεῖς</wf>
+            </w>
+            <w id="AF:IgMag.w649">
+                <wf>δυναησόμεθα</wf>
+            </w>
+            <w id="AF:IgMag.w650">
+                <wf>δῆσαι</wf>
+            </w>
+            <w id="AF:IgMag.w651">
+                <wf>χωρὶς</wf>
+            </w>
+            <w id="AF:IgMag.w652">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w653">
+                <wf>οὗ</wf>
+            </w>
+            <w id="AF:IgMag.w654">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w655">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w656">
+                <wf>προφῆται</wf>
+            </w>
+            <w id="AF:IgMag.w657">
+                <wf>μαθηταὶ</wf>
+            </w>
+            <w id="AF:IgMag.w658">
+                <wf>ὄντες</wf>
+            </w>
+            <w id="AF:IgMag.w659">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w660">
+                <wf>πνεύματι</wf>
+            </w>
+            <w id="AF:IgMag.w661">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w662">
+                <wf>διδάσκαλον</wf>
+            </w>
+            <w id="AF:IgMag.w663">
+                <wf>αὐτὸν</wf>
+            </w>
+            <w id="AF:IgMag.w664">
+                <wf>προσεδόκων;</wf>
+            </w>
+            <w id="AF:IgMag.w665">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w666">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w667">
+                <wf>τοῦτο</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w668">
+                <wf>ὃν</wf>
+            </w>
+            <w id="AF:IgMag.w669">
+                <wf>δικαίως</wf>
+            </w>
+            <w id="AF:IgMag.w670">
+                <wf>ἀνέμενον</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w671">
+                <wf>παρὼν</wf>
+            </w>
+            <w id="AF:IgMag.w672">
+                <wf>ἤγειρεν</wf>
+            </w>
+            <w id="AF:IgMag.w673">
+                <wf>αὐτοὺς</wf>
+            </w>
+            <w id="AF:IgMag.w674">
+                <wf>ἐκ</wf>
+            </w>
+            <w id="AF:IgMag.w675">
+                <wf>νεκρῶν</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="10">
+        <verse num="1">
+            <w id="AF:IgMag.w676">
+                <wf>Μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w677">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w678">
+                <wf>ἀναισθητῶμεν</wf>
+            </w>
+            <w id="AF:IgMag.w679">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w680">
+                <wf>ψρηστότητος</wf>
+            </w>
+            <w id="AF:IgMag.w681">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w682">
+                <wf>ἐὰν</wf>
+            </w>
+            <w id="AF:IgMag.w683">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w684">
+                <wf>ἡμᾶς</wf>
+            </w>
+            <w id="AF:IgMag.w685">
+                <wf>μιμήσηται</wf>
+            </w>
+            <w id="AF:IgMag.w686">
+                <wf>καθὰ</wf>
+            </w>
+            <w id="AF:IgMag.w687">
+                <wf>πράσσομεν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w688">
+                <wf>οὐκέτι</wf>
+            </w>
+            <w id="AF:IgMag.w689">
+                <wf>ἐσμέν</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w690">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w691">
+                <wf>τοῦτο</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w692">
+                <wf>μαθηταὶ</wf>
+            </w>
+            <w id="AF:IgMag.w693">
+                <wf>αὐτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w694">
+                <wf>γενόμενοι</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w695">
+                <wf>μάθωμεν</wf>
+            </w>
+            <w id="AF:IgMag.w696">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w697">
+                <wf>Χριστιανισμὸν</wf>
+            </w>
+            <w id="AF:IgMag.w698">
+                <wf>ζῆν</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w699">
+                <wf>ὃς</wf>
+            </w>
+            <w id="AF:IgMag.w700">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w701">
+                <wf>ἄλλῳ</wf>
+            </w>
+            <w id="AF:IgMag.w702">
+                <wf>ὀνόματι</wf>
+            </w>
+            <w id="AF:IgMag.w703">
+                <wf>καλεῖται</wf>
+            </w>
+            <w id="AF:IgMag.w704">
+                <wf>πλέον</wf>
+            </w>
+            <w id="AF:IgMag.w705">
+                <wf>τούτου</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w706">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w707">
+                <wf>ἔστιν</wf>
+            </w>
+            <w id="AF:IgMag.w708">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w709">
+                <wf>θεοῦ</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w710">
+                <wf>ὑπέρθεσθε</wf>
+            </w>
+            <w id="AF:IgMag.w711">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w712">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w713">
+                <wf>κακὴν</wf>
+            </w>
+            <w id="AF:IgMag.w714">
+                <wf>ζύμην</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w715">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w716">
+                <wf>παλαιωθεῖσαν</wf>
+            </w>
+            <w id="AF:IgMag.w717">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w718">
+                <wf>ἐνοξίσασαν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w719">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w720">
+                <wf>Χριστός</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w721">
+                <wf>ἁλίσθητε</wf>
+            </w>
+            <w id="AF:IgMag.w722">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w723">
+                <wf>αὐτῷ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w724">
+                <wf>ἵνα</wf>
+            </w>
+            <w id="AF:IgMag.w725">
+                <wf>μὴ</wf>
+            </w>
+            <w id="AF:IgMag.w726">
+                <wf>διαφθαρῇ</wf>
+            </w>
+            <w id="AF:IgMag.w727">
+                <wf>τις</wf>
+            </w>
+            <w id="AF:IgMag.w728">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w729">
+                <wf>ὑμῖν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w730">
+                <wf>ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgMag.w731">
+                <wf>ἀπὸ</wf>
+            </w>
+            <w id="AF:IgMag.w732">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w733">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w734">
+                <wf>ὀσμῆς</wf>
+            </w>
+            <w id="AF:IgMag.w735">
+                <wf>ἐλεγχθήσεσθε</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="3">
+            <w id="AF:IgMag.w736">
+                <wf>ἄτοπόν</wf>
+            </w>
+            <w id="AF:IgMag.w737">
+                <wf>ἐστιν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w738">
+                <wf>Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgMag.w739">
+                <wf>Χριστὸν</wf>
+            </w>
+            <w id="AF:IgMag.w740">
+                <wf>λαλεῖν</wf>
+            </w>
+            <w id="AF:IgMag.w741">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w742">
+                <wf>ἰουδαΐζειν</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w743">
+                <wf>ὁ</wf>
+            </w>
+            <w id="AF:IgMag.w744">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w745">
+                <wf>χριστιανισμὸς</wf>
+            </w>
+            <w id="AF:IgMag.w746">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w747">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w748">
+                <wf>Χριστιανισμόν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w749">
+                <wf>ᾧ</wf>
+            </w>
+            <w id="AF:IgMag.w750">
+                <wf>πᾶσα</wf>
+            </w>
+            <w id="AF:IgMag.w751">
+                <wf>γλῶσσα</wf>
+            </w>
+            <w id="AF:IgMag.w752">
+                <wf>πιστεύσασα</wf>
+            </w>
+            <w id="AF:IgMag.w753">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w754">
+                <wf>θεὸν</wf>
+            </w>
+            <w id="AF:IgMag.w755">
+                <wf>συνήχθη</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="11">
+        <verse num="1">
+            <w id="AF:IgMag.w756">
+                <wf>Ταῦτα</wf>
+            </w>
+            <w id="AF:IgMag.w757">
+                <wf>δέ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w758">
+                <wf>ἀγαπητοί</wf>
+            </w>
+            <w id="AF:IgMag.w759">
+                <wf>μου</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w760">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w761">
+                <wf>ἐπεὶ</wf>
+            </w>
+            <w id="AF:IgMag.w762">
+                <wf>ἔγνων</wf>
+            </w>
+            <w id="AF:IgMag.w763">
+                <wf>τινὰς</wf>
+            </w>
+            <w id="AF:IgMag.w764">
+                <wf>ἐξ</wf>
+            </w>
+            <w id="AF:IgMag.w765">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w766">
+                <wf>οὕτως</wf>
+            </w>
+            <w id="AF:IgMag.w767">
+                <wf>ἔχοντας</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w768">
+                <wf>ἀλλ’</wf>
+            </w>
+            <w id="AF:IgMag.w769">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w770">
+                <wf>μικρότερος</wf>
+            </w>
+            <w id="AF:IgMag.w771">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w772">
+                <wf>ἄγκιστρα</wf>
+            </w>
+            <w id="AF:IgMag.w773">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w774">
+                <wf>κενοδοξίας</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w775">
+                <wf>ἀλλὰ</wf>
+            </w>
+            <w id="AF:IgMag.w776">
+                <wf>πεπληροφορῆσθαι</wf>
+            </w>
+            <w id="AF:IgMag.w777">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w778">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w779">
+                <wf>γεννήσει</wf>
+            </w>
+            <w id="AF:IgMag.w780">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w781">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w782">
+                <wf>πάθει</wf>
+            </w>
+            <w id="AF:IgMag.w783">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w784">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w785">
+                <wf>ἀναστάσει</wf>
+            </w>
+            <w id="AF:IgMag.w786">
+                <wf>τῇ</wf>
+            </w>
+            <w id="AF:IgMag.w787">
+                <wf>γενομένῃ</wf>
+            </w>
+            <w id="AF:IgMag.w788">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w789">
+                <wf>καιρῷ</wf>
+            </w>
+            <w id="AF:IgMag.w790">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w791">
+                <wf>ἡγεμονίας</wf>
+            </w>
+            <w id="AF:IgMag.w792">
+                <wf>Ποντίου</wf>
+            </w>
+            <w id="AF:IgMag.w793">
+                <wf>Πιλάτου</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w794">
+                <wf>πραχθέντα</wf>
+            </w>
+            <w id="AF:IgMag.w795">
+                <wf>ἀληθῶς</wf>
+            </w>
+            <w id="AF:IgMag.w796">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w797">
+                <wf>βεβαίως</wf>
+            </w>
+            <w id="AF:IgMag.w798">
+                <wf>ὑπὸ</wf>
+            </w>
+            <w id="AF:IgMag.w799">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w800">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w801">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w802">
+                <wf>ἐλπίδος</wf>
+            </w>
+            <w id="AF:IgMag.w803">
+                <wf>ἡμῶν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w804">
+                <wf>ἧς</wf>
+            </w>
+            <w id="AF:IgMag.w805">
+                <wf>ἐκτραπῆναι</wf>
+            </w>
+            <w id="AF:IgMag.w806">
+                <wf>μηδενὶ</wf>
+            </w>
+            <w id="AF:IgMag.w807">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w808">
+                <wf>γένοιτο</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="12">
+        <verse num="1">
+            <w id="AF:IgMag.w809">
+                <wf>Ὀναίμην</wf>
+            </w>
+            <w id="AF:IgMag.w810">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w811">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w812">
+                <wf>πάντα</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w813">
+                <wf>ἐάνπερ</wf>
+            </w>
+            <w id="AF:IgMag.w814">
+                <wf>ἄξιος</wf>
+            </w>
+            <w id="AF:IgMag.w815">
+                <wf>ὧ</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w816">
+                <wf>εἰ</wf>
+            </w>
+            <w id="AF:IgMag.w817">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w818">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w819">
+                <wf>δέδεμαι</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w820">
+                <wf>πρὸς</wf>
+            </w>
+            <w id="AF:IgMag.w821">
+                <wf>ἕνα</wf>
+            </w>
+            <w id="AF:IgMag.w822">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w823">
+                <wf>λελυμένων</wf>
+            </w>
+            <w id="AF:IgMag.w824">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w825">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w826">
+                <wf>εἰμί</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w827">
+                <wf>οἶδα</wf>
+            </w>
+            <w id="AF:IgMag.w828">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w829">
+                <wf>οὐ</wf>
+            </w>
+            <w id="AF:IgMag.w830">
+                <wf>φυσιοῦσθε</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w831">
+                <wf>Ἰησοῦν</wf>
+            </w>
+            <w id="AF:IgMag.w832">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w833">
+                <wf>Χριστὸν</wf>
+            </w>
+            <w id="AF:IgMag.w834">
+                <wf>ἔχετε</wf>
+            </w>
+            <w id="AF:IgMag.w835">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w836">
+                <wf>ἑαυτοῖς</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w837">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w838">
+                <wf>μᾶλλον</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w839">
+                <wf>ὅταν</wf>
+            </w>
+            <w id="AF:IgMag.w840">
+                <wf>ἐπαινῶ</wf>
+            </w>
+            <w id="AF:IgMag.w841">
+                <wf>ὑμᾶς</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w842">
+                <wf>οἶδα</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w843">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w844">
+                <wf>ἐντρέπεσθε</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w845">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w846">
+                <wf>γέγραπται</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w847">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w848">
+                <wf>ὁ</wf>
+            </w>
+            <w id="AF:IgMag.w849">
+                <wf>δίκαιος</wf>
+            </w>
+            <w id="AF:IgMag.w850">
+                <wf>ἑαυτοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w851">
+                <wf>κατήγορος</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="13">
+        <verse num="1">
+            <w id="AF:IgMag.w852">
+                <wf>Σπουδάζετε</wf>
+            </w>
+            <w id="AF:IgMag.w853">
+                <wf>οὖν</wf>
+            </w>
+            <w id="AF:IgMag.w854">
+                <wf>βεβαιωθῆναι</wf>
+            </w>
+            <w id="AF:IgMag.w855">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w856">
+                <wf>τοῖς</wf>
+            </w>
+            <w id="AF:IgMag.w857">
+                <wf>δόγμασιν</wf>
+            </w>
+            <w id="AF:IgMag.w858">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w859">
+                <wf>κυρίου</wf>
+            </w>
+            <w id="AF:IgMag.w860">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w861">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w862">
+                <wf>ἀποστόλων</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w863">
+                <wf>ἵνα</wf>
+            </w>
+            <w id="AF:IgMag.w864">
+                <wf>πάντα</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w865">
+                <wf>ὅσα</wf>
+            </w>
+            <w id="AF:IgMag.w866">
+                <wf>ποιεῖτε</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w867">
+                <wf>καευοδωθητε</wf>
+            </w>
+            <w id="AF:IgMag.w868">
+                <wf>σαρκὶ</wf>
+            </w>
+            <w id="AF:IgMag.w869">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w870">
+                <wf>πενεύματι</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w871">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w872">
+                <wf>ἀρψῇ</wf>
+            </w>
+            <w id="AF:IgMag.w873">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w874">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w875">
+                <wf>τέλει</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w876">
+                <wf>μετὰ</wf>
+            </w>
+            <w id="AF:IgMag.w877">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w878">
+                <wf>ἀξιοπρεπεστάτου</wf>
+            </w>
+            <w id="AF:IgMag.w879">
+                <wf>ἐπισκόπου</wf>
+            </w>
+            <w id="AF:IgMag.w880">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w881">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w882">
+                <wf>ἀξιοπλόκου</wf>
+            </w>
+            <w id="AF:IgMag.w883">
+                <wf>πνευματικοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w884">
+                <wf>στεφάνου</wf>
+            </w>
+            <w id="AF:IgMag.w885">
+                <wf>τοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w886">
+                <wf>πρεσβυτερίου</wf>
+            </w>
+            <w id="AF:IgMag.w887">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w888">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w889">
+                <wf>τῶν</wf>
+            </w>
+            <w id="AF:IgMag.w890">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w891">
+                <wf>θεὸν</wf>
+            </w>
+            <w id="AF:IgMag.w892">
+                <wf>διακόνων</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+        <verse num="2">
+            <w id="AF:IgMag.w893">
+                <wf>ὑποτάγητε</wf>
+            </w>
+            <w id="AF:IgMag.w894">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w895">
+                <wf>ἐπισκόπῳ</wf>
+            </w>
+            <w id="AF:IgMag.w896">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w897">
+                <wf>ἀλλήλοις</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w898">
+                <wf>ὡς</wf>
+            </w>
+            <w id="AF:IgMag.w899">
+                <wf>Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgMag.w900">
+                <wf>Χριστὸς</wf>
+            </w>
+            <w id="AF:IgMag.w901">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w902">
+                <wf>πατρὶ</wf>
+            </w>
+            <w id="AF:IgMag.w903">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w904">
+                <wf>οἱ</wf>
+            </w>
+            <w id="AF:IgMag.w905">
+                <wf>ἀπόστολοι</wf>
+            </w>
+            <w id="AF:IgMag.w906">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w907">
+                <wf>Χριστῷ</wf>
+            </w>
+            <w id="AF:IgMag.w908">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w909">
+                <wf>τῷ</wf>
+            </w>
+            <w id="AF:IgMag.w910">
+                <wf>πατρὶ</wf>
+            </w>
+            <w id="AF:IgMag.w911">
+                <wf>ἵνα</wf>
+            </w>
+            <w id="AF:IgMag.w912">
+                <wf>ἕνωσις</wf>
+            </w>
+            <w id="AF:IgMag.w913">
+                <wf>ᾖ</wf>
+            </w>
+            <w id="AF:IgMag.w914">
+                <wf>σαρκική</wf>
+            </w>
+            <w id="AF:IgMag.w915">
+                <wf>τε</wf>
+            </w>
+            <w id="AF:IgMag.w916">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w917">
+                <wf>πνευματική</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="14">
+        <verse num="1">
+            <w id="AF:IgMag.w918">
+                <wf>Ἐιδώς</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w919">
+                <wf>ὅτι</wf>
+            </w>
+            <w id="AF:IgMag.w920">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w921">
+                <wf>γέμετε</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w922">
+                <wf>συντόμως</wf>
+            </w>
+            <w id="AF:IgMag.w923">
+                <wf>παρεκεπλευσα</wf>
+            </w>
+            <w id="AF:IgMag.w924">
+                <wf>ὑμᾶς</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w925">
+                <wf>μνημονεύετέ</wf>
+            </w>
+            <w id="AF:IgMag.w926">
+                <wf>μου</wf>
+            </w>
+            <w id="AF:IgMag.w927">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w928">
+                <wf>ταῖς</wf>
+            </w>
+            <w id="AF:IgMag.w929">
+                <wf>προσευχαῖς</wf>
+            </w>
+            <w id="AF:IgMag.w930">
+                <wf>ὑμῶν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w931">
+                <wf>ἵνα</wf>
+            </w>
+            <w id="AF:IgMag.w932">
+                <wf>θεοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w933">
+                <wf>ἐπιτύχω</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w934">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w935">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w936">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w937">
+                <wf>Συρίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w938">
+                <wf>ἐκκλησίας</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w939">
+                <wf>ὅθεν</wf>
+            </w>
+            <w id="AF:IgMag.w940">
+                <wf>οὐκ</wf>
+            </w>
+            <w id="AF:IgMag.w941">
+                <wf>ἄξιός</wf>
+            </w>
+            <w id="AF:IgMag.w942">
+                <wf>εἰμι</wf>
+            </w>
+            <w id="AF:IgMag.w943">
+                <wf>καλεῖσθαι</wf>
+            </w>
+            <punc>·</punc>
+            <w id="AF:IgMag.w944">
+                <wf>ἐπιδέομαι</wf>
+            </w>
+            <w id="AF:IgMag.w945">
+                <wf>γὰρ</wf>
+            </w>
+            <w id="AF:IgMag.w946">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w947">
+                <wf>ἡνωμένης</wf>
+            </w>
+            <w id="AF:IgMag.w948">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w949">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w950">
+                <wf>θεῷ</wf>
+            </w>
+            <w id="AF:IgMag.w951">
+                <wf>προσευχῆς</wf>
+            </w>
+            <w id="AF:IgMag.w952">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w953">
+                <wf>ἀγάπης</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w954">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w955">
+                <wf>τὸ</wf>
+            </w>
+            <w id="AF:IgMag.w956">
+                <wf>ἀξιωθῆναι</wf>
+            </w>
+            <w id="AF:IgMag.w957">
+                <wf>τὴν</wf>
+            </w>
+            <w id="AF:IgMag.w958">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w959">
+                <wf>Συρίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w960">
+                <wf>ἐκκλησίαν</wf>
+            </w>
+            <w id="AF:IgMag.w961">
+                <wf>διὰ</wf>
+            </w>
+            <w id="AF:IgMag.w962">
+                <wf>τῆς</wf>
+            </w>
+            <w id="AF:IgMag.w963">
+                <wf>ἐκκλησίας</wf>
+            </w>
+            <w id="AF:IgMag.w964">
+                <wf>ὑμῶν</wf>
+            </w>
+            <w id="AF:IgMag.w965">
+                <wf>δροσισθῆναι</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+    <chapter num="15">
+        <verse num="1">
+            <w id="AF:IgMag.w966">
+                <wf>Ἀσπάζονται</wf>
+            </w>
+            <w id="AF:IgMag.w967">
+                <wf>ὑμᾶς</wf>
+            </w>
+            <w id="AF:IgMag.w968">
+                <wf>Ἐφέσιοι</wf>
+            </w>
+            <w id="AF:IgMag.w969">
+                <wf>ἀπὸ</wf>
+            </w>
+            <w id="AF:IgMag.w970">
+                <wf>Σμύρνης</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w971">
+                <wf>ὅθεν</wf>
+            </w>
+            <w id="AF:IgMag.w972">
+                <wf>και</wf>
+            </w>
+            <w id="AF:IgMag.w973">
+                <wf>γράφω</wf>
+            </w>
+            <w id="AF:IgMag.w974">
+                <wf>ὑμῖν</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w975">
+                <wf>παρόντες</wf>
+            </w>
+            <w id="AF:IgMag.w976">
+                <wf>εἰς</wf>
+            </w>
+            <w id="AF:IgMag.w977">
+                <wf>δόξαν</wf>
+            </w>
+            <w id="AF:IgMag.w978">
+                <wf>θεοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w979">
+                <wf>ὥσπερ</wf>
+            </w>
+            <w id="AF:IgMag.w980">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w981">
+                <wf>ὑμεῖσ</wf>
+            </w>
+            <w id="AF:IgMag.w982">
+                <wf>οἳ</wf>
+            </w>
+            <w id="AF:IgMag.w983">
+                <wf>κατὰ</wf>
+            </w>
+            <w id="AF:IgMag.w984">
+                <wf>π́πάντα</wf>
+            </w>
+            <w id="AF:IgMag.w985">
+                <wf>με</wf>
+            </w>
+            <w id="AF:IgMag.w986">
+                <wf>ἀνέπαυσαν</wf>
+            </w>
+            <w id="AF:IgMag.w987">
+                <wf>ἅμα</wf>
+            </w>
+            <w id="AF:IgMag.w988">
+                <wf>Πολυκάρπῳ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w989">
+                <wf>ἐπισκόπῳ</wf>
+            </w>
+            <w id="AF:IgMag.w990">
+                <wf>Σμυρναίων</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w991">
+                <wf>καὶ</wf>
+            </w>
+            <w id="AF:IgMag.w992">
+                <wf>αἱ</wf>
+            </w>
+            <w id="AF:IgMag.w993">
+                <wf>λοιπαὶ</wf>
+            </w>
+            <w id="AF:IgMag.w994">
+                <wf>δὲ</wf>
+            </w>
+            <w id="AF:IgMag.w995">
+                <wf>ἐκκλησίαι</wf>
+            </w>
+            <w id="AF:IgMag.w996">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w997">
+                <wf>τιμῇ</wf>
+            </w>
+            <w id="AF:IgMag.w998">
+                <wf>Ἰησοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w999">
+                <wf>Χριστοῦ</wf>
+            </w>
+            <w id="AF:IgMag.w1000">
+                <wf>ἀσπάσονται</wf>
+            </w>
+            <w id="AF:IgMag.w1001">
+                <wf>ὑμᾶς</wf>
+            </w>
+            <punc>.</punc>
+            <w id="AF:IgMag.w1002">
+                <wf>ἔρρωσθε</wf>
+            </w>
+            <w id="AF:IgMag.w1003">
+                <wf>ἐν</wf>
+            </w>
+            <w id="AF:IgMag.w1004">
+                <wf>ὁμονοίᾳ</wf>
+            </w>
+            <w id="AF:IgMag.w1005">
+                <wf>θεοῦ</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w1006">
+                <wf>κεκτημένοι</wf>
+            </w>
+            <w id="AF:IgMag.w1007">
+                <wf>ἀδιάκριτον</wf>
+            </w>
+            <w id="AF:IgMag.w1008">
+                <wf>πνεῦμα</wf>
+            </w>
+            <punc>,</punc>
+            <w id="AF:IgMag.w1009">
+                <wf>ὅς</wf>
+            </w>
+            <w id="AF:IgMag.w1010">
+                <wf>ἐστιν</wf>
+            </w>
+            <w id="AF:IgMag.w1011">
+                <wf>Ἰησοῦς</wf>
+            </w>
+            <w id="AF:IgMag.w1012">
+                <wf>Χριστός</wf>
+            </w>
+            <punc>.</punc>
+        </verse>
+    </chapter>
+</book>
